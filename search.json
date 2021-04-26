@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "The subjective",
+      "description": "From art to opinions on mundane matters!",
+      "author": [],
+      "contents": "\nI am a PhD student at Saarland University studying the cognitive processes involved in human language comprehension.Click here for my academic work.\n\n\n\n\n\n\n\nThis blog is the place where I pour my unsettled and provisional opinions and thoughts without any constraint on the breadth of topic. It is also a space to post some artwork: poetry and generative art.\n\n\n\n",
+      "last_modified": "2021-04-26T16:30:17+05:45"
+    },
+    {
+      "path": "art.html",
+      "title": "Art",
+      "author": [],
+      "contents": "\n\n\n\n\nbilbaoStained: Scattered, yet connected\n\n\n\n\n\nswirlyBag\n\n\n\n\n\naloneTogether: The assymetric love\n\n\n\n\n\nUnwoven swirls\n\n\n\n\n\n………\n\n\n\n\n\nMosaic heart: pierced and drained\n\n\n\n\n",
+      "last_modified": "2021-04-26T19:00:08+05:45"
+    },
+    {
+      "path": "index.html",
+      "title": "The subjective",
+      "author": [],
+      "contents": "\n\n\n\n\n",
+      "last_modified": "2021-04-26T16:32:39+05:45"
+    },
+    {
+      "path": "poetry.html",
+      "title": "Poetry",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-04-26T16:32:18+05:45"
+    }
+  ],
+  "collections": ["posts/posts.json", "poetry/poetry.json"]
+}
