@@ -3,10 +3,10 @@
     {
       "path": "about.html",
       "title": "The subjective",
-      "description": "From art to opinions on mundane matters!",
+      "description": "From art to opinions on mundane matters…",
       "author": [],
-      "contents": "\nThis blog is the place where I pour my unsettled and provisional opinions, thoughts, and experiences. It is a space to post some artwork: poetry and generative art, and ocassionally some piece of music.\n\n\n\n\n\n\n\nI am a PhD student at Saarland University studying the cognitive processes involved in human language comprehension.Click here to see my academic work.\n\n\n\n",
-      "last_modified": "2021-04-27T06:13:03+05:45"
+      "contents": "\nIn this blog, Pratik Bhandari pours his provisional opinions, thoughts, and experiences. It is also a space for his poetry and art, and ocassionally some piece of music.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nacademic portfolio google scholar researchgate twitter(@prbhx) github\n\n\n\n",
+      "last_modified": "2021-04-27T15:18:55+05:45"
     },
     {
       "path": "academics.html",
@@ -20,21 +20,21 @@
       "title": "Art",
       "author": [],
       "contents": "\n\n\n\n\nbilbaoStained: Scattered, yet connected\n\n\n\n\n\nswirlyBag\n\n\n\n\n\naloneTogether: The assymetric love\n\n\n\n\n\nUnwoven swirls\n\n\n\n\n\n………………………………………\n\n\n\n\n\nMosaic heart: pierced and drained\n\n\n\n\n",
-      "last_modified": "2021-04-27T06:13:16+05:45"
+      "last_modified": "2021-04-27T15:21:45+05:45"
     },
     {
       "path": "blogs.html",
       "title": "The subjective",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-04-27T07:02:38+05:45"
+      "last_modified": "2021-04-27T15:21:37+05:45"
     },
     {
       "path": "index.html",
       "title": "Poetry",
       "author": [],
       "contents": "\n\n\n\n\n",
-      "last_modified": "2021-04-27T07:01:11+05:45"
+      "last_modified": "2021-04-27T15:21:54+05:45"
     }
   ],
   "collections": ["posts/posts.json", "blogs/blogs.json"]
