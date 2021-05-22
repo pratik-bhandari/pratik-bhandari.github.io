@@ -5,36 +5,36 @@
       "title": "The subjective",
       "description": "From art to opinions on mundane matters…",
       "author": [],
-      "contents": "\nIn this blog, Pratik Bhandari pours his provisional opinions, thoughts, and experiences. It is also a space for his poetry and art, and ocassionally some piece of music.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nacademic portfolio google scholar researchgate twitter(@prbhx) github\n\n\n\n",
-      "last_modified": "2021-04-27T15:18:55+05:45"
+      "contents": "\nIn this blog, Pratik Bhandari pours his provisional opinions, thoughts, and experiences. It is also a space for his poetry and art, and ocassionally some piece of music.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nacademic portfolio google scholar researchgate twitter(@prbhx) github linkedin\n\n\n\n",
+      "last_modified": "2021-05-22T03:16:50+02:00"
     },
     {
       "path": "academics.html",
       "title": "Academics",
       "author": [],
       "contents": "\nAs a PhD student at Saarland University, I study cognitive processes of human lanugage comprehension. Prior to this, I’ve worked on metacognition, bilingual language processing, (un)conscious visual processing, and language-attention interplay. I was a clinical audiologist and a speech-language pathologist before entering academia.\nClick here for more about my academic and research work.\n\n\n\n",
-      "last_modified": "2021-04-27T06:14:57+05:45"
+      "last_modified": "2021-05-22T00:25:15+02:00"
     },
     {
       "path": "art.html",
       "title": "Art",
       "author": [],
-      "contents": "\n\n\n\n\nbilbaoStained: Scattered, yet connected\n\n\n\n\n\nswirlyBag\n\n\n\n\n\naloneTogether: The assymetric love\n\n\n\n\n\nUnwoven swirls\n\n\n\n\n\n………………………………………\n\n\n\n\n\nMosaic heart: pierced and drained\n\n\n\n\n",
-      "last_modified": "2021-04-27T15:21:45+05:45"
-    },
-    {
-      "path": "blogs.html",
-      "title": "The subjective",
-      "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-04-27T15:21:37+05:45"
+      "contents": "\n\n\n\n\nbilbaoStained: Scattered, yet connected\n\n\n\n\n\nswirlyBag\n\n\n\n\n\naloneTogether: The assymetric love\n\n\n\n\n\nUnwoven swirls\n\n\n\n\n\n………………………………………\n\n\n\n\n\nMosaic heart: pierced and drained\n\n\n\n\n\n\n\n",
+      "last_modified": "2021-05-22T03:18:04+02:00"
     },
     {
       "path": "index.html",
+      "title": "The subjective",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-05-22T03:10:47+02:00"
+    },
+    {
+      "path": "poetry.html",
       "title": "Poetry",
       "author": [],
-      "contents": "\n\n\n\n\n",
-      "last_modified": "2021-04-27T15:21:54+05:45"
+      "contents": "\n\n\n\n\n\n",
+      "last_modified": "2021-05-22T03:17:41+02:00"
     }
   ],
   "collections": ["posts/posts.json", "blogs/blogs.json"]
