@@ -1,5 +1,30 @@
 [
   {
+    "path": "blogs/2021-05-24-covid-anups-tweet/",
+    "title": "Help save lives in Nepal",
+    "description": "We all have a role to play",
+    "author": [
+      {
+        "name": "Pratik Bhandari",
+        "url": "https://sites.google.com/view/pratik-bhandari"
+      }
+    ],
+    "date": "2021-05-24",
+    "categories": [
+      "covid",
+      "nepal",
+      "germany",
+      "fund raising",
+      "2021"
+    ],
+    "contents": "\nWe gotta rush. Lives are at stake and our small effort can help save them!!\nAs of 23 May, in a country of 30 million people, more than 513 thousand have lost their lives to covid1. Daily deaths, active cases and daily new cases are all increasing very rapidly; everything seems out of control! Many covid-related deaths are due to the lack of oxygen supply, ventilator, critical care unit, and just hospital beds. Once a patient dies, another one gets the bed.  I can’t begin to imagine what it must be like to the patients and their family, the doctors and the nurses who must now triage who lives and who dies. What the ambulance drivers are going through when a patient is on a hold in his ambulance until a bed is available in the hospital, but in the meanwhile he gets calls from other families who need the ambulance. At the end, both the patients die with and without ambulance.\nWith its limited resources and the ongoing suicidal political games, the government is failing to deliver emergency medical supplies and vaccines. Nevertheless, our prime minister has recently pledged for help from the UK and other G7 nations2. Yesterday, the UN has appealed the international community to provide aids to Nepal to overcome this humanitarin crisis. Countris like Switzerland3 and China have sent some supplies but it is not enough. Nepalis living abroad are collecting funds to buy oxygen concentrators and oxygen cylinders and are sending them home. While the effort is rightully on oxygen supply, another important aspect of covid control is overlooked.Dr. Anup Subedee, a medical doctor and an infectious disease expert in Nepal has recently written about it on Twitter in response to questions about how people outside Nepal can help Nepalis. Below is his tweet thread.\n\nWhile all attention is on the needs of the hour –O2, ICU, ventilator, etc., let’s remember that intervention there won’t impact at all the numbers of new cases needing same things 1 week from now. (This is NOT to dissuade anyone from working on these immediate challenges.)\nThere’s too little happening in terms of public health response to the pandemic surge- test/trace/isolate & quarantine/vaccinate – the only interventions that can reduce the number of new cases in community and the number of those needing hospital beds, oxygen or ICU care.\nIt may appear we’re nearing the peak of the pandemic right now, but what the bridal on the tiger we are riding – lockdown- is let loose? When do we relax it? Since there is no system to intervene in the community, we’ll be back in square one as soon as we loosen the lockdown.\nThere’s just too much reluctance, incomprehension, sheer lack of interest on the govt’s side to work in mitigating the community spread. Outsiders like us cannot help much with contact tracing, isolation or quarantine facilities, without support from local government.\nBut, let’s think about testing. Currently the test positivity rates are around 45% nationally –> the real number of daily new cases is many times higher than the reported numbers. People are not getting tested because of lack of kits in towns and villages and border checkpoints.\nMunicipalities do collect PCR swabs, and send to NPHL which reports on them – free of cost to individuals. But the numbers are too small. (400/day in Kathmandu Metropolis last week) And noone knows that free tests are happening.\nIf we were to invest primarily in testing – buying cheap (FDA EUA/CE, meeting the govt’s requirements) antigen and PCR kits from China, handing them over to municipalities & asking for mass testing campaigns using certain protocols, many more positive cases will be identified.\nCool thing about testing: testing alone will help drive some level of contact tracing, isolation and quarantine without the state’s intervention. Once you identify someone as positive, they tend to self-isolate, try to protect dear ones, & neighbors will be more careful.\nPathway for such testing drive: Symptoms present-> antigen test. Ag test positive-> treat as COVID case. Ag test negative-> send PCR swab and isolate. Asymptomatic, exposed to someone with COVID-> PCR test after quarantine period\n  While some are working on immediate priorities like oxygen supply, others should think about how they can help to mitigate the pandemic spreading like wildfire in the community. Let’s help run these massive test campaigns that are so acutely needed in our communities  .\n\nNow the question is how can you send the test kits to Nepal? All the international flights to Nepal are closed. Only cargo flights are operational.\nThere are two options available:\nSend money directly to Nepal. Find an NGO/INGO, or a government agency who can buy the testing kits.\nBuy the kits collectively wherever you are and send them to Nepal.\nFor example, Non-Residential Nepali Association, Germany is raising funds to buy oxygen-concentrators and send them directly to Nepal in coordination with the embassies. This seems like a good model.\nWhichever options you choose, it is better to collaborate with like-minded people, i.e., those who want to save Nepali lives, and coordinate with Nepal Embassy and the embassy of the country where you reside in. I am hopeful this approach will work out. If you have other faster ways of delivery, do comment below so that we can collaborate.\nHere is one organization Health foundation Nepal which is founded and run by health workers in Nepal. You might want to talk to them for ground level information and financially support them, if nothing else can be done. There are some other organizations as well that are doing splending work in helping people.\nAnd please remember: As much as we need oxygen, we are in need of testing kits. Thank you Dr. Anup for raising this important point.\nWe gotta rush. Lives are at stake and our small effort can help save them!!\n\nData from Worldometer↩︎\nOpinion piece by Nepal’s prime minister KP Sharma Oli in the Guradian↩︎\nPress release by Swiss government↩︎\n",
+    "preview": "blogs/2021-05-24-covid-anups-tweet/covid-01.png",
+    "last_modified": "2021-05-24T02:34:14+02:00",
+    "input_file": "covid-anups-tweet.utf8.md",
+    "preview_width": 700,
+    "preview_height": 400
+  },
+  {
     "path": "blogs/2021-05-22_relaxed-rules/",
     "title": "Relaxed restrictions in Saarbrücken",
     "description": "Back to kind of normal!",
@@ -17,8 +42,8 @@
     ],
     "contents": "\nStarting this Saturday (May 22), restaurants, pubs, bars and café will be back to business in Saarbrücken. Upto 10 people are allowed to gather outdoors. This number is set to 5 for any in-house gathering. 1\nAnyway, the point is – to book a table for a weekend lunch, or an evening drink in a pub you need to get a rapid antigen test report. If the test result is negative, you are a free bird for 24 hours!Here you can find more details and book an online appointment for the test.\n\n\nEnjoy your social life responsibly 😏…until the number of cases reaches the threshold of danger leading back to restrictions.\n\nSee you somewhere in Tante Anna or Wallys Pub – my favorites.\n\n\n\n\nOr perhaps on a walk by the river 😌\n\n\n\n\nSee you around!\n\nCheck the websites of Robert Koch Institute and Saarland state government for official information, rules and regulations. The information in this page are taken from the news sources – [1] and [2].↩︎\n",
     "preview": "blogs/2021-05-22_relaxed-rules/01-sankt-johann-markt.jpeg",
-    "last_modified": "2021-05-23T22:07:17+02:00",
-    "input_file": {}
+    "last_modified": "2021-05-24T00:44:25+02:00",
+    "input_file": "relaxed-rules.utf8.md"
   },
   {
     "path": "blogs/2020-07-23-glimpsing-through-meditation/",
