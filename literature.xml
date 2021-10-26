@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>The subjective</title>
+    <link>https://pratik-bhandari.github.io/</link>
+    <atom:link href="https://pratik-bhandari.github.io/literature.xml" rel="self" type="application/rss+xml"/>
+    <description>The subjective
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Tue, 26 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>In the operating room</title>
+      <link>https://pratik-bhandari.github.io/posts/2021-10-26-operation-room</link>
+      <description/>
+      <category>english</category>
+      <category>mainz</category>
+      <category>2021</category>
+      <guid>https://pratik-bhandari.github.io/posts/2021-10-26-operation-room</guid>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nobody-s</title>
+      <link>https://pratik-bhandari.github.io/posts/2019-09-18-nobody</link>
+      <description/>
+      <category>english</category>
+      <category>saarbruecken</category>
+      <category>2019</category>
+      <guid>https://pratik-bhandari.github.io/posts/2019-09-18-nobody</guid>
+      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Strangers again</title>
+      <link>https://pratik-bhandari.github.io/posts/2018-05-21-strangers</link>
+      <description/>
+      <category>english</category>
+      <category>donostia</category>
+      <category>san sebastian</category>
+      <category>2018</category>
+      <guid>https://pratik-bhandari.github.io/posts/2018-05-21-strangers</guid>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sky divided</title>
+      <link>https://pratik-bhandari.github.io/posts/2016-10-20-sky-divided</link>
+      <description/>
+      <category>english</category>
+      <category>hyderabad</category>
+      <category>2016</category>
+      <guid>https://pratik-bhandari.github.io/posts/2016-10-20-sky-divided</guid>
+      <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>बन्द खाम</title>
+      <link>https://pratik-bhandari.github.io/posts/2015-02-10-banda-khaam</link>
+      <description/>
+      <category>nepali</category>
+      <category>kathmandu</category>
+      <category>2015</category>
+      <guid>https://pratik-bhandari.github.io/posts/2015-02-10-banda-khaam</guid>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>कैद राष्ट्रियता</title>
+      <link>https://pratik-bhandari.github.io/posts/2014-06-06-rastriyataa</link>
+      <description/>
+      <category>nepali</category>
+      <category>kathmandu</category>
+      <category>2014</category>
+      <guid>https://pratik-bhandari.github.io/posts/2014-06-06-rastriyataa</guid>
+      <pubDate>Fri, 06 Jun 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>आमा</title>
+      <link>https://pratik-bhandari.github.io/posts/2014-04-29-aama</link>
+      <description/>
+      <category>nepali</category>
+      <category>jhapa</category>
+      <category>2014</category>
+      <guid>https://pratik-bhandari.github.io/posts/2014-04-29-aama</guid>
+      <pubDate>Tue, 29 Apr 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>म त गजलकार भएँ</title>
+      <link>https://pratik-bhandari.github.io/posts/2011-07-24-gajalkar-bhaye</link>
+      <description/>
+      <category>nepali</category>
+      <category>kathmandu</category>
+      <category>2011</category>
+      <guid>https://pratik-bhandari.github.io/posts/2011-07-24-gajalkar-bhaye</guid>
+      <pubDate>Sun, 24 Jul 2011 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
