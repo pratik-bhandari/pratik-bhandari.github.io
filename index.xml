@@ -7,7 +7,18 @@
     <description>The subjective
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Mon, 06 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Bookmarking conferences</title>
+      <dc:creator>Pratik Bhandari</dc:creator>
+      <link>https://pratik-bhandari.github.io/blogs/2021-05-25-cogsci-programs</link>
+      <description>So that you don't forget</description>
+      <category>conference</category>
+      <category>2021</category>
+      <guid>https://pratik-bhandari.github.io/blogs/2021-05-25-cogsci-programs</guid>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://pratik-bhandari.github.io/blogs/2021-05-25-cogsci-programs/pratik-pickering_attlis.jpg" medium="image" type="image/jpeg"/>
+    </item>
     <item>
       <title>Why not pick your brain</title>
       <dc:creator>Pratik Bhandari</dc:creator>
@@ -20,17 +31,6 @@
       <guid>https://pratik-bhandari.github.io/blogs/2021-09-06-misc-repo-of-things</guid>
       <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
       <media:content url="https://pratik-bhandari.github.io/blogs/2021-09-06-misc-repo-of-things/hasse-powerset.png" medium="image" type="image/png" width="500" height="379"/>
-    </item>
-    <item>
-      <title>Bookmarking conferences</title>
-      <dc:creator>Pratik Bhandari</dc:creator>
-      <link>https://pratik-bhandari.github.io/blogs/2021-05-25-cogsci-programs</link>
-      <description>Programs interesting/useful to a Cog. Sci. student [Updated]</description>
-      <category>conference</category>
-      <category>2021</category>
-      <guid>https://pratik-bhandari.github.io/blogs/2021-05-25-cogsci-programs</guid>
-      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
-      <media:content url="https://pratik-bhandari.github.io/blogs/2021-05-25-cogsci-programs/pratik-pickering_attlis.jpg" medium="image" type="image/jpeg"/>
     </item>
     <item>
       <title>Help save lives in Nepal</title>
