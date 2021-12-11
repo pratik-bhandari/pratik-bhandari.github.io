@@ -10,16 +10,23 @@
       }
     ],
     "date": "2021-09-06",
-    "categories": [],
-    "contents": "\nOh, so some links brought you here. Cool.\nAs I am attending the Fifth Summer School on Statistical Methods for Linguistics and Psychology (SMLP 2021), and reading this textbook, I realized that I needed a refresher on some mathematical notations among many other things.\nI’ve put together links to some wikipedia articles that have helped me. Wanna see?\nGlosarry of mathematical symbols\nPower set\nDomain of a function\nCodomain of a function\nMaterial conditional/material implication\nPredicate (in matematical logic)\nLimit ordinal\nMore is coming. Stay tuned!\n\n\n\n",
-    "preview": {},
-    "last_modified": "2021-10-26T14:37:18+02:00",
-    "input_file": {}
+    "categories": [
+      "summer school",
+      "statistics",
+      "mathematics",
+      "2021"
+    ],
+    "contents": "\n\nWhile attending the Fifth Summer School on Statistical Methods for Linguistics and Psychology (SMLP 2021), and reading this textbook recommended by the instructors of the summer school, I realized that I needed a refresher on some mathematical notations among many other things. Some of them were on set theory and logical conditionals.\nI’ve put together links to some wikipedia articles that helped me refresh my high school maths, and gain some new knowledge. Wanna see?\nGlosarry of mathematical symbols\nPower set\nDomain of a function\nCodomain of a function\nMaterial conditional/material implication\nPredicate (in matematical logic)\nLimit ordinal\nPerhaps, some day in a distant future, I will write about applying these ideas in my work, or not. Let’s see.\n\n\n\n",
+    "preview": "blogs/2021-09-06-misc-repo-of-things/hasse-powerset.png",
+    "last_modified": "2021-12-11T01:32:48+01:00",
+    "input_file": {},
+    "preview_width": 500,
+    "preview_height": 379
   },
   {
     "path": "blogs/2021-05-25-cogsci-programs/",
     "title": "Bookmarking conferences",
-    "description": "Programs interesting/useful to a Cog. Sci. student",
+    "description": "Programs interesting/useful to a Cog. Sci. student [Updated]",
     "author": [
       {
         "name": "Pratik Bhandari",
@@ -31,9 +38,9 @@
       "conference",
       "2021"
     ],
-    "contents": "\nDuring the interactions with my colleagues in UdS and friends from other universities, I have realized that those of us who work along the same line of research are not mutually aware of the conferences we’d all like to attend and probably benefit from. (It is a different topic, how beneficial conferences are.) Here I am curating a list of conferences some of which I have attended and seem worth sharing, and others I’d like to attend.  This is nowhere near an exhaustive list and will be updated regularly. If it helps you, great! If not, at least I have a bookmark for myself  😅 \n\n\n\nProgram\nDate\nFormat\n1\nAnnual CUNY Conference on Human Sentence Processing (CUNY)\nMarch 04 - March 06\nOnline\n2\nAnnual meeting of Cognitive Neuroscience Society (CNS)\nMarch 13 - March 16\nOnline\n3\nAPS International Convention of Psychological Science (ICPS)\nMay 26 - May 27\nOnline\n4\nMeeting of the Acoustical Society of America (ASA)\nJune 08 - June 10\nOnline\n5\nSociety for the Improvement of Psychological Science (SIPS 2021)\nJune 23 - June 25\nOnline\n6\nAnnual conference of the Cognitive Science Society (CogSci)\nJuly 26 - July 29\nOnline\n7\nInterspeech\nAugust 30 - September 03\nHybrid\n8\nArchitectures and Mechanisms for Language Processing (AMLaP)\nSeptember 02 - September 04\nHybrid\n9\nSociety for the Neurobiology of Language (SNL)\nOctober 05 - October 08\nOnline\n10\nPsychonomic Society 2021 Annual Meeting (Psychonomic)\nNovember 04 - November 07\nHybrid\n11\nNeuroscience 2021 - Society for Neuroscience (SfN)\nNovember 13 - November 17\nOn-site\n12\nSymposium for Cognitive Auditory Neuroscience (SCAN)\nthroughout 2021\nOnline\n13\nJoint Conference on Language Evolution, 2022\ntbd\nHybrid\nOkay fine! All these programs lean towards psychology, and auditory and language sciences. They do not cover most of other domains of cognitive science. Would you comment below or write to me other conferences, symposia and summer schools you’d recommend attending?\n\n\n\n",
+    "contents": "\nDuring the interactions with my colleagues in UdS and friends from other universities, I have realized that those of us who work along the same line of research are not mutually aware of the conferences we’d all like to attend and probably benefit from. (It is a different topic, how beneficial conferences are.) Here I am curating a list of conferences some of which I have attended and seem worth sharing, and others I’d like to attend.  This is nowhere near an exhaustive list and will be updated regularly. If it helps you, great! If not, at least I have a bookmark for myself  😅 \n\n\n\nProgram\nDate\nAbstract submission deadline\nFormat\n1\nAnnual (CUNY) Conference on Human Sentence Processing (35th HPS)\nMarch 24 - March 26\nDec 06, 2022\nOnline & Santa Cruz, US\n2\nAnnual meeting of Cognitive Neuroscience Society (29th CNS)\nMay 26 - May 29\nJan 11, 2022\nChicago, US\n3\nAssociation for Psychological Sciences Annual Convention of Psychological Science (APS 2022)\nMay 26 - May 29\nFeb 07, 2022\nOnline\n4\nMeeting of the Acoustical Society of America (182nd ASA)\nMay 23 - May 27\ntbd\nDenver, US\n5\nSociety for the Improvement of Psychological Science (SIPS 2022)\nJune 27 - June 29\ntbd\nVictoria, Canada\n6\nAnnual conference of the Cognitive Science Society (CogSci 2022)\nJuly 26 - July 29\nFeb 01, 2022\nToronto, Canada\n7\nInterspeech\nAugust 30 - September 03\nMarch 21, 2022\nIncheon, South Korea\n8\nArchitectures and Mechanisms for Language Processing (AMLaP)\nSep 02 - Sep 04, 2021\npassed in 2021\nOnline\n9\nSociety for the Neurobiology of Language (SNL)\nOctober 06 - October 08\ntbd\nIn-person\n10\nPsychonomic Society 2022 Annual Meeting (Psychonomic)\nNovember 17 - November 20\ntbd\nOnline & Boston, US\n11\nNeuroscience 2022 - Society for Neuroscience (SfN)\nNovember 12 - November 16\nJune 21, 2022\nSan Diego, US\n12\nSymposium for Cognitive Auditory Neuroscience (SCAN)\nthroughout 2021\npassed in 2021\nOnline\n13\n22nd Conference of the European Society for Cognitive Psychology (ESCOP 2022)\nAug 29 - Sep 01\nApril 01, 2022\nLille, France\n14\nJoint Conference on Language Evolution, 2022\nSep 05 - Sep 08\nFeb 01, 2022\nOnline & Kanazawa, Japan\nOkay fine! All these programs lean towards psychology, and auditory and language sciences. They do not cover most of other domains of cognitive science. Would you comment below or write to me other conferences, symposia and summer schools you’d recommend attending?\n\n\n\n\n",
     "preview": "blogs/2021-05-25-cogsci-programs/pratik-pickering_attlis.jpg",
-    "last_modified": "2021-06-29T10:57:56+02:00",
+    "last_modified": "2021-12-11T01:07:39+01:00",
     "input_file": {}
   },
   {
