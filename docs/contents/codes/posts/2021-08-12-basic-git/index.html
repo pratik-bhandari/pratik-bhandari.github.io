@@ -114,6 +114,20 @@
       "search-submit-button-title": "Submit"
     }
   }</script>
+  
+  <script type="text/javascript">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-165918285-1', 'auto');
+
+  ga('send', {
+    hitType: 'pageview',
+    'anonymizeIp': true,
+  });
+  </script>
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
@@ -137,7 +151,7 @@
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../../../index.html">About</a>
+    <a class="nav-link" href="../../../../index.html">Home</a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../../../contents/news/index.html">News</a>
@@ -145,21 +159,17 @@
   <li class="nav-item">
     <a class="nav-link" href="../../../../contents/blog/index.html">Blog</a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-art" role="button" data-bs-toggle="dropdown" aria-expanded="false">Art</a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-art">    
-        <li>
-    <a class="dropdown-item" href="../../../../contents/literature/index.html">
- <span class="dropdown-text">Literature</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../contents/literature/index.html">Literature</a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="../../../../contents/codes/index.html">
- <span class="dropdown-text">Codes</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../contents/codes/index.html">Codes</a>
   </li>  
-    </ul>
-  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../contents/contact.html">Contact</a>
+  </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://twitter.com/prbhx"><i class="bi bi-twitter" role="img">
 </i> 
@@ -214,8 +224,9 @@
 <div class="sourceCode" id="cb2"><pre class="sourceCode r cell-code code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>git checkout main <span class="co">#First switch to the main/master branch</span></span>
 <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>git merge BranchIwantToMerge <span class="co">#The branch still exists after merging</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<p>This was a dirty note down as I frequently make mistakes using these commands. <code>git pull</code>, <code>git merge</code>, etc. are also used but not much problematically.</p>
-<p>Tune in for more frequently used <code>R</code> and <code>bash</code> scripts :D</p>
+<p>This was a dirty note down ;)</p>
+<p>Other frequently used commands are <code>git pull</code>, <code>git merge</code>, <code>git rm -r --cached</code>, etc.</p>
+<p>Tune in for notes on frequently used <code>R</code>, <code>bash</code> and <code>git</code> commands.</p>
 
 
 
@@ -299,6 +310,16 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
+    <div class="nav-footer-left">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/prbhx">
+      <i class="bi bi-twitter" role="img">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>   
       <div class="nav-footer-center">
         <ul class="footer-items list-unstyled">
     <li class="nav-item">
@@ -308,12 +329,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/prbhx">
-      <i class="bi bi-twitter" role="img">
-</i> 
-    </a>
-  </li>  
     <li class="nav-item compact">
     <a class="nav-link" href="https://scholar.google.de/citations?user=Y0HnEQwAAAAJ&amp;hl=en&amp;oi=ao">
       <i class="bi bi-person-circle" role="img">

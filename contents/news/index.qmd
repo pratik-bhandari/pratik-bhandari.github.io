@@ -1,13 +1,19 @@
 ---
-title: "What's new?"
+title: "Work/life updates"
 subtitle: |
-  Recent work/life updates
+  What's new?
 author: ""
 date: ""
 ---
 
 ***
 
-* **April 14**: My work on *the effect of speech rate on degraded speech comprehension* has been accepted for poster presentation at the IMPRS Conference [2022](https://www.mpi.nl/imprs-conference) to be held at MPI Psycholinguistics (Nijmegen, Netherlands) in June 01-03.
+* **April 18**: I can't attend the APS convention. Don't get me started about the hectic visa procedure. 2 months notice is not enough, APS! There are similar problems in other conferences organized in the USA. People have tweeted about it. See [this](https://twitter.com/ProfSomashekhar/status/1509430243412496388?s=20&t=hIB7IwHWHlxVPeDTlIXsew),
+[this](https://twitter.com/imtryam/status/1508841089834549248?s=20&t=hIB7IwHWHlxVPeDTlIXsew) and
+[this](https://twitter.com/bkhmsi/status/1504954744250372096?s=20&t=hIB7IwHWHlxVPeDTlIXsew),
+for example.
+Do you see a pattern? Humans are pattern seeking (and finding) animals collectively as a nation too.
 
-* **March 09**: My work on *the role of attention on degraded speech comprehension* has been accepted for poster presentation at the APS Annual Convention [2022](https://www.psychologicalscience.org/conventions/2022-aps-annual-convention) in Chicago in May 26-29.
+* **April 14**: Our work on *the effect of speech rate on degraded speech comprehension* has been accepted for poster presentation at the IMPRS Conference [2022](https://www.mpi.nl/imprs-conference) to be held at MPI Psycholinguistics (Nijmegen, Netherlands) in June 01-03. A manuscript is cooking as well ;)
+
+* **March 09**: Our work on *the role of attention on degraded speech comprehension* has been accepted for poster presentation at the APS Annual Convention [2022](https://www.psychologicalscience.org/conventions/2022-aps-annual-convention) in Chicago in May 26-29.

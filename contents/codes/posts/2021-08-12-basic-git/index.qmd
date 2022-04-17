@@ -49,6 +49,8 @@ git checkout main #First switch to the main/master branch
 git merge BranchIwantToMerge #The branch still exists after merging
 ```
 
-This was a dirty note down as I frequently make mistakes using these commands. `git pull`, `git merge`, etc. are also used but not much problematically.
+This was a dirty note down ;)
 
-Tune in for more frequently used `R` and `bash` scripts :D
+Other frequently used commands are `git pull`, `git merge`, `git rm -r --cached`, etc.
+
+Tune in for notes on frequently used `R`, `bash` and `git` commands.

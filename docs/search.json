@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "contents/contact.html",
+    "href": "contents/contact.html",
+    "title": "Get in touch",
+    "section": "",
+    "text": "Pratik Bhandari\nCampus A 1.3, Room 2,11\nSaarland University\n66123 Saarbrücken, Germany\nphone: +49 681 302 64368\nemail: pratikb@coli.uni-saarland.de\n\n\n\n\n\n\n\nOther online presence:\n\nresearchgate\ntwitter(@prbhx)\ngithub\nlinkedin\norcid\nosf\ngoogle site\ngoogle scholar"
+  },
+  {
     "objectID": "contents/literature/posts/2011-07-24-gajalkar-bhaye/index.html",
     "href": "contents/literature/posts/2011-07-24-gajalkar-bhaye/index.html",
     "title": "म त गजलकार भएँ",
@@ -163,43 +170,43 @@
   {
     "objectID": "contents/news/index.html",
     "href": "contents/news/index.html",
-    "title": "What’s new?",
+    "title": "Work/life updates",
     "section": "",
-    "text": "April 14: My work on the effect of speech rate on degraded speech comprehension has been accepted for poster presentation at the IMPRS Conference 2022 to be held at MPI Psycholinguistics (Nijmegen, Netherlands) in June 01-03.\nMarch 09: My work on the role of attention on degraded speech comprehension has been accepted for poster presentation at the APS Annual Convention 2022 in Chicago in May 26-29."
+    "text": "April 18: I can’t attend the APS convention. Don’t get me started about the hectic visa procedure. 2 months notice is not enough, APS! There are similar problems in other conferences organized in the USA. People have tweeted about it. See this, this and this, for example. Do you see a pattern? Humans are pattern seeking (and finding) animals collectively as a nation too.\nApril 14: Our work on the effect of speech rate on degraded speech comprehension has been accepted for poster presentation at the IMPRS Conference 2022 to be held at MPI Psycholinguistics (Nijmegen, Netherlands) in June 01-03. A manuscript is cooking as well ;)\nMarch 09: Our work on the role of attention on degraded speech comprehension has been accepted for poster presentation at the APS Annual Convention 2022 in Chicago in May 26-29."
   },
   {
     "objectID": "contents/codes/posts/2021-08-12-basic-git/index.html",
     "href": "contents/codes/posts/2021-08-12-basic-git/index.html",
     "title": "A bit of git-ting",
     "section": "",
-    "text": "The first thing that I do for any data analyses or writing project is create a remote git repository either in github or in gitlab. Then I create a local R project in R Studio, and connect it to the remote git repo. The ‘how-to’ of this process can be found online; I’ll write up a brief overview, probably.\nThis post is to remind myself of most frequently used git commands.\n\n\n# Push local changes to the remote repo:\ngit push -u origin master\n\n# Creat and checkout new branch:\ngit checkout -b NewBranchName\n\ngit push -u origin BranchIamWorkingOn # to push from local repo to remote repo if the remote repo doesn't have this `BranchIamWorkinOn` setup up already\n\n# Delete a local branch:\ngit branch -D BranchToBeDeleted\n\nBe careful on deleting. The -D is a hard delete!\nMerge branches locally:\n\ngit checkout main #First switch to the main/master branch\ngit merge BranchIwantToMerge #The branch still exists after merging\n\nThis was a dirty note down as I frequently make mistakes using these commands. git pull, git merge, etc. are also used but not much problematically.\nTune in for more frequently used R and bash scripts :D"
+    "text": "The first thing that I do for any data analyses or writing project is create a remote git repository either in github or in gitlab. Then I create a local R project in R Studio, and connect it to the remote git repo. The ‘how-to’ of this process can be found online; I’ll write up a brief overview, probably.\nThis post is to remind myself of most frequently used git commands.\n\n\n# Push local changes to the remote repo:\ngit push -u origin master\n\n# Creat and checkout new branch:\ngit checkout -b NewBranchName\n\ngit push -u origin BranchIamWorkingOn # to push from local repo to remote repo if the remote repo doesn't have this `BranchIamWorkinOn` setup up already\n\n# Delete a local branch:\ngit branch -D BranchToBeDeleted\n\nBe careful on deleting. The -D is a hard delete!\nMerge branches locally:\n\ngit checkout main #First switch to the main/master branch\ngit merge BranchIwantToMerge #The branch still exists after merging\n\nThis was a dirty note down ;)\nOther frequently used commands are git pull, git merge, git rm -r --cached, etc.\nTune in for notes on frequently used R, bash and git commands."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Pratik Bhandari",
     "section": "",
-    "text": "Hello there! Welcome to my site.\nI am a doctoral researcher at the Collaborative Research Center (Sonderforschungsbereichs – SFB 1102) at Saarland University, Department of Psychology and Department of Language Science and Technology. Prof. Jutta Kray and Prof. Vera Demberg are my advisors.\nMy PhD research is focused on how we make sense of spoken language under adverse listening conditions. I study when (and how) context helps us understand degraded speech, and when context is not much helpful.\nI expect to complete my PhD by the end of September this year. Offers for postdoc positions are welcome :)"
+    "text": "Hello there!\nI am a doctoral researcher at the Collaborative Research Center (SFB 1102) in Saarland University where Prof. Jutta Kray and Prof. Vera Demberg are my PhD supervisors.\nMy research focuses on how we make sense of the spoken language under adverse listening conditions. I study when (and how) the linguistic context helps us understand degraded speech.\nI come from 🇳🇵Nepal. So obviously, I have not climbed the ⛰️ Sagarmatha."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Pratik Bhandari",
     "section": "Education",
-    "text": "Education\nSaarland University | Germany\nPhD | Nov 2018 - Sep 2022 (expected)\nBasque Center on Cognition, Brain and Language | Spain\nMaster in Cognitive Neuroscience of Language | Sep 2017 - Sep 2018\nInstitute of Medicine, Tribhuvan University | Nepal\nBachelor in Audiology & Speech-Language Pathology | Nov 2010 - April 2015"
+    "text": "Education\nSaarland University | Germany\nPhD | Nov 2018 - present\nBasque Center on Cognition, Brain and Language | Spain\nMaster in Cognitive Neuroscience of Language | Sep 2017 - Sep 2018\nInstitute of Medicine, Tribhuvan University | Nepal\nBachelor in Audiology & Speech-Language Pathology | Nov 2010 - April 2015"
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
+    "objectID": "index.html#research-work",
+    "href": "index.html#research-work",
     "title": "Pratik Bhandari",
-    "section": "Experience",
-    "text": "Experience\nAction Conrol and Cognition Lab, U of Hyderabad, India | Research Intern | Dec 2015 - May 2017\nBnC Medical College Teaching Hospital, Nepal | Audiologist & Speech Pathologist | April 2015 - Dec 2015"
+    "section": "Research & Work",
+    "text": "Research & Work\nAction Conrol and Cognition Lab, U of Hyderabad, India | Research Intern | Dec 2015 - May 2017\nB & C Medical College Teaching Hospital, Nepal | Audiologist & Speech Pathologist | April 2015 - Dec 2015"
   },
   {
     "objectID": "index.html#selected-publications",
     "href": "index.html#selected-publications",
     "title": "Pratik Bhandari",
     "section": "Selected publications",
-    "text": "Selected publications\nBhandari, P., Demberg, V., & Kray, J. (2021). Semantic predictability facilitates comprehension of degraded speech in a graded manner. Frontiers in Psychology, 3769. [html]\nBhandari, P., Prasad, S., & Mishra, R.K. (2020). High proficient bilinguals bring in higher executive control when encountering diverse interlocutors. Journal of Cultural Cognitive Science. 4(2), 201-215. [html]\nBhandari, P., & Khanal, P. (2016). Pride in autistic diversity: Against treatment or for inclusion? The Lancet, 388(10059), 24477. [html]"
+    "text": "Selected publications\nBhandari, P., Demberg, V., & Kray, J. (2021). Semantic predictability facilitates comprehension of degraded speech in a graded manner. Frontiers in Psychology, 3769. [html]\nBhandari, P., Prasad, S., & Mishra, R.K. (2020). High proficient bilinguals bring in higher executive control when encountering diverse interlocutors. Journal of Cultural Cognitive Science. 4(2), 201-215. [html]\nBhandari, P., & Khanal, P. (2016). Pride in autistic diversity: against treatment or for inclusion? The Lancet, 388(10059), 24477. [html]"
   }
 ]

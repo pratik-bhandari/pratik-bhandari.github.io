@@ -1,0 +1,62 @@
+---
+title: "Get in touch"
+subtitle: ""
+author: ""
+date: ""
+---
+
+------------------------------------------------------------------------
+
+**Pratik Bhandari**\
+Campus A 1.3, Room 2,11\
+Saarland University\
+66123 Saarbrücken, Germany\
+phone: +49 681 302 64368\
+email: pratikb\@coli.uni-saarland.de
+
+```{r}
+#| echo: false
+#| fig.height: 4.5
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lat=49.25521263695085, lng=7.038814855669152, popup="My workplace")
+```
+
+------------------------------------------------------------------------
+
+Other online presence:
+
+-   [researchgate](https://www.researchgate.net/profile/Pratik-Bhandari)
+
+-   [twitter(\@prbhx)](https://twitter.com/prbhx)
+
+-   [github](https://github.com/pratik-bhandari)
+
+-   [linkedin](https://www.linkedin.com/in/prbhx/)
+
+-   [orcid](https://orcid.org/0000-0001-5486-3352)
+
+-   [osf](https://osf.io/wc49z/)
+
+-   [google site](https://sites.google.com/view/pratik-bhandari)
+
+-   [google scholar](https://scholar.google.de/citations?user=Y0HnEQwAAAAJ&hl=en&oi=ao)
+
+<!--
++-------------------------------+--------------------------------------------------------------------------+
+| Pratik Bhandari               |                                                                          |
++-------------------------------+--------------------------------------------------------------------------+
+| Campus A 1.3                  | -   [researchgate](https://www.researchgate.net/profile/Pratik-Bhandari) |
++-------------------------------+--------------------------------------------------------------------------+
+| Room 2.11                     | -   [twitter(`@`prbhx)](https://twitter.com/prbhx)                       |
++-------------------------------+--------------------------------------------------------------------------+
+| Saarland University           | -   [github](https://github.com/pratik-bhandari)                         |
++-------------------------------+--------------------------------------------------------------------------+
+| 66123, Saarbrücken, Germany   | -   [linkedin](https://www.linkedin.com/in/prbhx/)                       |
++-------------------------------+--------------------------------------------------------------------------+
+| phone: +49 681 302 64368      | -   [orcid](https://orcid.org/0000-0001-5486-3352)                       |
++-------------------------------+--------------------------------------------------------------------------+
+| pratikb\@coli.uni-saarland.de | -   [osf](https://osf.io/wc49z/)                                         |
++-------------------------------+--------------------------------------------------------------------------+
+-->

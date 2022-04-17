@@ -9,7 +9,7 @@ website:
   title: "Pratik Bhandari"
   image: "me.png"
   favicon: "me.png"
-  # google-analytics: 
+  google-analytics: "UA-165918285-1"
   open-graph: true
   twitter-card: true
   site-url: https://pratik-bhandari.github.io
@@ -28,10 +28,11 @@ website:
       - text: '© Pratik Bhandari'
         href: index.qmd
     right:
-      - icon: twitter
-        href: "https://twitter.com/prbhx"
       - icon: person-circle
         href: "https://scholar.google.de/citations?user=Y0HnEQwAAAAJ&hl=en&oi=ao"
+    left:
+      - icon: twitter
+        href: "https://twitter.com/prbhx"
   
   navbar:
    background: "#a6a6a6"
@@ -39,21 +40,25 @@ website:
    title: false
    collapse-below: lg
    left:
-     - text: "About"
+     - text: "Home"
        href: index.qmd
      - text: "News"
        href: contents/news/index.qmd
      - text: "Blog"
        href: contents/blog/index.qmd
-     - text: "Art"
-       menu:
-         - text: "Literature"
-           href: contents/literature/index.qmd
-         # - text: "Gallery"
-         #   href: contents/gallery/index.qmd
-         - text: "Codes"
-           href: contents/codes/index.qmd
+     - text: "Literature"
+       href: contents/literature/index.qmd
+     - text: "Codes"
+       href: contents/codes/index.qmd
+     # - text: "Art"
+     #   menu:
+     #     - text: "Literature"
+     #       href: contents/literature/index.qmd
+     #     - text: "Codes"
+     #       href: contents/codes/index.qmd
    right:
+     - text: "Contact"
+       href: contents/contact.qmd
      - icon: twitter
        href: https://twitter.com/prbhx
      - icon: person-circle
