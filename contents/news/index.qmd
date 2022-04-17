@@ -1,0 +1,13 @@
+---
+title: "What's new?"
+subtitle: |
+  Recent work/life updates
+author: ""
+date: ""
+---
+
+***
+
+* **April 14**: My work on *the effect of speech rate on degraded speech comprehension* has been accepted for poster presentation at the IMPRS Conference [2022](https://www.mpi.nl/imprs-conference) to be held at MPI Psycholinguistics (Nijmegen, Netherlands) in June 01-03.
+
+* **March 09**: My work on *the role of attention on degraded speech comprehension* has been accepted for poster presentation at the APS Annual Convention [2022](https://www.psychologicalscience.org/conventions/2022-aps-annual-convention) in Chicago in May 26-29.

@@ -1,0 +1,40 @@
+---
+title: "कनिका मान्छे"
+subtitle: ""
+author: Pratik Bhandari
+date: 2020-01-06
+categories:
+  - nepali
+  - saarbruecken
+  - "2020"
+output:
+  distill::distill_article:
+    self_contained: false
+draft: false
+---
+
+<!-- Oh, so some links brought you here. Cool.\ -->
+
+***
+
+अलिकति यताको
+\
+अलिकति उताको
+\
+न यताको
+\
+न उताको
+\
+झिसमिस झिसमिस
+\
+छिसमिस छिसमिस
+\
+स्वाद नमिलेका
+\
+सोच नमिलेका
+\
+ती असरल्ल छरिएका
+\
+भुस ठानिने, कनिका मान्छेहरु
+
+_Republished in April 2021_

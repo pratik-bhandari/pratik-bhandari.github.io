@@ -1,0 +1,41 @@
+[
+  {
+    "listing": "/contents/literature/index.html",
+    "items": [
+      "/contents/literature/posts/2021-10-26-operation-room/index.html",
+      "/contents/literature/posts/2021-04-09-brown/index.html",
+      "/contents/literature/posts/2021-04-02-apology/index.html",
+      "/contents/literature/posts/2020-04-03-ramita/index.html",
+      "/contents/literature/posts/2020-03-08-dreams/index.html",
+      "/contents/literature/posts/2020-02-26-fresh-start/index.html",
+      "/contents/literature/posts/2020-02-08-joy-of-hunting/index.html",
+      "/contents/literature/posts/2020-01-06-kanika-manchhe/index.html",
+      "/contents/literature/posts/2019-12-31-name-of-2020/index.html",
+      "/contents/literature/posts/2019-12-26-uni-ra-ma/index.html",
+      "/contents/literature/posts/2019-09-18-nobody/index.html",
+      "/contents/literature/posts/2018-05-21-strangers/index.html",
+      "/contents/literature/posts/2016-10-20-sky-divided/index.html",
+      "/contents/literature/posts/2015-02-10-banda-khaam/index.html",
+      "/contents/literature/posts/2014-06-06-rastriyataa/index.html",
+      "/contents/literature/posts/2014-04-29-aama/index.html",
+      "/contents/literature/posts/2011-07-24-gajalkar-bhaye/index.html"
+    ]
+  },
+  {
+    "listing": "/contents/blog/index.html",
+    "items": [
+      "/contents/blog/posts/2021-05-25-cogsci-programs/index.html",
+      "/contents/blog/posts/2021-09-06-misc-repo-of-things/index.html",
+      "/contents/blog/posts/2021-05-22_relaxed-rules/index.html",
+      "/contents/blog/posts/2020-07-23-glimpsing-through-meditation/index.html",
+      "/contents/blog/posts/2012-08-19-saharko-katha/index.html",
+      "/contents/blog/posts/2012-04-18-fifth-loktantra-diwas/index.html"
+    ]
+  },
+  {
+    "listing": "/contents/codes/index.html",
+    "items": [
+      "/contents/codes/posts/2021-08-12-basic-git/index.html"
+    ]
+  }
+]

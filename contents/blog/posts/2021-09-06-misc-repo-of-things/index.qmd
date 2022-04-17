@@ -1,0 +1,37 @@
+---
+title: "Why not pick your brain"
+subtitle: |
+  Yet another refresher...
+author: Pratik Bhandari
+date: 2021-06-09
+categories:
+  - summer school
+  - statistics
+  - mathematics
+  - "2021"
+image: hasse-powerset.png
+---
+
+<!-- Oh, so some links brought you here. Cool.\ -->
+
+***
+
+While attending the Fifth Summer School on Statistical Methods for Linguistics and Psychology ([SMLP 2021](https://vasishth.github.io/smlp2021/)), and reading this [textbook](https://vasishth.github.io/bayescogsci/book/) recommended by the instructors of the summer school, I realized that I needed a refresher on some mathematical notations among many other things. Some of them were on set theory and logical conditionals.
+
+I've put together links to some wikipedia articles that helped me refresh my high school maths, and gain some new knowledge. Wanna see?
+
+1.  [Glosarry of mathematical symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
+
+2.  [Power set](https://en.wikipedia.org/wiki/Power_set)
+
+3.  [Domain of a function](https://en.wikipedia.org/wiki/Domain_of_a_function)
+
+4.  [Codomain of a function](https://en.wikipedia.org/wiki/Codomain)
+
+5.  [Material conditional/material implication](https://en.wikipedia.org/wiki/Material_conditional)
+
+6.  [Predicate (in matematical logic)](https://en.wikipedia.org/wiki/Predicate_(mathematical_logic))
+
+7.  [Limit ordinal](https://en.wikipedia.org/wiki/Limit_ordinal)
+
+Perhaps, some day in a distant future, I will write about applying these ideas in my work, or not. Let's see.

@@ -1,0 +1,94 @@
+---
+title: "Pratik Bhandari"
+about:
+  template: marquee
+  image-width: 10em
+  image-shape: round
+  image: about.png
+  links:
+    - icon: twitter
+      text: twitter
+      href: "https://twitter.com/prbhx"
+    - icon: person-circle
+      text: scholar
+      href: "https://scholar.google.de/citations?user=Y0HnEQwAAAAJ&hl=en&oi=ao"
+    - icon: book
+      text: publications
+      href: "https://sites.google.com/view/pratik-bhandari/publications"
+    # - icon: github
+    #   text: Github
+    #   href: https://github.com/pratik-bhandari
+---
+
+Hello there! Welcome to my site.
+
+I am a doctoral researcher at the Collaborative Research Center (Sonderforschungsbereichs -- [SFB 1102](https://sfb1102.uni-saarland.de)) at Saarland University, Department of Psychology and Department of Language Science and Technology. [Prof. Jutta Kray](https://www.uni-saarland.de/lehrstuhl/kray/team/jk.html) and [Prof. Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html) are my advisors.
+
+My PhD research is focused on how we make sense of spoken language under adverse listening conditions.
+I study when (and how) context helps us understand degraded speech,
+and when context is not much helpful.
+
+I expect to complete my PhD by the end of September this year. Offers for postdoc positions are welcome :)
+
+---
+
+## Education
+
+**Saarland University** **|** Germany\
+PhD **|** Nov 2018 - Sep 2022 (*expected*)
+
+**Basque Center on Cognition, Brain and Language** **|** Spain\
+Master in Cognitive Neuroscience of Language **|** Sep 2017 - Sep 2018
+
+**Institute of Medicine**, Tribhuvan University **|** Nepal\
+Bachelor in Audiology & Speech-Language Pathology **|** Nov 2010 - April 2015
+
+---
+
+## Experience
+
+**Action Conrol and Cognition Lab**, U of Hyderabad, India **|** Research Intern **|** Dec 2015 - May 2017
+
+**BnC Medical College Teaching Hospital**, Nepal **|** Audiologist & Speech Pathologist **|** April 2015 - Dec 2015
+
+---
+
+## Selected publications
+
+**Bhandari, P.**, Demberg, V., & Kray, J. (2021). Semantic predictability facilitates
+comprehension of degraded speech in a graded manner. *Frontiers in Psychology*, 3769. [[html](https://doi.org/10.3389/fpsyg.2021.714485)]
+
+**Bhandari, P.**, Prasad, S., & Mishra, R.K. (2020). High proficient bilinguals bring in higher executive control when encountering diverse interlocutors. *Journal of Cultural Cognitive Science. 4*(2), 201-215. [[html](https://doi.org/10.1007/s41809-020-00060-7)]
+
+**Bhandari, P.**, & Khanal, P. (2016). Pride in autistic diversity: Against treatment or for inclusion? *The Lancet, 388*(10059), 24477. [[html](https://doi.org/10.1016/S0140-6736(16)32176-6)]
+
+---
+
+<!--
+
+ ```{r setup, include=FALSE} 
+ knitr::opts_chunk$set(echo = FALSE)
+ ``` 
+
+This is a place of my musing.
+
+[Here](https://pratik-bhandari.github.io/), [I](https://sites.google.com/view/pratik-bhandari) jot down some semi-filtered thoughts, opinions, and experiences.\
+
+Check out some [poetry, stories](https://pratik-bhandari.github.io/literature.html), and other [artwork](https://pratik-bhandari.github.io/art.html).
+
+Don't forget to contact me via any of the means below!
+
+```{r}
+#| echo: false
+#| eval: false
+#| out.width: "100px"
+knitr::include_graphics("me.png")
+```
+
+
+|       |                  |
+|-------|------------------|
+|       |                  |
+| ![](me.png){width=95%} | `r fontawesome::fa("user-circle")` [academic profile](https://sites.google.com/view/pratik-bhandari/publications) <br> `r fontawesome::fa("user-graduate")` [google scholar](https://scholar.google.com/citations?user=Y0HnEQwAAAAJ&hl=en) <br> `r fontawesome::fa("researchgate")` [researchgate](https://www.researchgate.net/profile/Pratik-Bhandari) <br> `r fontawesome::fa("twitter")` [twitter(`@`prbhx)](https://twitter.com/prbhx) <br> `r fontawesome::fa("github")` [github](https://github.com/pratik-bhandari) <br> `r fontawesome::fa("linkedin")` [linkedin](https://www.linkedin.com/in/prbhx/) <br> `r fontawesome::fa("orcid")` [orcid](https://orcid.org/0000-0001-5486-3352) 
+
+-->
