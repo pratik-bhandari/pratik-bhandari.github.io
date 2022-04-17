@@ -1,0 +1,14 @@
+{
+  "hash": "f5666b0b448f848e77a74ef2ff2bfcb4",
+  "result": {
+    "markdown": "---\ntitle: \"In the name of 2020\"\ndescription: \"\"\n# author: []\ndate: 2019-12-31\ncategories:\n  - english\n  - saarbruecken\n  - luxembourg\n  - \"2019\"\n  - \"2020\"\noutput:\n  distill::distill_article:\n    self_contained: false\ndraft: false\n---\n\n\n\n\nAll she could do\\\nWas attempt a Prometheus-act.\\\nA frozen body.\\\nDetermined Phoenix she is,\\\nThe soul barely alive\\\nafter the cold dark winter night --\\\n-- just one of the scores of decades yet to come.\n\n_Republished in April 2021_",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": [],
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": null
+  }
+}

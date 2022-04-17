@@ -1,0 +1,16 @@
+---
+title: Literature
+subtitle: Poetry, stories and such
+listing:
+  sort: "date desc"
+  contents: "posts"
+  sort-ui: false
+  filter-ui: false
+  categories: true
+  # feed: true
+page-layout: article
+title-block-banner: "#EDF3F9"
+title-block-banner-color: body
+search: false
+---
+

@@ -1,0 +1,14 @@
+{
+  "hash": "245dc380d4ffa67440804ce7cf6135ae",
+  "result": {
+    "markdown": "---\ntitle: \"Some gitting\"\n# subtitle: \nauthor: Pratik Bhandari\ndate: 2021-08-12\ncategories:\n  - codes\n  - bash\n  - git\n  - version control\n  - germany\n  - \"2021\"\n---\n\nThe first thing that I do for any data analyses project is to create a remote git repository. It can be in github, or in gitlab. (Do people still use bitbucket?) Then I create an R project, in R Studio, and connect it with the remote git repository. When you click on 'New Project' on the top right drop down menu, R Studio give you three choices and one of them is to *Checkout a project from a version control repository*.\n...\n...\n\nSome of the most frequently used git commands...\n\n::: {.cell}\n\n```{.r .cell-code}\ngit push -u origin master #to push to the remote repo for the first time\ngit checkout -b NewBranchName\ngit push -u origin BranchIamWorkingOn #to push from local repo to remote repo if the remote repo doesn't have this `BranchIamWorkinOn` setup up already\ngit branch -D BranchToBeDeleted\n```\n:::\n\nTo merge\n\n::: {.cell}\n\n```{.r .cell-code}\ngit checkout main #First switch to the main/master branch\ngit merge BranchIwantToMerge #The branch still exists after merging\n```\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": [],
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": null
+  }
+}

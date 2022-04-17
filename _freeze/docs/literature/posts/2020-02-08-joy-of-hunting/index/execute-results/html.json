@@ -1,0 +1,14 @@
+{
+  "hash": "20b6f9a9fc94176da051fdfdcf07e2ac",
+  "result": {
+    "markdown": "---\ntitle: \"The joy of hunting\"\ndescription: \"\"\n# author: []\ndate: 2020-02-08\ncategories:\n  - english\n  - saarbruecken\n  - \"2020\"\noutput:\n  distill::distill_article:\n    self_contained: false\ndraft: false\n---\n\n\n\nA dark room in some random city \\\nIn the middle of nowhere \\\nThere lives a man \\\n&ensp;&ensp; _(Just living, not alive)_\\\nSurely he lives there \\\n‘cause no one has bothered to kill him ...yet! \\\n\\\nThe monotonous chore of life \\\nAs long as he can remember \\\nHas made him dark \\\nIn and out. \\\n\\\nThank god –\\\n&ensp;&ensp; _(Or rather not)_\\\nFor he was educated beyond his intelligence.\\\nNow in the darkness \\\nSomehow,\\\nhe manages to drag through his daily chore. \\\nWhat a pity! \\\n\\\nI met him yesterday \\\nSuch a resentful man he is – \\\nComplains about every single way he has been treated \\\n&ensp;&ensp; _(and has not been treated)_\\\nEvery other thing he ever experienced\\\n&ensp;&ensp; _(and he never experienced)_\\\nIn this middle of nowhere!\\\nI'd never want to see such a miserable person again. \\\n\\\nI had a gun \\\n&ensp;&ensp; _(But who'd waste a bullet to drag that dolour down)_\\\nOn my way to hunting – \\\nAh, what a joy it was.\n\n_Republished in April 2021_",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": [],
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": null
+  }
+}

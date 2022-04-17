@@ -1,0 +1,14 @@
+{
+  "hash": "a583593b04571187715b53b908a30f06",
+  "result": {
+    "markdown": "---\ntitle: \"A fresh start\"\ndescription: \"\"\n# author: []\ndate: 2020-02-26\ncategories:\n  - english\n  - saarbruecken\n  - \"2020\"\noutput:\n  distill::distill_article:\n    self_contained: false\ndraft: false\n---\n\n\n\n\nwe made love last night\\\nand slept alongside\\\ntipsy with few bottles of Brouwhoeve IPA\\\nin the warmth of each other's bosom\\\ndreaming a future\\\n&ensp;&ensp; *(a happy one I imagine)*\\\ntogether.\\\n\\\nthis morning\\\nquite early\\\nearlier than usual\\\nshe wakes up before I do\\\ndressed up in her new pants\\\n&ensp;&ensp; *(those were my gifts in her birthday last week)*\\\ndecides to leave\\\nyeah, leave.\\\n\\\nshe takes the first flight\\\nto abandon the city\\\n&ensp;&ensp; *(would she abandon me?*\\\n&ensp;&ensp; *i was a good lover – she had said last week)*\\\nand flies to 'her' new place\\\n&ensp;&ensp; *(she is already 'moving on' there,*\\\n&ensp;&ensp; *someone texted me)*\\\nwhile I am cold and\\\nstill in this warm bed\\\nstripped\\\nout of the dreams, fresh ones\\\nwe had dreamt together.\\\n\\\nI ruminate\\\nover\\\nher voice\\\n&ensp;&ensp; *(and fantasies i had listened to)*\\\nher face\\\n&ensp;&ensp; *(and lips i had kissed on)*\\\nthe love\\\nwe had and\\\nwe made–\\\nthis schism\\\ntears\\\nme\\\napart–\\\nI cry\\\nfew drops of semen. Ah.\\\n\\\nAh.\\\nI start\\\na New day, now\\\na Fresh one\\\nwith a scotch of whiskey–\\\nin the Irish pub next door\\\na sixty-five-year-old pensioner\\\njoins me with a bottle of Backbone Splitter.\\\nI hate beer!\n\n***(Bang)***\n\n_Republished in April 2021_",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": [],
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": null
+  }
+}

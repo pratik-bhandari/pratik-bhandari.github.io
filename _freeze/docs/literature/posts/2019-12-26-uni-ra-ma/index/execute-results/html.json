@@ -1,0 +1,14 @@
+{
+  "hash": "f972b968d540a1925cf33f3438f999a2",
+  "result": {
+    "markdown": "---\ntitle: \"उनी र म\"\ndescription: \"\"\n# author: []\ndate: 2019-12-26\ncategories:\n  - nepali\n  - kathmandu\n  - \"2019\"\noutput:\n  distill::distill_article:\n    self_contained: false\ndraft: false\n---\n\n    \n\n\nसधैं,\n\\\n६ इन्चको स्कृन यता-उता हुने\n\\\nप्रेम र नप्रेमको घर्षणबीच हुर्किएको\n\\\n'द्वन्द्वात्मक' भौतिकवादी हाम्रो सम्बन्ध\n\\\nर यसकै 'पूजीवादी' सिकार हामी -- उनी र म --\n\\\nकʃʃʃठै!\n\n_Republished in April 2021_",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": [],
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": null
+  }
+}
