@@ -1,0 +1,60 @@
+---
+title: "Checking (git) changes from terminal"
+subtitle: |
+  What changes did I make?
+author: Pratik Bhandari
+date: 2022-04-18
+categories:
+  - codes
+  - git
+  - version control
+  - comparision
+  - "2022"
+---
+
+<!-- Oh, so some links brought you here. Cool.\ -->
+
+***
+
+One of the main reasons for using git is *version control*.
+No longer naming the files as 'final-draft', 'finaly-draft2', 'final-finaldraft_pb', etc.
+You can see what changes have been made incrementally:
+Compare the version of the document created 10 days ago with the recent one.
+
+#### Example:
+
+Say we have a file `01_chapter.Rmd`.
+It is the first chapter of my thesis.
+I have just made some changes in it.
+Before `git add <file>`, I want to compare these changes with the latest version that I have already committed.
+Then, this is what I do^[
+More in [here](https://stackoverflow.com/questions/5586383/how-to-diff-one-file-to-an-arbitrary-version-in-git)]:
+
+```{r compare_recent}
+#| eval: false
+#| echo: true
+git diff HEAD 01_chapter.Rmd
+# OR
+git diff master:01_chapter.Rmd 01_chapter.Rmd
+```
+
+If `01_chapter.Rmd` is not in the working directory then provide the path to it.
+
+Other different comparisons:
+
+```{r compare_more}
+#| eval: false
+#| echo: true
+git diff HEAD~2 01_chapter.Rmd
+# OR
+git diff master~2:01_chapter.Rmd 01_chapter.Rmd
+#--
+
+git diff master~3:01_chapter.Rmd master~1:01_chapter.Rmd
+```
+
+You got the idea.
+
+The global comparison of all files is just `git diff` which I do not prefer.\
+
+Tip: If you are working on RStudio, its GUI shows the changes in files since the last commit, including what files are added or deleted.

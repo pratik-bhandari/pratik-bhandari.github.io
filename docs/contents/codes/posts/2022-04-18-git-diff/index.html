@@ -4,8 +4,8 @@
   <meta name="generator" content="quarto-0.9.165">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
   <meta name="author" content="Pratik Bhandari">
-  <meta name="dcterms.date" content="2022-04-16">
-  <title>Pratik Bhandari - A bit of git-ting</title>
+  <meta name="dcterms.date" content="2022-04-18">
+  <title>Pratik Bhandari - Checking (git) changes from terminal</title>
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
@@ -132,9 +132,9 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
   <link rel="stylesheet" href="../../../../styles.css">
-<meta property="og:title" content="Pratik Bhandari - A bit of git-ting">
+<meta property="og:title" content="Pratik Bhandari - Checking (git) changes from terminal">
 <meta property="og:site-name" content="Pratik Bhandari">
-<meta name="twitter:title" content="Pratik Bhandari - A bit of git-ting">
+<meta name="twitter:title" content="Pratik Bhandari - Checking (git) changes from terminal">
 <meta name="twitter:card" content="summary">
 </head>
 <body class="fullcontent">
@@ -157,14 +157,24 @@
     <a class="nav-link" href="../../../../contents/news/index.html">News</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../contents/blog/index.html">Blog</a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../../../contents/literature/index.html">Literature</a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="../../../../contents/codes/index.html">Codes</a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../contents/projects/index.html">Projects</a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-scribbles" role="button" data-bs-toggle="dropdown" aria-expanded="false">Scribbles</a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-scribbles">    
+        <li>
+    <a class="dropdown-item" href="../../../../contents/blog/index.html">
+ <span class="dropdown-text">Blog</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../../../contents/literature/index.html">
+ <span class="dropdown-text">Literature</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
@@ -195,42 +205,48 @@
 <main class="content" id="quarto-document-content">
 <header id="title-block-header" class="quarto-title-block default">
 
-<p>Create and delete repo</p><p></p>
+<p>What changes did I make?</p><p></p>
 
 
-<div class="quarto-title"><h1 class="title display-7">A bit of git-ting</h1><p class="subtitle lead"></p></div><div class="quarto-categories"><div class="quarto-category">codes</div><div class="quarto-category">bash</div><div class="quarto-category">git</div><div class="quarto-category">version control</div><div class="quarto-category">germany</div><div class="quarto-category">2022</div></div><div class="quarto-title-meta"><div><div class="quarto-title-meta-heading">Author</div><div class="quarto-title-meta-contents"><div class="quarto-title-authors"><div><div>
+<div class="quarto-title"><h1 class="title display-7">Checking (git) changes from terminal</h1><p class="subtitle lead"></p></div><div class="quarto-categories"><div class="quarto-category">codes</div><div class="quarto-category">git</div><div class="quarto-category">version control</div><div class="quarto-category">comparision</div><div class="quarto-category">2022</div></div><div class="quarto-title-meta"><div><div class="quarto-title-meta-heading">Author</div><div class="quarto-title-meta-contents"><div class="quarto-title-authors"><div><div>
 <p>Pratik Bhandari</p>
-</div></div></div></div></div><div><div class="quarto-title-meta-heading">Published</div><div class="quarto-title-meta-contents"><p class="date">April 16, 2022</p></div></div></div></header>
+</div></div></div></div></div><div><div class="quarto-title-meta-heading">Published</div><div class="quarto-title-meta-contents"><p class="date">April 18, 2022</p></div></div></div></header>
 <!-- Oh, so some links brought you here. Cool.\ -->
 <hr>
-<p>The first thing that I do for any data analyses or writing project is create a remote git repository either in github or in gitlab. Then I create a local R project in R Studio, and connect it to the remote git repo. The ‘how-to’ of this process can be found online; I’ll write up a brief overview, probably.</p>
-<p>This post is to remind myself of most frequently used git commands.</p>
-<!-- When you click on 'New Project' on the top right drop down menu, R Studio give you three choices and one of them is to *Checkout a project from a version control repository*.-->
+<p>One of the main reasons for using git is <em>version control</em>. No longer naming the files as ‘final-draft’, ‘finaly-draft2’, ‘final-finaldraft_pb’, etc. You can see what changes have been made incrementally: Compare the version of the document created 10 days ago with the recent one.</p>
+<section id="example" class="level4">
+<h4 class="anchored" data-anchor-id="example">Example:</h4>
+<p>Say we have a file <code>01_chapter.Rmd</code>. It is the first chapter of my thesis. I have just made some changes in it. Before <code>git add &lt;file&gt;</code>, I want to compare these changes with the latest version that I have already committed. Then, this is what I do<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>:</p>
 <div class="cell">
-<div class="sourceCode" id="cb1"><pre class="sourceCode r cell-code code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Push local changes to the remote repo:</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>git push <span class="sc">-</span>u origin master</span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Creat and checkout new branch:</span></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>git checkout <span class="sc">-</span>b NewBranchName</span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>git push <span class="sc">-</span>u origin BranchIamWorkingOn <span class="co"># to push from local repo to remote repo if the remote repo doesn't have this `BranchIamWorkinOn` setup up already</span></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="co"># Delete a local branch:</span></span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>git branch <span class="sc">-</span>D BranchToBeDeleted</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r cell-code code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>git diff HEAD 01_chapter.Rmd</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="co"># OR</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>git diff master<span class="sc">:</span>01_chapter.Rmd 01_chapter.Rmd</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<p>Be careful on deleting. The <code>-D</code> is a hard delete!</p>
-<p>Merge branches locally:</p>
+<p>If <code>01_chapter.Rmd</code> is not in the working directory then provide the path to it.</p>
+<p>Other different comparisons:</p>
 <div class="cell">
-<div class="sourceCode" id="cb2"><pre class="sourceCode r cell-code code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>git checkout main <span class="co">#First switch to the main/master branch</span></span>
-<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>git merge BranchIwantToMerge <span class="co">#The branch still exists after merging</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb2"><pre class="sourceCode r cell-code code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>git diff HEAD<span class="sc">~</span><span class="dv">2</span> 01_chapter.Rmd</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="co"># OR</span></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>git diff master<span class="sc">~</span><span class="dv">2</span><span class="sc">:</span>01_chapter.Rmd 01_chapter.Rmd</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="co">#--</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>git diff master<span class="sc">~</span><span class="dv">3</span><span class="sc">:</span>01_chapter.Rmd master<span class="sc">~</span><span class="dv">1</span><span class="sc">:</span>01_chapter.Rmd</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<p>This was a dirty note down ;)</p>
-<p>Other frequently used commands are <code>git pull</code>, <code>git merge</code>, <code>git rm -r --cached</code>, etc.</p>
-<p>Tune in for notes on frequently used <code>R</code>, <code>bash</code> and <code>git</code> commands.</p>
+<p>You got the idea.</p>
+<p>The global comparison of all files is just <code>git diff</code> which I do not prefer.<br>
+</p>
+<p>Tip: If you are working on RStudio, its GUI shows the changes in files since the last commit, including what files are added or deleted.</p>
 
 
 
-</main> <!-- /main -->
+</section>
+
+<div id="quarto-appendix" class="default"><section class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1" role="doc-endnote"><p> More in <a href="https://stackoverflow.com/questions/5586383/how-to-diff-one-file-to-an-arbitrary-version-in-git">here</a><a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const icon = "";

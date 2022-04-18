@@ -6,10 +6,11 @@ author: Pratik Bhandari
 date: 2022-04-16
 categories:
   - codes
-  - bash
   - git
-  - version control
-  - germany
+  - push
+  - pull
+  - remote
+  - local
   - "2022"
 ---
 

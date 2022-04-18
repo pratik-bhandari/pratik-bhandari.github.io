@@ -20,12 +20,14 @@ about:
     #   href: https://github.com/pratik-bhandari
 ---
 
-Hello there!
+ 🙏🏽 नमस्ते!
 
 I am a doctoral researcher at the Collaborative Research Center ([SFB 1102](https://sfb1102.uni-saarland.de)) in Saarland University where [Prof. Jutta Kray](https://www.uni-saarland.de/lehrstuhl/kray/team/jk.html) and [Prof. Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html) are my PhD supervisors.
 
 My [research](https://sites.google.com/view/pratik-bhandari/home) focuses on how we make sense of the spoken language under adverse listening conditions.
 I study when (and how) the linguistic context helps us understand degraded speech.
+
+I do write for fun as well. Check these: [Blog](./contents/blog/index.html) and [Literature](./contents/literature/index.html).
 
 I come from <span>&#x1F1F3;&#x1F1F5;</span>Nepal. So obviously, I have not climbed the ⛰️ Sagarmatha.
 
@@ -41,14 +43,6 @@ Master in Cognitive Neuroscience of Language **|** Sep 2017 - Sep 2018
 
 **Institute of Medicine**, Tribhuvan University **|** Nepal\
 Bachelor in Audiology & Speech-Language Pathology **|** Nov 2010 - April 2015
-
----
-
-## Research & Work
-
-**Action Conrol and Cognition Lab**, U of Hyderabad, India **|** Research Intern **|** Dec 2015 - May 2017
-
-**B & C Medical College Teaching Hospital**, Nepal **|** Audiologist & Speech Pathologist **|** April 2015 - Dec 2015
 
 ---
 

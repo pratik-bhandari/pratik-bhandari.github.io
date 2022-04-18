@@ -1,0 +1,68 @@
+---
+title: "Research Projects"
+subtitle: ""
+author: ""
+date: ""
+---
+
+***
+
+These are some of the works that I have undertaken in the past few years.
+
+### Language Comprehension in a Noisy Channel
+
+I am a part of the project [A4](https://sfb1102.uni-saarland.de/projects/language-comprehension-in-noisy-channel/) at the Collaborative Research Center (SFB 11O2) *Information Density and Linguistic Encoding* in Saarland University which aims to 'examine how noise (or the effect of reduced hearing ability) will influence language comprehension, and how natural language generation systems can adapt their output to minimize the risk of misunderstanding'. 
+With Prof. [Vera Demberg](https://scholar.google.de/citations?hl=en&user=l2CFSAMAAAAJ),
+Prof. [Jutta Kray](https://scholar.google.de/citations?user=dEF9T0cAAAAJ&hl=en&oi=ao) and
+Prof. [Dietrich Klakow](https://scholar.google.de/citations?hl=en&user=_HtGYmoAAAAJ) as the PIs of the project,
+I investigate the behavioral and neural correlates of the interaction between top-down predictive language processing and bottom-up auditory perceptual processing,
+and how 'noise in the signal' interacts with these functions.
+This project also contributes to my doctoral research (Nov 2018 - present). 
+
+### COVIDiSTRESS global survey
+
+As a part of an international consortium of researchers who gathered together
+to collect data on people's psychological response to covid-19 pandemic in 48 countries.
+The [study](https://royalsocietypublishing.org/doi/full/10.1098/rsos.200589) investigated the differences in responses across countries and cultures,
+and the impact of these differences in people's behavior,
+their coping and trust in governments' preventive measures.
+A couple of findings of this very early study were:
+Those who were most concerned over the virus trusted the government measures mainly where the policies were strict;
+and one of the primary factors that contributed to mental distress was the concern over a disease.
+There were within and between country variations, undoubtedly.
+
+### Predictability in Bilingual Language Processing
+
+I conducted a research project to investigate the effect of predictability on semantic processing and metacognitive processing in Spanish-Basque bilinguals while doing my Master in Cognitive Neuroscience of Language at the Basque Center on Cognition, Brain and Language (Sep 2017 - Sep 2018).
+In 2 experiments, I found that predictability enhances both semantic and metacognitive processing in Basque (low proficiency language) when it was presented as predictable trials.
+Such effect of predictability was not observed in Spanish (high proficiency language).
+This research project resulted in my Master thesis and it was supervised by Prof. [David Soto](https://scholar.google.de/citations?hl=en&user=7bVliAUAAAAJ).
+
+### Executive Control in Bilinguals
+
+I was involved in a number of research projects as a research intern at Prof. [Ramesh Kumar Mishra](https://scholar.google.de/citations?user=aWaIy0sAAAAJ&hl=en&oi=ao)'s Action Control and Cognition Lab at the Center for Neural and Cognitive Sciences in the University of Hyderabad, India (Dec 2015 - May 2017).
+
+#### Sensitivity to Contextual Factors
+
+In this [research](https://link.springer.com/article/10.1007/s41809-020-00060-7) we examined if bilinguals are sensitive to the social-conversational context:
+if their executive control is modulated by the presence of interlocutors.
+We found that compared to low proficient bilinguals, high proficient bilinguals bring in higher executive control when the context demands higher monitoring due to the presence of diverse interlocutors (i.e., those who differ in their language profile) randomly.
+
+#### Language Proficiency and Aging
+
+This [research](https://www.tandfonline.com/doi/abs/10.1080/13825585.2018.1562029) examined if second language proficiency modulates executive control in older adults.
+We found that indeed there was no bilingual advantage:
+second language proficiency did not have any effect on the executive control measures in older Telugu-English bilinguals.
+
+### Neurodiversity
+
+This was a [letter](https://doi.org/10.1016/S0140-6736(16)32176-6) based on personal experience with autism,
+and my clinical experience ---
+I was a speech-language pathologist for over 4 years in Nepal
+(student clinical for more than 3 years, clinical intern for a year, then some months of independend parctice).
+I expressed my concern to the Editor of The Lancet, along with my co-author Mr. [Pratik Khanal](https://scholar.google.de/citations?user=VT20mKcAAAAJ&hl=en), regarding the "no cure" advocacy and the neurodiversity movement as someone from an underdeveloped country.
+
+
+***
+<!-- The goal of the project is to 'examine how noise (or the effect of reduced hearing ability) will influence l
+anguage comprehension, and how natural language generation systems can adapt their output to minimize the risk of misunderstanding'. -->

@@ -44,18 +44,16 @@ website:
        href: index.qmd
      - text: "News"
        href: contents/news/index.qmd
-     - text: "Blog"
-       href: contents/blog/index.qmd
-     - text: "Literature"
-       href: contents/literature/index.qmd
      - text: "Codes"
        href: contents/codes/index.qmd
-     # - text: "Art"
-     #   menu:
-     #     - text: "Literature"
-     #       href: contents/literature/index.qmd
-     #     - text: "Codes"
-     #       href: contents/codes/index.qmd
+     - text: "Projects"
+       href: contents/projects/index.qmd
+     - text: "Scribbles"
+       menu:
+         - text: "Blog"
+           href: contents/blog/index.qmd
+         - text: "Literature"
+           href: contents/literature/index.qmd
    right:
      - text: "Contact"
        href: contents/contact.qmd
