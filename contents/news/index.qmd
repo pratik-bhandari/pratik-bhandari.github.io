@@ -14,6 +14,6 @@ date: ""
 for example.
 Do you see a pattern? Humans are pattern seeking (and finding) animals collectively as a nation too.
 
-* **April 14**: Our work on *the effect of speech rate on degraded speech comprehension* has been accepted for poster presentation at the IMPRS Conference [2022](https://www.mpi.nl/imprs-conference) to be held at MPI Psycholinguistics (Nijmegen, Netherlands) in June 01-03. A manuscript is cooking as well [;)](./../../bhandari2022speechrate.pdf)
+* **April 14**: Our work on *the effect of speech rate on degraded speech comprehension* has been accepted for poster presentation at the IMPRS Conference [2022](https://www.mpi.nl/imprs-conference) to be held at MPI Psycholinguistics (Nijmegen, Netherlands) in June 01-03. A manuscript is cooking as well [;)](bhandari2022speechrate.pdf)
 
 * **March 09**: Our work on *the role of attention on degraded speech comprehension* has been accepted for poster presentation at the APS Annual Convention [2022](https://www.psychologicalscience.org/conventions/2022-aps-annual-convention) in Chicago in May 26-29.
