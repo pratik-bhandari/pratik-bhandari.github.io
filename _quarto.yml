@@ -9,7 +9,7 @@ website:
   title: "Pratik Bhandari"
   image: "me.png"
   favicon: "me.png"
-  google-analytics: "UA-165918285-1"
+  google-analytics: "G-2V3SR7RJ3H" #"UA-165918285-1"
   open-graph: true
   twitter-card: true
   site-url: https://pratik-bhandari.github.io

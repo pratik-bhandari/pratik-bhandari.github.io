@@ -27,7 +27,8 @@ I am a doctoral researcher at the Collaborative Research Center ([SFB 1102](http
 My [research](https://sites.google.com/view/pratik-bhandari/home) focuses on how we make sense of the spoken language under adverse listening conditions.
 I study when (and how) the linguistic context helps us understand degraded speech.
 
-I do write for fun as well. Check these: [Blog](./contents/blog/index.html) and [Literature](./contents/literature/index.html).
+Here you'll find my formal academic works: [research projects](./contents/projects/index.html) and [publications](https://sites.google.com/view/pratik-bhandari/publications).\
+And here are some less formal and non-academic writings: [blog](./contents/blog/index.html) and [literature](./contents/literature/index.html).\
 
 I come from <span>&#x1F1F3;&#x1F1F5;</span>Nepal. So obviously, I have not climbed the ⛰️ Sagarmatha.
 
