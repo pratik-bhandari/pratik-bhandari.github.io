@@ -22,15 +22,15 @@ about:
 
  🙏🏽 नमस्ते!
 
-I am a doctoral researcher at the Collaborative Research Center ([SFB 1102](https://sfb1102.uni-saarland.de)) in Saarland University where [Prof. Jutta Kray](https://www.uni-saarland.de/lehrstuhl/kray/team/jk.html) and [Prof. Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html) are my PhD supervisors.
+I am a doctoral researcher at the Collaborative Research Center ([SFB 1102](https://sfb1102.uni-saarland.de)) at Saarland University. [Prof. Jutta Kray](https://www.uni-saarland.de/lehrstuhl/kray/team/jk.html) and [Prof. Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html) are my PhD supervisors.
 
 My [research](https://sites.google.com/view/pratik-bhandari/home) focuses on how we make sense of the spoken language under adverse listening conditions.
-I study when (and how) the linguistic context helps us understand degraded speech.
+I study when (and how) linguistic context helps us understand degraded speech.
 
 Here you'll find my formal academic works: [research projects](./contents/projects/index.html) and [publications](https://sites.google.com/view/pratik-bhandari/publications).\
 And here are some less formal and non-academic writings: [blog](./contents/blog/index.html) and [literature](./contents/literature/index.html).\
 
-I come from <span>&#x1F1F3;&#x1F1F5;</span>Nepal. So obviously, I have not climbed the ⛰️ Sagarmatha.
+<!--I come from <span>&#x1F1F3;&#x1F1F5;</span>Nepal. So obviously, I have not climbed the ⛰️ Sagarmatha.-->
 
 ---
 
@@ -50,9 +50,9 @@ Bachelor in Audiology & Speech-Language Pathology **|** Nov 2010 - April 2015
 ## Selected publications
 
 **Bhandari, P.**, Demberg, V., & Kray, J. (2021). Semantic predictability facilitates
-comprehension of degraded speech in a graded manner. *Frontiers in Psychology*, 3769. [[html](https://doi.org/10.3389/fpsyg.2021.714485)]
+comprehension of degraded speech in a graded manner. *Frontiers in Psychology*, 3769. [[html](https://doi.org/10.3389/fpsyg.2021.714485)] [[pdf](https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fdownload%2Fnuv36%2F%3Fdirect%3D%26mode%3Drender)]
 
-**Bhandari, P.**, Prasad, S., & Mishra, R.K. (2020). High proficient bilinguals bring in higher executive control when encountering diverse interlocutors. *Journal of Cultural Cognitive Science. 4*(2), 201-215. [[html](https://doi.org/10.1007/s41809-020-00060-7)]
+**Bhandari, P.**, Prasad, S., & Mishra, R.K. (2020). High proficient bilinguals bring in higher executive control when encountering diverse interlocutors. *Journal of Cultural Cognitive Science. 4*(2), 201-215. [[html](https://doi.org/10.1007/s41809-020-00060-7)] [[pdf](https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fdownload%2Ffm8da%2F%3Fdirect%3D%26mode%3Drender)]
 
 **Bhandari, P.**, & Khanal, P. (2016). Pride in autistic diversity: against treatment or for inclusion? *The Lancet, 388*(10059), 24477. [[html](https://doi.org/10.1016/S0140-6736(16)32176-6)]
 

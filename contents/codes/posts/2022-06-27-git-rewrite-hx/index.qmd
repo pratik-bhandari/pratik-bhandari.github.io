@@ -1,0 +1,14 @@
+---
+draft: true
+---
+
+https://stackoverflow.com/questions/34344034/git-pull-on-a-different-branch
+
+https://codeburst.io/rewrite-history-in-git-a05b51dc8993
+
+https://phoenixnap.com/kb/how-to-delete-line-vim
+
+https://linuxhint.com/vim_modes/
+
+https://psychclassics.yorku.ca/Munster/Witness/index.htm
+
