@@ -8,6 +8,8 @@ date: ""
 
 ***
 
+* **July24**: I will present two posters at the Architectures and Mechanisms for Language Processing ([AMLaP](https://amlap2022.york.ac.uk)) conference. It'll take place in York, England, September 7-9. One poster is about the recent publication on attention-prediction interplay. The second one is about the role of speech rate in the interaction of top-down and bottom-up processes in degraded speech comprehension. 
+
 * **July 22**: Our [paper](https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fdownload%2Ftdvhs%2F%3Fdirect%3D%26mode%3Drender) on the role of attention to context in understanding degraded speech is published in *Language and Cognition*[.](https://doi.org/10.1017/langcog.2022.16) Cheers!
 
 * **June 14**: Earlier this month, I attended the [IMPRS conference](https://www.mpi.nl/imprs-conference) at the Max Planck Institute for Psycholinguistics at Nijmegen in the Netherlands. I presented a [poster](https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fdownload%2Fkdpae%2F%3Fdirect%3D%26mode%3Drender) discussing the results of the experiments in which we found that a decrease in the speech rate does not amplify the [predictability effect](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.714485/full) in degraded speech comprehension.
