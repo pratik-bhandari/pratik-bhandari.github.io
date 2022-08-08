@@ -1,0 +1,27 @@
+---
+title: "Speaking fast and slow"
+subtitle: |
+  Do we utilize context better when degraded speech is presented slow?
+author: Pratik Bhandari
+date: 2022-08-08
+categories:
+  - predictive processing
+  - speech perception
+  - auditory processing
+  - speech rate
+  - "2022"
+draft: false
+image: speech-rate_Lerner2014.png
+---
+
+
+***
+
+**Under construction**
+
+<figure>
+  <img src="speech-rate_Lerner2014.png" alt="Figure of waveform of audio samples of different speed." style="width:100%">
+  <figcaption>Fig.1 - Schematic representation of waveforms of different speech rates of clean speech. Taken from Lerner et al., 2014</figcaption>
+</figure>
+
+<!-- ![](speech-rate_Lerner2014.png){fig-align="center"} -->

@@ -2,8 +2,8 @@ project:
   type: website
   output-dir: docs
   
-  preview:
-    output: _site
+preview: 
+  output-file: _site
 
 website:
   title: "Pratik Bhandari"
