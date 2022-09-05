@@ -1,6 +1,6 @@
 ---
 title: "पाँचौँ लोकतन्त्र दिवस "
-subtitle: |
+description: |
   एक दशक अघिको अनुभवलाई चियाएर हेर्दा
 author: Pratik Bhandari
 date: 2012-04-18

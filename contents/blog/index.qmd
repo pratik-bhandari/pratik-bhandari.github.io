@@ -4,11 +4,11 @@ subtitle: Mixed bag of half-baked opinions
 listing:
   sort: "date desc"
   contents: "posts"
-  sort-ui: false
+  sort-ui: true
   filter-ui: false
   categories: true
   # feed: true
-page-layout: article
+page-layout: full
 title-block-banner: "#d9d9d9"
 title-block-banner-color: black
 search: false

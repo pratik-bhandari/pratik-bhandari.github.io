@@ -8,6 +8,7 @@
 
 <meta name="author" content="Pratik Bhandari">
 <meta name="dcterms.date" content="2022-08-08">
+<meta name="description" content="Do we utilize context better when degraded speech is presented slow?">
 
 <title>Pratik Bhandari - Speaking fast and slow</title>
 <style>
@@ -155,16 +156,21 @@ gtag('config', 'G-2V3SR7RJ3H', { 'anonymize_ip': true});
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Speaking fast and slow</h1>
-<p class="subtitle lead"></p><p>Do we utilize context better when degraded speech is presented slow?</p><p></p>
   <div class="quarto-categories">
     <div class="quarto-category">predictive processing</div>
     <div class="quarto-category">speech perception</div>
     <div class="quarto-category">auditory processing</div>
     <div class="quarto-category">speech rate</div>
     <div class="quarto-category">2022</div>
+    <div class="quarto-category">AMLaP</div>
   </div>
   </div>
 
+<div>
+  <div class="description">
+    <p>Do we utilize context better when degraded speech is presented slow?</p>
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
@@ -189,14 +195,138 @@ gtag('config', 'G-2V3SR7RJ3H', { 'anonymize_ip': true});
 </header>
 
 <hr>
-<p><strong>Under construction</strong></p>
 <figure class="figure">
-<img src="speech-rate_Lerner2014.png" alt="Figure of waveform of audio samples of different speed." style="width:100%" class="figure-img">
+<p><img src="speech-rate_Lerner2014.png" alt="Figure of waveform of audio samples of different speed." style="width:100%" class="figure-img"></p>
 <figcaption class="figure-caption">
 Fig.1 - Schematic representation of waveforms of different speech rates of clean speech. Taken from Lerner et al., 2014
 </figcaption>
 </figure>
 <!-- ![](speech-rate_Lerner2014.png){fig-align="center"} -->
+<p>In previous studies, we found that at a moderate level of speech degradation, listeners use context information that they attend to and use it to form predictions about the word that comes next in a sentence.</p>
+<p>Let’s take a very simplified example. Imagine you are speaking to someone over a cellphone, and the signal is poor, which distorts the speech that you hear. It is strenuous. Nonetheless, most of the time, you carry on the conversation successfully. How? You use the information from the context and “predict” what the other person will say next when their speech is moderately distorted, and you are attending to the context.</p>
+<p>What would happen if the other person speaks faster or slower than they’d generally speak?</p>
+<p>To answer similar questions, we conducted two experiments with two groups of native German speakers. In Experiment 1, they listened to the sentences presented at a normal and fast speech rate (<em>0.65x</em>), while in Experiment 2, they listened to the sentences presented at a normal and slow speech rate (<em>1.35x</em>). Apart from the speed, sentences were identical in both experiments: 120 high and 120 low predictability sentences were presented. For example, <em>Sie findet die Bälle</em> (EN: She finds the balls) is a low predictability sentence, and <em>Sie jonliert die Bälle</em> (EN: She juggles the balls) is a high predictability sentence. We expected that when the speech rate increases (i.e., fast speech), processing demand for degraded speech increases. Furthermore, listeners have lesser time than normal speech to process the context information. Hence, forming predictions is difficult and less efficient. On the other hand, we expected that when the speech rate decreases (i.e., slow speech), the processing demand for degraded speech reduces. Listeners have more time than normal speech to process the unfolding speech, including the context. Hence, the intelligibility of degraded speech increases and the contextual facilitation is amplified compared to the normal speech rate.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="e1fast.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+<table class="table">
+<caption>Estimated effects of the model accounting for the correct word recognition in Experiment 1</caption>
+<colgroup>
+<col style="width: 24%">
+<col style="width: 18%">
+<col style="width: 18%">
+<col style="width: 18%">
+<col style="width: 18%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Fixed effects</th>
+<th>Estimate</th>
+<th>Std. Error</th>
+<th>z value</th>
+<th>p value</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Intercept</td>
+<td>1.34</td>
+<td>.24</td>
+<td>5.58</td>
+<td>&lt;.001</td>
+</tr>
+<tr class="even">
+<td>Speech rate (Fast)</td>
+<td>-.98</td>
+<td>.24</td>
+<td>-4.16</td>
+<td>&lt;.001</td>
+</tr>
+<tr class="odd">
+<td>Target word predictability (High)</td>
+<td>2.42</td>
+<td>.28</td>
+<td>8.55</td>
+<td>&lt;.001</td>
+</tr>
+<tr class="even">
+<td>Speech rate x target word predictability</td>
+<td>1.06</td>
+<td>.42</td>
+<td>2.50</td>
+<td>.012</td>
+</tr>
+</tbody>
+</table>
+<p>As we had expected, the results of Experiment 1 showed a significant interaction between speech rate and predictability. Contextual facilitation decreased as the speech rate increased. Importantly, the decrease was driven by the reduced word recognition in the low predictability sentences; lexico-semantic cues in the high predictability sentences are more robust than in low predictability sentences. When the processing time is short, it reduces the activation of likely sentence endings, especially when the context is less constraining.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="e2slow.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+<table class="table">
+<caption>Estimated effects of the model accounting for the correct word recognition in Experiment 2</caption>
+<colgroup>
+<col style="width: 24%">
+<col style="width: 18%">
+<col style="width: 18%">
+<col style="width: 18%">
+<col style="width: 18%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Fixed effects</th>
+<th>Estimate</th>
+<th>Std. Error</th>
+<th>z value</th>
+<th>p value</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Intercept</td>
+<td>1.41</td>
+<td>.23</td>
+<td>6.20</td>
+<td>&lt;.001</td>
+</tr>
+<tr class="even">
+<td>Speech rate (Slow)</td>
+<td>-.08</td>
+<td>.14</td>
+<td>-.57</td>
+<td>.568</td>
+</tr>
+<tr class="odd">
+<td>Target word predictability (High)</td>
+<td>2.58</td>
+<td>.30</td>
+<td>8.65</td>
+<td>&lt;.001</td>
+</tr>
+<tr class="even">
+<td>Speech rate x target word predictability</td>
+<td>.44</td>
+<td>.27</td>
+<td>1.65</td>
+<td>.099</td>
+</tr>
+</tbody>
+</table>
+<p>The results of Experiment 2, however, were not as we had expected. The word recognition accuracy did not increase with a decrease in speech rate (i.e., when the speech became slower). Slow speech provides more time to process the (context) information but does not increase word recognition disproportionately in high or low predictability sentences. It indicates that although slow speech reduces the effortful listening of degraded speech, it does not benefit comprehension and contextual facilitation any more than normal speech.</p>
+<p>In short, the findings of our experiments show that slowing down a moderately degraded speech does not amplify the facilitatory effect provided the context information. However, an increase in speech rate has a detrimental impact on identifying words that are less predictable from the context. <!--If your conversation partner speaks slow, it likely doesn’t help you understand them any better over the cellphone when the signal is weak, and the speech is moderately degraded.
+But, if they are speaking faster than usual, it’s better that you ask them not to do so.
+Of course, the same applies to you too ;)--></p>
+<!-- As in any scientific study, this study also has its limitations (e.g., only two distinct speech rates as fast and slow speech), which I'll discuss in the future posts. -->
+<!--The major one is that we have only used two distinct speech rates as the fast and slow speech to compare with the normal speech rate.
+At other slower speech rates, the effect of predictability could be amplified.
+We have only considered word recognition accuracy as the dependent variable. 
+Other measures like RT or neural oscillations could provide a better understanding of how a change in speech rate affects language comprehension (e.g., timecourse, neural correlates). -->
+<hr>
+<p>Lerner, Y., Honey, C. J., Katkov, M., &amp; Hasson, U. (2014). Temporal scaling of neural responses to compressed and dilated natural speech. <em>Journal of Neurophysiology, 111</em>(12), 2433–2444. https://doi.org/10.1152/jn.00497.2013</p>
+<p>Strauß, A., Kotz, S. A., &amp; Obleser, J. (2013). Narrowed expectancies under degraded speech: Revisiting the N400. <em>Journal of Cognitive Neuroscience, 25</em>(8), 1383–1395. https://doi.org/10.1162/jocn_a_00389</p>
 
 
 

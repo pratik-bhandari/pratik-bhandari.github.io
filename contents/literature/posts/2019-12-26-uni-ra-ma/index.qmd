@@ -1,6 +1,7 @@
 ---
 title: "उनी र म"
-subtitle: ""
+description: |
+  कʃʃʃठै!…‘द्वन्द्वात्मक’ भौतिकवादी हाम्रो सम्बन्ध
 author: Pratik Bhandari
 date: 2019-12-26
 categories:

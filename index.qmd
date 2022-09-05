@@ -20,7 +20,7 @@ about:
     #   href: https://github.com/pratik-bhandari
 ---
 
- 🙏🏽 नमस्ते!
+
 
 I am a doctoral researcher at the Collaborative Research Center ([SFB 1102](https://sfb1102.uni-saarland.de)) at Saarland University. [Prof. Jutta Kray](https://www.uni-saarland.de/lehrstuhl/kray/team/jk.html) and [Prof. Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html) are my PhD supervisors.
 

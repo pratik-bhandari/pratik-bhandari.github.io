@@ -1,6 +1,7 @@
 ---
 title: "कनिका मान्छे"
-subtitle: ""
+description: |
+  ती असरल्ल छरिएका भुस ठानिने, कनिका मान्छेहरु
 author: Pratik Bhandari
 date: 2020-01-06
 categories:

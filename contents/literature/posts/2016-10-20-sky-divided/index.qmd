@@ -1,6 +1,7 @@
 ---
 title: "Sky divided"
-subtitle: ""
+description: |
+  Every day, someone mightier builds up another wall.
 author: Pratik Bhandari
 date: 2016-10-20
 categories:

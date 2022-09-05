@@ -1,6 +1,7 @@
 ---
 title: "The joy of hunting"
-subtitle: ""
+description: |
+  Who’d waste a bullet to drag that dolour down
 author: Pratik Bhandari
 date: 2020-02-08
 categories:

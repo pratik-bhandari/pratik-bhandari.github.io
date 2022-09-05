@@ -1,6 +1,6 @@
 ---
 title: "म त गजलकार भएँ"
-subtitle: ""
+description: ""
 author: Pratik Bhandari
 date: 2011-07-24
 categories:

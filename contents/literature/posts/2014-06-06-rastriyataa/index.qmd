@@ -1,6 +1,7 @@
 ---
 title: "कैद राष्ट्रियता"
-subtitle: ""
+description: |
+  अनि साँचेका छौ सपना एउटा रङ्गीन देशको
 author: Pratik Bhandari
 date: 2014-06-06
 categories:

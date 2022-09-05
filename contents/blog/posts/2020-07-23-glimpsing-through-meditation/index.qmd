@@ -1,6 +1,6 @@
 ---
 title: "Glimpsing through Meditation"
-subtitle: |
+description: |
   Learning to train the mind
 author: Pratik Bhandari
 date: 2020-07-23

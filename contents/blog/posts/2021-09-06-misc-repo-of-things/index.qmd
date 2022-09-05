@@ -1,6 +1,6 @@
 ---
 title: "Why not pick your brain"
-subtitle: |
+description: |
   Yet another refresher...
 author: Pratik Bhandari
 date: 2021-06-09

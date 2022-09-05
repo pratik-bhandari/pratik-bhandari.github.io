@@ -1,7 +1,7 @@
 ---
 title: "Bookmarking conferences"
-subtitle: |
-  So that you don't forget
+description: |
+  ……so that you don't forget
 author: Pratik Bhandari
 date: 2021-12-11
 categories:

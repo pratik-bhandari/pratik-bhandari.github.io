@@ -1,6 +1,6 @@
 ---
 title: "'शहरको कथा'"
-subtitle: |
+description: |
   किशोर नेपालको उपन्यास “शहरको कथा”को छोटो विश्लेषण
 author: Pratik Bhandari
 date: 2012-08-19

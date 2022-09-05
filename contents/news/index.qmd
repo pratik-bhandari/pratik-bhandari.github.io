@@ -2,8 +2,8 @@
 title: "What's in the news?"
 subtitle: |
   Work/life updates
-author: ""
-date: ""
+# author: ""
+# date: ""
 ---
 
 ***

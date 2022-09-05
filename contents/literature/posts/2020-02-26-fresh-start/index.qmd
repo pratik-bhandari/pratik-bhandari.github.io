@@ -1,6 +1,7 @@
 ---
 title: "A fresh start"
-subtitle: ""
+description: |
+  I start a new day with a scotch of whiskey
 author: Pratik Bhandari
 date: 2020-02-26
 categories:

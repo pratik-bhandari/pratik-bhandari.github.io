@@ -1,8 +1,8 @@
 ---
 title: "Research Projects"
 subtitle: ""
-author: ""
-date: ""
+# author: ""
+# date: ""
 ---
 
 ***

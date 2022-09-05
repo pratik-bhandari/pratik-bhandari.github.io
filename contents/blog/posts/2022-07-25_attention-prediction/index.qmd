@@ -1,6 +1,6 @@
 ---
 title: "Attention is mostly what you need"
-subtitle: |
+description: |
   Context matters, so does attention
 author: Pratik Bhandari
 date: 2022-07-25
@@ -10,6 +10,7 @@ categories:
   - auditory processing
   - attention
   - "2022"
+  - AMLaP
 draft: false
 image: attention.png
 ---

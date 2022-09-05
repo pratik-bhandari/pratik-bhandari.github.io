@@ -1,81 +1,90 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
-  <meta charset="utf-8">
-  <meta name="generator" content="quarto-0.9.165">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <meta name="author" content="Pratik Bhandari">
-  <meta name="dcterms.date" content="2022-07-25">
-  <title>Pratik Bhandari - Attention is mostly what you need</title>
-  <style>
-    code{white-space: pre-wrap;}
-    span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
-    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
-  </style>
 
-  <script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
-  <script src="../../../../site_libs/quarto-nav/headroom.min.js"></script>
-  <script src="../../../../site_libs/clipboard/clipboard.min.js"></script>
-  <meta name="quarto:offset" content="../../../../">
-  <script src="../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
-  <script src="../../../../site_libs/quarto-search/fuse.min.js"></script>
-  <script src="../../../../site_libs/quarto-search/quarto-search.js"></script>
-  <link href="../../../../me.png" rel="icon" type="image/png">
-  <script src="../../../../site_libs/quarto-html/quarto.js"></script>
-  <script src="../../../../site_libs/quarto-html/popper.min.js"></script>
-  <script src="../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
-  <script src="../../../../site_libs/quarto-html/anchor.min.js"></script>
-  <link href="../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-  <link id="quarto-text-highlighting-styles" href="../../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet">
-  <script src="../../../../site_libs/bootstrap/bootstrap.min.js"></script>
-  <link href="../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-  <link href="../../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
-  <script id="quarto-search-options" type="application/json">{
-    "location": "navbar",
-    "copy-button": false,
-    "collapse-after": 3,
-    "panel-placement": "end",
-    "type": "overlay",
-    "limit": 20,
-    "language": {
-      "search-no-results-text": "No results",
-      "search-matching-documents-text": "matching documents",
-      "search-copy-link-title": "Copy link to search",
-      "search-hide-matches-text": "Hide additional matches",
-      "search-more-match-text": "more match in this document",
-      "search-more-matches-text": "more matches in this document",
-      "search-clear-button-title": "Clear",
-      "search-detached-cancel-button-title": "Cancel",
-      "search-submit-button-title": "Submit"
-    }
-  }</script>
-  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-2V3SR7RJ3H"></script>
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.0.37">
 
-  <script type="text/javascript">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-2V3SR7RJ3H', { 'anonymize_ip': true});
-  </script>
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
-  <link rel="stylesheet" href="../../../../styles.css">
+<meta name="author" content="Pratik Bhandari">
+<meta name="dcterms.date" content="2022-07-25">
+<meta name="description" content="Context matters, so does attention">
+
+<title>Pratik Bhandari - Attention is mostly what you need</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+span.underline{text-decoration: underline;}
+div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+</style>
+
+
+<script src="../../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../../">
+<link href="../../../../me.png" rel="icon" type="image/png">
+<script src="../../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-2V3SR7RJ3H"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-2V3SR7RJ3H', { 'anonymize_ip': true});
+</script>
+
+
+<link rel="stylesheet" href="../../../../styles.css">
 <meta property="og:title" content="Pratik Bhandari - Attention is mostly what you need">
+<meta property="og:description" content="Context matters, so does attention">
 <meta property="og:image" content="https://pratik-bhandari.github.io/contents/blog/posts/2022-07-25_attention-prediction/attention.png">
 <meta property="og:site-name" content="Pratik Bhandari">
 <meta property="og:image:height" content="322">
 <meta property="og:image:width" content="600">
 <meta name="twitter:title" content="Pratik Bhandari - Attention is mostly what you need">
+<meta name="twitter:description" content="Context matters, so does attention">
 <meta name="twitter:image" content="https://pratik-bhandari.github.io/contents/blog/posts/2022-07-25_attention-prediction/attention.png">
 <meta name="twitter:image-height" content="322">
 <meta name="twitter:image-width" content="600">
 <meta name="twitter:card" content="summary_large_image">
 </head>
-<body class="fullcontent">
+
+<body class="nav-fixed">
+
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
@@ -138,17 +147,53 @@
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
+
 <header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Attention is mostly what you need</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">predictive processing</div>
+    <div class="quarto-category">speech perception</div>
+    <div class="quarto-category">auditory processing</div>
+    <div class="quarto-category">attention</div>
+    <div class="quarto-category">2022</div>
+    <div class="quarto-category">AMLaP</div>
+  </div>
+  </div>
 
-<p>Context matters, so does attention</p><p></p>
+<div>
+  <div class="description">
+    <p>Context matters, so does attention</p>
+  </div>
+</div>
 
 
-<div class="quarto-title"><h1 class="title display-7">Attention is mostly what you need</h1><p class="subtitle lead"></p></div><div class="quarto-categories"><div class="quarto-category">predictive processing</div><div class="quarto-category">speech perception</div><div class="quarto-category">auditory processing</div><div class="quarto-category">attention</div><div class="quarto-category">2022</div></div><div class="quarto-title-meta"><div><div class="quarto-title-meta-heading">Author</div><div class="quarto-title-meta-contents"><div class="quarto-title-authors"><div><div>
-<p>Pratik Bhandari</p>
-</div></div></div></div></div><div><div class="quarto-title-meta-heading">Published</div><div class="quarto-title-meta-contents"><p class="date">July 25, 2022</p></div></div></div></header>
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Pratik Bhandari </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">July 25, 2022</p>
+    </div>
+  </div>
+    
+  </div>
+  
+
+</header>
+
 <hr>
 <p>A couple of days ago our <a href="https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fdownload%2Ftdvhs%2F%3Fdirect%3D%26mode%3Drender">paper</a> on the role of attention in the facilitatory effect of predictability in the comprehension of degraded speech was published in <em><a href="https://doi.org/10.1017/langcog.2022.16">Language and Cognition</a></em>.</p>
 <p>In an earlier <a href="https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fdownload%2Fnuv36%2F%3Fdirect%3D%26mode%3Drender">paper</a> published in the the section Auditory Cognitive Neuroscience of Frontiers in Psychology, we had shown that listeners utilize context in a sentence that facilitates their comprehension of a degraded speech. Say, in a high predictability sentence like, “<em>She dribbles the ball</em>”, identification of “<em>ball</em>” is facilitated by its preceding context compared to a low predictability sentence like, “<em>She buys a ball</em>”. Now in this <em>Language and Cognition</em> paper, we have shown that such facilitation is possible <em>only</em> when listeners pay attention to the sentence context and process it.</p>
@@ -165,8 +210,26 @@
 
 
 </main> <!-- /main -->
-<script type="application/javascript">
+<script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {
@@ -186,7 +249,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.blur();
     // flash "checked"
     button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
     setTimeout(function() {
+      button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
     // clear code selection
@@ -273,6 +339,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
+
 
 
 </body></html>

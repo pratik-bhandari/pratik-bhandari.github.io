@@ -1,6 +1,6 @@
 ---
 title: "Relaxed restrictions in Saarbrücken"
-subtitle: |
+description: |
   Back to kind of normal!
 author: Pratik Bhandari
 date: 2021-05-22

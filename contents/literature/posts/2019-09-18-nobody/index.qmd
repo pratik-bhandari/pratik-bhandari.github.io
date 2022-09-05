@@ -1,6 +1,7 @@
 ---
 title: "Nobody-s"
-subtitle: ""
+description: |
+  Nobody-s are supposed to listen. Aren’t you Pavloved by now?
 author: Pratik Bhandari
 date: 2019-09-18
 categories:
