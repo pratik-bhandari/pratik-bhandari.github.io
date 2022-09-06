@@ -22,6 +22,10 @@ The first thing that I do for any data analyses or writing project is create a r
 
 This post is to remind myself of most frequently used git commands.
 
+The first thing I do for any data analyses or writing project is to create a remote git repository in github or gitlab. Then I create a local R project in R Studio and connect it to the remote git repo. I’ll probably write up a brief overview of this 'how-to' is some other post.
+
+This post is to remind me of the most frequently used git commands.
+
 <!-- When you click on 'New Project' on the top right drop down menu, R Studio give you three choices and one of them is to *Checkout a project from a version control repository*.-->
 
 ```{r branching}
@@ -38,8 +42,8 @@ git push -u origin BranchIamWorkingOn # to push from local repo to remote repo i
 # Delete a local branch:
 git branch -D BranchToBeDeleted
 ```
-Be careful on deleting. The `-D` is a hard delete! 
 
+Be careful about deleting. The `-D` is a hard delete! 
 
 Merge branches locally:
 

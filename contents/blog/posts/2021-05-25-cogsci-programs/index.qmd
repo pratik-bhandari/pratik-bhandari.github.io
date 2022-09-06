@@ -14,7 +14,10 @@ image: pratik-pickering_attlis.jpg
 
 ***
 
-During the interactions with my colleagues in [UdS](https://www.uni-saarland.de/en/research/profile/news.html) and friends from other universities, I have realized that those of us who work along the same line of research are not mutually aware of the conferences we'd all like to attend and probably benefit from. (It is a different topic, how beneficial conferences are.) Here I am curating a list of conferences some of which I have attended and seem worth sharing, and others I'd like to attend but have not yet.
+Many of my colleagues who consider themselves 'doing' cognitive science don't seem to be aware of the conferences that the other person in the group attends.
+Cog. Sci. is a broad field, and it is not possible to keep up with the conferences, journals, and publications across all domains. 
+Nonetheless, it might be helpful to keep track of, and attend if possible, the conferences that cover the common areas of interest.
+Here I am curating a list of conferences, some of which I have attended and some I'd like to attend.
 
 <br> This is nowhere near an exhaustive list; it is updated regularly.[^1]
 If it helps you, great! If not, at least I have a bookmark for myself <l> 😅 </l>
@@ -44,9 +47,9 @@ If it helps you, great! If not, at least I have a bookmark for myself <l> 😅 <
 | 17  | Salzburg Mind Brain Annual Meeting ([SAMBA 2022](https://samba.ccns.sbg.ac.at/samba-2022/register-and-submit-abstracts/))                                                                       | July 14 - July 15         | April 29                     | Salzburg, Austria                  |
 | 18  | International Max Planck Research School for Language Sciences (IMPRS) Conference [2022](https://www.mpi.nl/imprs-conference)                                                                   | June 01 - June 03         | March 22                     | Online & Nijmegen, the Netherlands |
 
-Okay, these programs lean towards psychology, and auditory & language sciences. They do not cover many other domains within cognitive science. <a href="mailto:pratikbhandarinp+blog@gmail.com?">Let me know</a> about other better-not-miss conferences, symposia and summer schools.<!-- https://direct.mit.edu/opmi/issue # Note this journal. -->
+Okay, these programs lean towards psychology and auditory & language sciences. They do not cover many other domains within cognitive science. <a href="mailto:pratikbhandarinp+blog@gmail.com?">Let me know</a> about other better-not-miss conferences, symposia and summer schools.<!-- https://direct.mit.edu/opmi/issue # Note this journal. -->
 
-Talking about summer schools, the following summer schools/workshops/trainings have been quite useful:
+Among the ones that I have attended, the following summer schools/workshops have been quite helpful:
 
 1.  Summer School on Statistical Methods for Linguistics and Psychology ([SMLP](https://vasishth.github.io/IntroBayesSMLP2021/))
 2.  Neuromatch academy ([NMA](https://academy.neuromatch.io))

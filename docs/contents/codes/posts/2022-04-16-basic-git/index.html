@@ -8,6 +8,7 @@
 
 <meta name="author" content="Pratik Bhandari">
 <meta name="dcterms.date" content="2022-04-16">
+<meta name="description" content="Create and delete repo">
 
 <title>Pratik Bhandari - A bit of git-ting</title>
 <style>
@@ -119,15 +120,6 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
     "search-submit-button-title": "Submit"
   }
 }</script>
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-2V3SR7RJ3H"></script>
-
-<script type="text/javascript">
-
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'G-2V3SR7RJ3H', { 'anonymize_ip': true});
-</script>
 
 
 <link rel="stylesheet" href="../../../../styles.css">
@@ -157,27 +149,20 @@ gtag('config', 'G-2V3SR7RJ3H', { 'anonymize_ip': true});
     <a class="nav-link" href="../../../../index.html">Home</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../contents/news/index.html">News</a>
+    <a class="nav-link" href="../../../../contents/literature/index.html">Scribbles</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../contents/projects/index.html">Projects</a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../../../contents/codes/index.html">Codes</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../contents/projects/index.html">Projects</a>
+    <a class="nav-link" href="../../../../contents/news/index.html">News</a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-scribbles" role="button" data-bs-toggle="dropdown" aria-expanded="false">Scribbles</a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-scribbles">    
-        <li>
-    <a class="dropdown-item" href="../../../../contents/blog/index.html">
- <span class="dropdown-text">Blog</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../contents/blog/index.html">Blog</a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="../../../../contents/literature/index.html">
- <span class="dropdown-text">Literature</span></a>
-  </li>  
-    </ul>
-  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
@@ -212,7 +197,6 @@ gtag('config', 'G-2V3SR7RJ3H', { 'anonymize_ip': true});
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">A bit of git-ting</h1>
-<p class="subtitle lead"></p><p>Create and delete repo</p><p></p>
   <div class="quarto-categories">
     <div class="quarto-category">codes</div>
     <div class="quarto-category">git</div>
@@ -224,6 +208,11 @@ gtag('config', 'G-2V3SR7RJ3H', { 'anonymize_ip': true});
   </div>
   </div>
 
+<div>
+  <div class="description">
+    <p>Create and delete repo</p>
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
@@ -251,6 +240,8 @@ gtag('config', 'G-2V3SR7RJ3H', { 'anonymize_ip': true});
 <hr>
 <p>The first thing that I do for any data analyses or writing project is create a remote git repository either in github or in gitlab. Then I create a local R project in R Studio, and connect it to the remote git repo. The ‘how-to’ of this process can be found online; I’ll write up a brief overview, probably.</p>
 <p>This post is to remind myself of most frequently used git commands.</p>
+<p>The first thing I do for any data analyses or writing project is to create a remote git repository in github or gitlab. Then I create a local R project in R Studio and connect it to the remote git repo. I’ll probably write up a brief overview of this ‘how-to’ is some other post.</p>
+<p>This post is to remind me of the most frequently used git commands.</p>
 <!-- When you click on 'New Project' on the top right drop down menu, R Studio give you three choices and one of them is to *Checkout a project from a version control repository*.-->
 <div class="cell">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Push local changes to the remote repo:</span></span>
@@ -264,7 +255,7 @@ gtag('config', 'G-2V3SR7RJ3H', { 'anonymize_ip': true});
 <span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="co"># Delete a local branch:</span></span>
 <span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>git branch <span class="sc">-</span>D BranchToBeDeleted</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<p>Be careful on deleting. The <code>-D</code> is a hard delete!</p>
+<p>Be careful about deleting. The <code>-D</code> is a hard delete!</p>
 <p>Merge branches locally:</p>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>git checkout main <span class="co">#First switch to the main/master branch</span></span>

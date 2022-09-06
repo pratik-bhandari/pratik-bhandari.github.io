@@ -42,22 +42,22 @@ website:
    left:
      - text: "Home"
        href: index.qmd
-     - text: "News"
-       href: contents/news/index.qmd
-     - text: "Codes"
-       href: contents/codes/index.qmd
+     - text: "Scribbles"
+       href: contents/literature/index.qmd
      - text: "Projects"
        href: contents/projects/index.qmd
+     - text: "Codes"
+       href: contents/codes/index.qmd
+     - text: "News"
+       href: contents/news/index.qmd
+     - text: "Blog"
+       href: contents/blog/index.qmd
      # - text: "Scribbles"
      #   menu:
      #     - text: "Blog"
      #       href: contents/blog/index.qmd
      #     - text: "Literature"
      #       href: contents/literature/index.qmd
-     - text: "Blog"
-       href: contents/blog/index.qmd
-     - text: "Literature"
-       href: contents/literature/index.qmd
    right:
      - text: "Contact"
        href: contents/contact.qmd
@@ -78,21 +78,5 @@ format:
     
 freeze: auto
 
-# filters:
-#   - filters/include-files.lua
-#   - quarto
-
 editor: source
 
-
-# format:
-#   html:
-#     theme: cosmo
-#     css: styles.css
-
-  # navbar:
-  #   background: primary
-  #   left:
-  #     - href: index.qmd
-  #       text: Home
-  #     - about.qmd

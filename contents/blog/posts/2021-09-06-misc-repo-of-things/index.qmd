@@ -3,7 +3,7 @@ title: "Why not pick your brain"
 description: |
   Yet another refresher...
 author: Pratik Bhandari
-date: 2021-06-09
+date: 2021-09-06
 categories:
   - summer school
   - statistics
@@ -16,9 +16,12 @@ image: hasse-powerset.png
 
 ***
 
-While attending the Fifth Summer School on Statistical Methods for Linguistics and Psychology ([SMLP 2021](https://vasishth.github.io/smlp2021/)), and reading this [textbook](https://vasishth.github.io/bayescogsci/book/) recommended by the instructors of the summer school, I realized that I needed a refresher on some mathematical notations among many other things. Some of them were on set theory and logical conditionals.
+I am in the Fifth Summer School on Statistical Methods for Linguistics and Psychology ([SMLP 2021](https://vasishth.github.io/smlp2021/)).
+While reading this [textbook](https://vasishth.github.io/bayescogsci/book/) recommended by the summer school instructors,
+I realized I needed a refresher on a few mathematical notations, among many other things.
+Some of these are on set theory and logical conditionals.
 
-I've put together links to some wikipedia articles that helped me refresh my high school maths, and gain some new knowledge. Wanna see?
+I’ve linked some Wikipedia articles that helped me refresh my high school maths and gain new knowledge. Wanna see?
 
 1.  [Glosarry of mathematical symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
 
@@ -34,4 +37,4 @@ I've put together links to some wikipedia articles that helped me refresh my hig
 
 7.  [Limit ordinal](https://en.wikipedia.org/wiki/Limit_ordinal)
 
-Perhaps, some day in a distant future, I will write about applying these ideas in my work, or not. Let's see.
+Perhaps, someday in the distant future, I will write about applying these ideas in my work or not. Let’s see.

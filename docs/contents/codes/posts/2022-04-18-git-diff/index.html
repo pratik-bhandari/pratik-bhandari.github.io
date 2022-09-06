@@ -8,6 +8,7 @@
 
 <meta name="author" content="Pratik Bhandari">
 <meta name="dcterms.date" content="2022-04-18">
+<meta name="description" content="What changes did I make?">
 
 <title>Pratik Bhandari - Checking (git) changes from terminal</title>
 <style>
@@ -148,19 +149,19 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
     <a class="nav-link" href="../../../../index.html">Home</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../contents/news/index.html">News</a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../../../contents/codes/index.html">Codes</a>
+    <a class="nav-link" href="../../../../contents/literature/index.html">Scribbles</a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../../../contents/projects/index.html">Projects</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../contents/blog/index.html">Blog</a>
+    <a class="nav-link" href="../../../../contents/codes/index.html">Codes</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../contents/literature/index.html">Literature</a>
+    <a class="nav-link" href="../../../../contents/news/index.html">News</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../../contents/blog/index.html">Blog</a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -196,7 +197,6 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Checking (git) changes from terminal</h1>
-<p class="subtitle lead"></p><p>What changes did I make?</p><p></p>
   <div class="quarto-categories">
     <div class="quarto-category">codes</div>
     <div class="quarto-category">git</div>
@@ -206,6 +206,11 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   </div>
   </div>
 
+<div>
+  <div class="description">
+    <p>What changes did I make?</p>
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
@@ -234,13 +239,13 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <p>One of the main reasons for using git is <em>version control</em>. No longer naming the files as ‘final-draft’, ‘finaly-draft2’, ‘final-finaldraft_pb’, etc. You can see what changes have been made incrementally: Compare the version of the document created 10 days ago with the recent one.</p>
 <section id="example" class="level4">
 <h4 class="anchored" data-anchor-id="example">Example:</h4>
-<p>Say we have a file <code>01_chapter.Rmd</code>. It is the first chapter of my thesis. I have just made some changes in it. Before <code>git add &lt;file&gt;</code>, I want to compare these changes with the latest version that I have already committed. Then, this is what I do<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>:</p>
+<p>Say we have a file <code>01_chapter.Rmd</code>. It is the first chapter of my thesis. I have just made some changes to it. Before <code>git add &lt;file&gt;</code>, I want to compare these changes with the latest version I have already committed. Then, this is what I do<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>:</p>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>git diff HEAD 01_chapter.Rmd</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="co"># OR</span></span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>git diff master<span class="sc">:</span>01_chapter.Rmd 01_chapter.Rmd</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<p>If <code>01_chapter.Rmd</code> is not in the working directory then provide the path to it.</p>
+<p>If <code>01_chapter.Rmd</code> is not in the working directory, then provide the path to it.</p>
 <p>Other different comparisons:</p>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>git diff HEAD<span class="sc">~</span><span class="dv">2</span> 01_chapter.Rmd</span>

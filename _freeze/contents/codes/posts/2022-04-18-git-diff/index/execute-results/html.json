@@ -1,14 +1,16 @@
 {
-  "hash": "a772c410d7d5cad11cc25ceadd0f5fe5",
+  "hash": "570ad87f95c7a34d86a02b4b9dc056a5",
   "result": {
-    "markdown": "---\ntitle: \"Checking (git) changes from terminal\"\nsubtitle: |\n  What changes did I make?\nauthor: Pratik Bhandari\ndate: 2022-04-18\ncategories:\n  - codes\n  - git\n  - version control\n  - comparision\n  - \"2022\"\n---\n\n<!-- Oh, so some links brought you here. Cool.\\ -->\n\n***\n\nOne of the main reasons for using git is *version control*.\nNo longer naming the files as 'final-draft', 'finaly-draft2', 'final-finaldraft_pb', etc.\nYou can see what changes have been made incrementally:\nCompare the version of the document created 10 days ago with the recent one.\n\n#### Example:\n\nSay we have a file `01_chapter.Rmd`.\nIt is the first chapter of my thesis.\nI have just made some changes in it.\nBefore `git add <file>`, I want to compare these changes with the latest version that I have already committed.\nThen, this is what I do^[\nMore in [here](https://stackoverflow.com/questions/5586383/how-to-diff-one-file-to-an-arbitrary-version-in-git)]:\n\n::: {.cell}\n\n```{.r .cell-code}\ngit diff HEAD 01_chapter.Rmd\n# OR\ngit diff master:01_chapter.Rmd 01_chapter.Rmd\n```\n:::\n\nIf `01_chapter.Rmd` is not in the working directory then provide the path to it.\n\nOther different comparisons:\n\n::: {.cell}\n\n```{.r .cell-code}\ngit diff HEAD~2 01_chapter.Rmd\n# OR\ngit diff master~2:01_chapter.Rmd 01_chapter.Rmd\n#--\n\ngit diff master~3:01_chapter.Rmd master~1:01_chapter.Rmd\n```\n:::\n\nYou got the idea.\n\nThe global comparison of all files is just `git diff` which I do not prefer.\\\n\nTip: If you are working on RStudio, its GUI shows the changes in files since the last commit, including what files are added or deleted.",
-    "supporting": [],
+    "markdown": "---\ntitle: \"Checking (git) changes from terminal\"\ndescription: |\n  What changes did I make?\nauthor: Pratik Bhandari\ndate: 2022-04-18\ncategories:\n  - codes\n  - git\n  - version control\n  - comparision\n  - \"2022\"\n---\n\n\n<!-- Oh, so some links brought you here. Cool.\\ -->\n\n***\n\nOne of the main reasons for using git is *version control*.\nNo longer naming the files as 'final-draft', 'finaly-draft2', 'final-finaldraft_pb', etc.\nYou can see what changes have been made incrementally:\nCompare the version of the document created 10 days ago with the recent one.\n\n#### Example:\n\nSay we have a file `01_chapter.Rmd`.\nIt is the first chapter of my thesis.\nI have just made some changes to it.\nBefore `git add <file>`, I want to compare these changes with the latest version I have already committed.\nThen, this is what I do^[\nMore in [here](https://stackoverflow.com/questions/5586383/how-to-diff-one-file-to-an-arbitrary-version-in-git)]:\n\n\n::: {.cell}\n\n```{.r .cell-code}\ngit diff HEAD 01_chapter.Rmd\n# OR\ngit diff master:01_chapter.Rmd 01_chapter.Rmd\n```\n:::\n\n\nIf `01_chapter.Rmd` is not in the working directory, then provide the path to it.\n\nOther different comparisons:\n\n\n::: {.cell}\n\n```{.r .cell-code}\ngit diff HEAD~2 01_chapter.Rmd\n# OR\ngit diff master~2:01_chapter.Rmd 01_chapter.Rmd\n#--\n\ngit diff master~3:01_chapter.Rmd master~1:01_chapter.Rmd\n```\n:::\n\n\nYou got the idea.\n\nThe global comparison of all files is just `git diff` which I do not prefer.\\\n\nTip: If you are working on RStudio, its GUI shows the changes in files since the last commit, including what files are added or deleted.\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
-    "includes": [],
+    "includes": {},
     "engineDependencies": {},
     "preserve": {},
-    "postProcess": null
+    "postProcess": true
   }
 }

@@ -25,8 +25,8 @@ Compare the version of the document created 10 days ago with the recent one.
 
 Say we have a file `01_chapter.Rmd`.
 It is the first chapter of my thesis.
-I have just made some changes in it.
-Before `git add <file>`, I want to compare these changes with the latest version that I have already committed.
+I have just made some changes to it.
+Before `git add <file>`, I want to compare these changes with the latest version I have already committed.
 Then, this is what I do^[
 More in [here](https://stackoverflow.com/questions/5586383/how-to-diff-one-file-to-an-arbitrary-version-in-git)]:
 
@@ -38,7 +38,7 @@ git diff HEAD 01_chapter.Rmd
 git diff master:01_chapter.Rmd 01_chapter.Rmd
 ```
 
-If `01_chapter.Rmd` is not in the working directory then provide the path to it.
+If `01_chapter.Rmd` is not in the working directory, then provide the path to it.
 
 Other different comparisons:
 
