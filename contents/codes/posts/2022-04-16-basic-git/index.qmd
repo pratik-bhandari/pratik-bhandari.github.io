@@ -1,6 +1,6 @@
 ---
 title: "A bit of git-ting"
-subtitle: |
+description: |
   Create and delete repo
 author: Pratik Bhandari
 date: 2022-04-16

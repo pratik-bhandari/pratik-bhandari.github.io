@@ -1,6 +1,7 @@
 ---
 title: "In the operating room"
-subtitle: ""
+description: | 
+    I read his name: “Dr Truman, Anaesthesia”. I chuckle.
 author: Pratik Bhandari
 date: 2021-10-26
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "Strangers again"
-description: |
-  Here we are, completing the loop --- ended up as strangers.
+description: | 
+    Here we are, completing the loop --- ended up as strangers.
 author: Pratik Bhandari
 date: 2018-05-21
 categories:

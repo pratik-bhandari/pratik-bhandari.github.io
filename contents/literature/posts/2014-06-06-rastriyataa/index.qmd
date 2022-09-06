@@ -1,7 +1,6 @@
 ---
 title: "कैद राष्ट्रियता"
-description: |
-  अनि साँचेका छौ सपना एउटा रङ्गीन देशको
+description: "साँचेका छौ सपना एउटा रङ्गीन देशको "
 author: Pratik Bhandari
 date: 2014-06-06
 categories:
@@ -9,8 +8,6 @@ categories:
   - kathmandu
   - "2014"
 ---
-
-<!-- Oh, so some links brought you here. Cool.\ -->
 
 ***
 

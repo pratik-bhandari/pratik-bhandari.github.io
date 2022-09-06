@@ -1,8 +1,8 @@
 ---
 title: "Get in touch"
-subtitle: ""
-author: ""
-date: ""
+#subtitle: ""
+#author: ""
+#date: ""
 ---
 
 ------------------------------------------------------------------------
@@ -12,7 +12,7 @@ Campus A 1.3, Room 2,11\
 Saarland University\
 66123 Saarbrücken, Germany\
 phone: +49 681 302 64368\
-email: pratikb\@coli.uni-saarland.de
+<!-- email: pratikb\@coli.uni-saarland.de -->
 
 ```{r}
 #| echo: false

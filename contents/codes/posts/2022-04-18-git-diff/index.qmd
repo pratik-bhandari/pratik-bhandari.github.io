@@ -1,6 +1,6 @@
 ---
 title: "Checking (git) changes from terminal"
-subtitle: |
+description: |
   What changes did I make?
 author: Pratik Bhandari
 date: 2022-04-18

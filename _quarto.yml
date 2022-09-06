@@ -9,7 +9,7 @@ website:
   title: "Pratik Bhandari"
   image: "me.png"
   favicon: "me.png"
-  google-analytics: "G-2V3SR7RJ3H" #"UA-165918285-1"
+  # google-analytics: "G-2V3SR7RJ3H" #"UA-165918285-1"
   open-graph: true
   twitter-card: true
   site-url: https://pratik-bhandari.github.io
@@ -48,12 +48,16 @@ website:
        href: contents/codes/index.qmd
      - text: "Projects"
        href: contents/projects/index.qmd
-     - text: "Scribbles"
-       menu:
-         - text: "Blog"
-           href: contents/blog/index.qmd
-         - text: "Literature"
-           href: contents/literature/index.qmd
+     # - text: "Scribbles"
+     #   menu:
+     #     - text: "Blog"
+     #       href: contents/blog/index.qmd
+     #     - text: "Literature"
+     #       href: contents/literature/index.qmd
+     - text: "Blog"
+       href: contents/blog/index.qmd
+     - text: "Literature"
+       href: contents/literature/index.qmd
    right:
      - text: "Contact"
        href: contents/contact.qmd
@@ -65,11 +69,12 @@ website:
 format:
   html:
     toc: true
-    theme: custom.scss
-      # light: [cosmo, theme.scss]
+    theme: customFontSize.scss
+    # theme:
+    #   light: [united, theme.scss, customFontSize.scss]
+    css: styles.css
     code-copy: true
     code-overflow: wrap
-    css: styles.css
     
 freeze: auto
 
