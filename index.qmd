@@ -27,6 +27,12 @@ I am a doctoral researcher at the Collaborative Research Center ([SFB 1102](http
 My [research](https://sites.google.com/view/pratik-bhandari/home) focuses on how we make sense of spoken language under adverse listening conditions.
 I study when (and how) linguistic context helps us understand degraded speech.
 
+:::{.callout-note}
+I have very recently submitted my PhD dissertion to my thesis committee.
+Right now, I am in the job market: an appropriate industry position or a post-doc.
+I might be the person you are looking for! Get in touch by email (`postdoc@pratikb.com`) or [other media](./contents/contact.html#other-online-presence).
+:::
+
 Here you'll find my formal academic works: [research projects](./contents/projects/index.html) and [publications](https://sites.google.com/view/pratik-bhandari/publications).\
 And here are some less formal and non-academic writings: [blog](./contents/blog/index.html) and [scribbles](./contents/literature/index.html).\
 

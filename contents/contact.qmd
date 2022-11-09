@@ -12,7 +12,6 @@ Campus A 1.3, Room 2,11\
 Saarland University\
 66123 Saarbrücken, Germany\
 phone: +49 681 302 64368\
-<!-- email: pratikb\@coli.uni-saarland.de -->
 
 ```{r}
 #| echo: false
@@ -25,7 +24,7 @@ leaflet() %>%
 
 ------------------------------------------------------------------------
 
-Other online presence:
+#### Other online presence:
 
 -   [researchgate](https://www.researchgate.net/profile/Pratik-Bhandari)
 
@@ -42,6 +41,8 @@ Other online presence:
 -   [google site](https://sites.google.com/view/pratik-bhandari)
 
 -   [google scholar](https://scholar.google.de/citations?user=Y0HnEQwAAAAJ&hl=en&oi=ao)
+
+-   [mastodon(c.im/@pratikb)](https://c.im/@pratikb)
 
 <!--
 +-------------------------------+--------------------------------------------------------------------------+
