@@ -9,7 +9,7 @@ subtitle: |
 ***
 
 * **November 10**: I submitted my dissertation to the 5-member thesis committee a few weeks ago. The defense will very likely be held on 7 December.\
-Alongside the preparation for my defense, I am also in the job market looking for a post-doc or an appropriate industry position! Look out for my applications ;)
+Alongside the preparation for my defense, I am also in the job market looking for a post-doc or an industry position! Look out for my applications ;)
 
 * **July 24**: I will present two posters at the Architectures and Mechanisms for Language Processing ([AMLaP](https://amlap2022.york.ac.uk)) conference. It'll take place in York, England, September 7-9. One poster is about the recent publication on attention-prediction interplay. The second one is about the role of speech rate in the interaction of top-down and bottom-up processes in degraded speech comprehension. 
 

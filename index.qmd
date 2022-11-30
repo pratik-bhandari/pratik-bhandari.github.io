@@ -4,7 +4,7 @@ about:
   template: marquee
   image-width: 10em
   image-shape: round
-  image: about.png
+  image: me33.jpg
   links:
     - icon: twitter
       text: twitter
@@ -29,8 +29,8 @@ I study when (and how) linguistic context helps us understand degraded speech.
 
 :::{.callout-note}
 I have very recently submitted my PhD dissertion to my thesis committee.
-Right now, I am in the job market: an appropriate industry position or a post-doc.
-I might be the person you are looking for! Get in touch by email (`postdoc@pratikb.com`) or [other media](./contents/contact.html#other-online-presence).
+Right now, I am in the job market. Are you looking for a post-doc to join your lab? Or, a new enthusiastic member in your team in a company/startup?
+I might be the person! Get in touch by email (`postdoc@pratikb.com`) or [other media](./contents/contact.html#other-online-presence).
 :::
 
 Here you'll find my formal academic works: [research projects](./contents/projects/index.html) and [publications](https://sites.google.com/view/pratik-bhandari/publications).\
