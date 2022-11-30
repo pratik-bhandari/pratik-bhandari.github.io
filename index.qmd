@@ -53,12 +53,15 @@ Bachelor in Audiology & Speech-Language Pathology **|** Nov 2010 - April 2015
 
 ---
 
-## Selected publications
+## Journal articles
 
-**Bhandari, P.**, Demberg, V., & Kray, J. (2021). Semantic predictability facilitates
-comprehension of degraded speech in a graded manner. *Frontiers in Psychology*, 3769. [[html](https://doi.org/10.3389/fpsyg.2021.714485)] [[pdf](https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fdownload%2Fnuv36%2F%3Fdirect%3D%26mode%3Drender)]
+**Bhandari, P.**, Demberg, V., & Kray, J. (2022). Predictability effects in degraded speech comprehension are reduced as a function of attention. *Language and Cognition*, 1-18. [[html](https://doi.org/10.1017/langcog.2022.16)][[pdf](https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fdownload%2Ftdvhs%2F%3Fdirect%3D%26mode%3Drender)]
+
+**Bhandari, P.**, Demberg, V., & Kray, J. (2021). Semantic predictability facilitates comprehension of degraded speech in a graded manner. *Frontiers in Psychology*, 3769. [[html](https://doi.org/10.3389/fpsyg.2021.714485)] [[pdf](https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fdownload%2Fnuv36%2F%3Fdirect%3D%26mode%3Drender)]
 
 **Bhandari, P.**, Prasad, S., & Mishra, R.K. (2020). High proficient bilinguals bring in higher executive control when encountering diverse interlocutors. *Journal of Cultural Cognitive Science. 4*(2), 201-215. [[html](https://doi.org/10.1007/s41809-020-00060-7)] [[pdf](https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fdownload%2Ffm8da%2F%3Fdirect%3D%26mode%3Drender)]
+
+Mishra, R. K., Padmanabhuni, M., **Bhandari, P.**, Viswambharan, S., & Prasad, S. G. (2018) Language proficiency does not modulate executive control in older bilinguals. *Aging, Neuropsychology and Cognition. 26*(6), 920-951. [[html](https://doi.org/10.1080/13825585.2018.1562029)] [[pdf](https://www.tandfonline.com/doi/pdf/10.1080/13825585.2018.1562029)]
 
 **Bhandari, P.**, & Khanal, P. (2016). Pride in autistic diversity: against treatment or for inclusion? *The Lancet, 388*(10059), 24477. [[html](https://doi.org/10.1016/S0140-6736(16)32176-6)]
 
