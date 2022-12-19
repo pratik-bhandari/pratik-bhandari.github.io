@@ -20,21 +20,21 @@ about:
     #   href: https://github.com/pratik-bhandari
 ---
 
-
-
-I am a doctoral researcher at the Collaborative Research Center ([SFB 1102](https://sfb1102.uni-saarland.de)) at Saarland University. [Prof. Jutta Kray](https://www.uni-saarland.de/lehrstuhl/kray/team/jk.html) and [Prof. Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html) are my PhD supervisors.
-
-My [research](https://sites.google.com/view/pratik-bhandari/home) focuses on how we make sense of spoken language under adverse listening conditions.
-I study when (and how) linguistic context helps us understand degraded speech.
-
 :::{.callout-note}
-I have very recently submitted my PhD dissertion to my thesis committee.
-Right now, I am in the job market. Are you looking for a post-doc to join your lab? Or, a new enthusiastic member in your team in a company/startup?
-I might be the person! Get in touch by email (`postdoc@pratikb.com`) or [other media](./contents/contact.html#other-online-presence).
+I am in the job market for a postdoc position starting January 2023.
+Get in touch by email (`postdoc@pratikb.com`) or any [other media](./contents/contact.html#other-online-presence).
 :::
 
-Here you'll find my formal academic works: [research projects](./contents/projects/index.html) and [publications](https://sites.google.com/view/pratik-bhandari/publications).\
-And here are some less formal and non-academic writings: [blog](./contents/blog/index.html) and [scribbles](./contents/literature/index.html).\
+I am a doctoral researcher at the Collaborative Research Center ([SFB 1102](https://sfb1102.uni-saarland.de)) at Saarland University.
+I successfully defended my PhD on December 7.
+In my PhD, supervised by [Prof. Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html) and [Prof. Jutta Kray](https://www.uni-saarland.de/lehrstuhl/kray/team/jk.html),
+I focused on understanding how we make sense of spoken language in adverse listening conditions,
+under the theoretical framework of predictive processing and the noisy channel model of communication.
+(Click [here](./contents/projects/index.html) to see my non-PhD research projects on various domains of cognitive science, including psychology and psycholinguistics.)
+
+
+<!--Here you'll find my formal academic works: [research projects](./contents/projects/index.html) and [publications](https://sites.google.com/view/pratik-bhandari/publications).\
+And here are some less formal and non-academic writings: [blog](./contents/blog/index.html) and [scribbles](./contents/literature/index.html).\-->
 
 <!--I come from <span>&#x1F1F3;&#x1F1F5;</span>Nepal. So obviously, I have not climbed the ⛰️ Sagarmatha.-->
 
@@ -43,7 +43,7 @@ And here are some less formal and non-academic writings: [blog](./contents/blog/
 ## Education
 
 **Saarland University** **|** Germany\
-PhD **|** Nov 2018 - Dec 2022 (expected)
+PhD **|** Nov 2018 - Dec 2022
 
 **Basque Center on Cognition, Brain and Language** **|** Spain\
 Master in Cognitive Neuroscience of Language **|** Sep 2017 - Sep 2018
@@ -54,6 +54,8 @@ Bachelor in Audiology & Speech-Language Pathology **|** Nov 2010 - April 2015
 ---
 
 ## Journal articles
+
+**Bhandari, P.**, Demberg, V., & Kray, J. (*under review*). Speaking fast and slow: How speech rate modulates contextual facilitation of degraded speech comprehension.
 
 **Bhandari, P.**, Demberg, V., & Kray, J. (2022). Predictability effects in degraded speech comprehension are reduced as a function of attention. *Language and Cognition*, 1-18. [[html](https://doi.org/10.1017/langcog.2022.16)][[pdf](https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fdownload%2Ftdvhs%2F%3Fdirect%3D%26mode%3Drender)]
 

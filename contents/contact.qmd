@@ -8,9 +8,9 @@ title: "Get in touch"
 ------------------------------------------------------------------------
 
 **Pratik Bhandari**\
-Campus A 1.3, Room 2,11\
+Campus A1.3, Room 2.11\
 Saarland University\
-66123 Saarbrücken, Germany\
+D-66123 Saarbrücken, Germany\
 phone: +49 681 302 64368\
 
 ```{r}
