@@ -11,7 +11,7 @@ about:
       href: "https://twitter.com/prbhx"
     - icon: person-circle
       text: scholar
-      href: "https://scholar.google.de/citations?user=Y0HnEQwAAAAJ&hl=en&oi=ao"
+      href: "https://scholar.google.com/citations?hl=de&user=Y0HnEQwAAAAJ&view_op=list_works&sortby=pubdate"
     - icon: book
       text: publications
       href: "https://sites.google.com/view/pratik-bhandari/publications"
@@ -22,7 +22,7 @@ about:
 
 :::{.callout-note}
 I am in the job market for a postdoc position starting January 2023.
-Get in touch by email (`postdoc@pratikb.com`) or any [other media](./contents/contact.html#other-online-presence).
+Get in touch by email (<a href="mailto:postdoc@pratikb.com">postdoc@pratikb.com</a>) or [other media](./contents/contact.html#other-online-presence).
 :::
 
 I am a doctoral researcher at the Collaborative Research Center ([SFB 1102](https://sfb1102.uni-saarland.de)) at Saarland University.
@@ -30,7 +30,8 @@ I successfully defended my PhD on December 7.
 In my PhD, supervised by [Prof. Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html) and [Prof. Jutta Kray](https://www.uni-saarland.de/lehrstuhl/kray/team/jk.html),
 I focused on understanding how we make sense of spoken language in adverse listening conditions,
 under the theoretical framework of predictive processing and the noisy channel model of communication.
-(Click [here](./contents/projects/index.html) to see my non-PhD research projects on various domains of cognitive science, including psychology and psycholinguistics.)
+Scroll down to see my academic qualification and selected scientific publications.
+Click [here](./contents/projects/index.html) to see the research projects that I have undertaken so far on various domains of cognitive science, including psychology and psycholinguistics.
 
 
 <!--Here you'll find my formal academic works: [research projects](./contents/projects/index.html) and [publications](https://sites.google.com/view/pratik-bhandari/publications).\
@@ -43,10 +44,12 @@ And here are some less formal and non-academic writings: [blog](./contents/blog/
 ## Education
 
 **Saarland University** **|** Germany\
-PhD **|** Nov 2018 - Dec 2022
+PhD -- *magna cum laude* **|** Nov 2018 - Dec 2022\
+"*Interaction of top-down and bottom-up processes in spoken language comprehension*"
 
 **Basque Center on Cognition, Brain and Language** **|** Spain\
-Master in Cognitive Neuroscience of Language **|** Sep 2017 - Sep 2018
+Master in Cognitive Neuroscience of Language -- *Excellent, 9/10* **|** Sep 2017 - Sep 2018\
+"*Predictability modulates type-1 and type-2 language processing: Spanish-Basque bilingual context*"
 
 **Institute of Medicine**, Tribhuvan University **|** Nepal\
 Bachelor in Audiology & Speech-Language Pathology **|** Nov 2010 - April 2015

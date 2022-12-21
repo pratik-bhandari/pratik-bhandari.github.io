@@ -29,7 +29,7 @@ website:
         href: index.qmd
     right:
       - icon: person-circle
-        href: "https://scholar.google.de/citations?user=Y0HnEQwAAAAJ&hl=en&oi=ao"
+        href: "https://scholar.google.com/citations?hl=de&user=Y0HnEQwAAAAJ&view_op=list_works&sortby=pubdate"
     left:
       - icon: twitter
         href: "https://twitter.com/prbhx"
@@ -64,7 +64,7 @@ website:
      - icon: twitter
        href: https://twitter.com/prbhx
      - icon: person-circle
-       href: "https://scholar.google.de/citations?user=Y0HnEQwAAAAJ&hl=en&oi=ao"
+       href: "https://scholar.google.com/citations?hl=de&user=Y0HnEQwAAAAJ&view_op=list_works&sortby=pubdate"
 
 format:
   html:
