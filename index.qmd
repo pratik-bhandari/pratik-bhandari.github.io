@@ -56,7 +56,9 @@ Bachelor in Audiology & Speech-Language Pathology **|** Nov 2010 - April 2015
 
 ---
 
-## Journal articles
+## Publications
+
+**Bhandari, P** (2022). Interaction of top-down and bottom-up processes in spoken language comprehension. *Doctoral dissertation*, Saarländische Universitäts-und Landesbibliothek.[[html](https://pratik-bhandari.github.io/contents/html-phd/index.html/)]
 
 **Bhandari, P.**, Demberg, V., & Kray, J. (*under review*). Speaking fast and slow: How speech rate modulates contextual facilitation of degraded speech comprehension.
 

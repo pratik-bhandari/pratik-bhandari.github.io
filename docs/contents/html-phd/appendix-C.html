@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>C Forward prediction vs Backward guessing in Chapter 7 | Interaction of top-down and bottom-up processes in spoken language comprehension</title>
+<meta name="author" content="Pratik Bhandari">
+<meta name="generator" content="bookdown 0.31 with bs4_book()">
+<meta property="og:title" content="C Forward prediction vs Backward guessing in Chapter 7 | Interaction of top-down and bottom-up processes in spoken language comprehension">
+<meta property="og:type" content="book">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="C Forward prediction vs Backward guessing in Chapter 7 | Interaction of top-down and bottom-up processes in spoken language comprehension">
+<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
+<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.4.2/transition.js"></script><script src="libs/bs3compat-0.4.2/tabs.js"></script><script src="libs/bs3compat-0.4.2/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
+<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script><!-- CSS --><style type="text/css">
+    
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  </style>
+<style type="text/css">
+    /* Used with Pandoc 2.11+ new --citeproc when CSL is used */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+        }
+    .hanging div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }
+  </style>
+<link rel="stylesheet" href="templates/bs4_style.css">
+<link rel="stylesheet" href="templates/corrections.css">
+<meta name="description" content="Results of the complementary analysis discussed in the Conclusion section of Chapter 7: We performed complementry analyses on noun-correct trials to compare the estimate of backward guessing...">
+<meta property="og:description" content="Results of the complementary analysis discussed in the Conclusion section of Chapter 7: We performed complementry analyses on noun-correct trials to compare the estimate of backward guessing...">
+<meta name="twitter:description" content="Results of the complementary analysis discussed in the Conclusion section of Chapter 7: We performed complementry analyses on noun-correct trials to compare the estimate of backward guessing...">
+</head>
+<body data-spy="scroll" data-target="#toc">
+
+<div class="container-fluid">
+<div class="row">
+  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+
+    <div class="d-flex align-items-start justify-content-between">
+      <h1>
+        <a href="index.html" title=""><p>Interaction of top-down and bottom-up processes in spoken language comprehension</p></a>
+      </h1>
+      <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
+    </div>
+
+    <div id="main-nav" class="collapse-lg">
+      <form role="search">
+        <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
+</form>
+
+      <nav aria-label="Table of contents"><h2>Table of contents</h2>
+        <ul class="book-toc list-unstyled">
+<li><a class="" href="index.html">Welcome</a></li>
+<li><a class="" href="chapter-introduction.html"><span class="header-section-number">1</span> Introduction</a></li>
+<li><a class="" href="chapter-background.html"><span class="header-section-number">2</span> Background</a></li>
+<li><a class="" href="chapter-methods.html"><span class="header-section-number">3</span> General methods</a></li>
+<li><a class="" href="chapter-stats.html"><span class="header-section-number">4</span> General statistical approach</a></li>
+<li><a class="" href="chapter-attention-prediction.html"><span class="header-section-number">5</span> Predictability effects of degraded speech are reduced as a function of attention</a></li>
+<li><a class="" href="chapter-graded-prediction.html"><span class="header-section-number">6</span> Semantic predictability facilitates comprehension of degraded speech in a graded manner</a></li>
+<li><a class="" href="chapter-speech-rate.html"><span class="header-section-number">7</span> Comprehension of degraded speech is modulated by the rate of speech</a></li>
+<li><a class="" href="chapter-conclusion.html"><span class="header-section-number">8</span> Discussion and conclusion</a></li>
+<li class="book-part">Appendix</li>
+<li><a class="" href="appendix-A.html"><span class="header-section-number">A</span> Experimental items</a></li>
+<li><a class="" href="appendix-B.html"><span class="header-section-number">B</span> Forward prediction vs Backward guessing in Chapter 6</a></li>
+<li><a class="active" href="appendix-C.html"><span class="header-section-number">C</span> Forward prediction vs Backward guessing in Chapter 7</a></li>
+<li><a class="" href="appendix-D.html"><span class="header-section-number">D</span> Data and code</a></li>
+<li><a class="" href="appendix-E.html"><span class="header-section-number">E</span> Ethics and funding</a></li>
+<li><a class="" href="bibliography.html">Bibliography</a></li>
+</ul>
+
+        <div class="book-extra">
+          <p><a id="book-repo" href="https://github.com/pratik-bhandari">View book source <i class="fab fa-github"></i></a></p>
+        </div>
+      </nav>
+</div>
+  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="appendix-C" class="section level1" number="11">
+<h1>
+<span class="header-section-number">C</span> Forward prediction vs Backward guessing in Chapter 7<a class="anchor" aria-label="anchor" href="#appendix-C"><i class="fas fa-link"></i></a>
+</h1>
+<p>Results of the complementary analysis discussed in the Conclusion section of Chapter <a href="chapter-speech-rate.html#chapter-speech-rate">7</a>:</p>
+<p>We performed complementry analyses on noun-correct trials to compare the estimate of backward guessing effect and the forward prediction.
+The results showed that in both Experiments 1 (fast speech vs normal speech rate) and 2 (slow speech vs normal speech rate),
+the main effects of target word predictability and speech rate were significant while the interaction of the latter two was not significant (see Tables <a href="appendix-C.html#tab:fastcomplementary">C.1</a> and <a href="appendix-C.html#tab:slowcomplementary">C.2</a>).
+These model estimates, i.e., the effect of noun-correct trials (<span class="math inline">\(\beta_{{noun}_{Exp1}}\)</span> = .73 and <span class="math inline">\(\beta_{{noun}_{Exp2}}\)</span> = .78) were smaller than the model estimates of verb-correct trials presented in Chapter <a href="chapter-speech-rate.html#chapter-speech-rate">7</a> (<span class="math inline">\(\beta_{{verb}_{Exp1}}\)</span> = 2.42 and <span class="math inline">\(\beta_{{verb}_{Exp2}}\)</span> = 2.58).
+Thus, these findings supported the interpretation of forward-prediction much more strongly than backward-guessing effect.</p>
+<!--
+```{=tex}
+\begin{table}[h]
+\begin{center}
+\caption{Estimated effects of the best-fitting model accounting for the correct verb-recognition in noun-correct trials in Experiment 1}
+\label{fastcomplementary} 
+\vskip 0.12in
+\begin{tabular}[]{@{}lrrrr@{}}
+\toprule
+Fixed effects & Estimate & Std. Error & \emph{z} value & \emph{p}
+value \\
+\midrule
+Intercept & .55 & .18 & 3.00 & .003 \\
+\\
+Speech rate (Fast) & -.89 & .15 & -6.12 & \textless.001 \\
+\\
+Target word predictability (High) & .73 & .23 & 3.19 & .001 \\
+\\
+Speech rate $\times$ Target word predictability & .09 & .21 & .45 & .65 \\
+\bottomrule
+\end{tabular} 
+\end{center} 
+\end{table}
+```
+-->
+<div class="inline-table"><table class="table table-sm">
+<caption>
+<span id="tab:fastcomplementary">Table C.1: </span> Estimated effects of the best-fitting model accounting for the correct verb-recognition in noun-correct trials in Experiment 1</caption>
+<colgroup>
+<col width="20%">
+<col width="20%">
+<col width="20%">
+<col width="20%">
+<col width="20%">
+</colgroup>
+<thead><tr class="header">
+<th>Fixed effects</th>
+<th align="right">Estimate</th>
+<th align="right">Std. error</th>
+<th align="right">
+<em>z</em> value</th>
+<th align="right">
+<em>p</em> value</th>
+</tr></thead>
+<tbody>
+<tr class="odd">
+<td>Intercept</td>
+<td align="right">.55</td>
+<td align="right">.18</td>
+<td align="right">3.00</td>
+<td align="right">.003</td>
+</tr>
+<tr class="even">
+<td>Speech rate (Fast)</td>
+<td align="right">-.89</td>
+<td align="right">.15</td>
+<td align="right">-6.12</td>
+<td align="right">&lt;.001</td>
+</tr>
+<tr class="odd">
+<td>Target word predictability (High)</td>
+<td align="right">.73</td>
+<td align="right">.23</td>
+<td align="right">3.19</td>
+<td align="right">.001</td>
+</tr>
+<tr class="even">
+<td>Speech rate <span class="math inline">\(\times\)</span> Target word predictability</td>
+<td align="right">.09</td>
+<td align="right">.21</td>
+<td align="right">.45</td>
+<td align="right">.65</td>
+</tr>
+</tbody>
+</table></div>
+<!-- ------------------------------------------------ --><!--
+```{=tex}
+\begin{table}[H]
+\begin{center}
+\caption{Estimated effects of the best-fitting model accounting for the correct verb-recognition in noun-correct trials in Experiment 2}
+\label{slowcomplementary} 
+\vskip 0.12in
+\begin{tabular}[]{@{}lrrrr@{}}
+\toprule
+Fixed effects & Estimate & Std. Error & \emph{z} value & \emph{p}
+value \\
+\midrule
+Intercept & .89 & .19 & 4.71 & \textless.001 \\
+\\
+Speech rate (Slow) & -.20 & .11 & -1.82 & .07 \\
+\\
+Target word predictability (High) & .78 & .24 & 3.23 & .001 \\
+\\
+Speech rate $\times$ Target word predictability & .22 & .16 & 1.413 & .15 \\
+\bottomrule
+\end{tabular} 
+\end{center} 
+\end{table}
+```
+--><div class="inline-table"><table class="table table-sm">
+<caption>
+<span id="tab:slowcomplementary">Table C.2: </span> Estimated effects of the best-fitting model accounting for the correct verb-recognition in noun-correct trials in Experiment 2</caption>
+<colgroup>
+<col width="20%">
+<col width="20%">
+<col width="20%">
+<col width="20%">
+<col width="20%">
+</colgroup>
+<thead><tr class="header">
+<th>Fixed effects</th>
+<th align="right">Estimate</th>
+<th align="right">Std. error</th>
+<th align="right">
+<em>z</em> value</th>
+<th align="right">
+<em>p</em> value</th>
+</tr></thead>
+<tbody>
+<tr class="odd">
+<td>Intercept</td>
+<td align="right">.89</td>
+<td align="right">.19</td>
+<td align="right">4.71</td>
+<td align="right">&lt;.001</td>
+</tr>
+<tr class="even">
+<td>Speech rate (Slow)</td>
+<td align="right">-.20</td>
+<td align="right">.11</td>
+<td align="right">-1.82</td>
+<td align="right">.07</td>
+</tr>
+<tr class="odd">
+<td>Target word predictability (High)</td>
+<td align="right">.78</td>
+<td align="right">.24</td>
+<td align="right">3.23</td>
+<td align="right">.001</td>
+</tr>
+<tr class="even">
+<td>Speech rate <span class="math inline">\(\times\)</span> Target word predictability</td>
+<td align="right">.22</td>
+<td align="right">.16</td>
+<td align="right">1.413</td>
+<td align="right">.15</td>
+</tr>
+</tbody>
+</table></div>
+<!-- ---------------------------------------------------------------------------------------------------------- -->
+</div>
+  <div class="chapter-nav">
+<div class="prev"><a href="appendix-B.html"><span class="header-section-number">B</span> Forward prediction vs Backward guessing in Chapter 6</a></div>
+<div class="next"><a href="appendix-D.html"><span class="header-section-number">D</span> Data and code</a></div>
+</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
+    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
+      <ul class="nav navbar-nav"><li><a class="nav-link" href="#appendix-C"><span class="header-section-number">C</span> Forward prediction vs Backward guessing in Chapter 7</a></li></ul>
+
+      <div class="book-extra">
+        <ul class="list-unstyled">
+<li><a id="book-source" href="https://github.com/pratik-bhandari/blob/master/front-and-back-matter/98-appendices.Rmd">View source <i class="fab fa-github"></i></a></li>
+          <li><a id="book-edit" href="https://github.com/pratik-bhandari/edit/master/front-and-back-matter/98-appendices.Rmd">Edit this page <i class="fab fa-github"></i></a></li>
+        </ul>
+</div>
+    </nav>
+</div>
+
+</div>
+</div> <!-- .container -->
+
+<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>"<strong><p>Interaction of top-down and bottom-up processes in spoken language comprehension</p></strong>" was written by Pratik Bhandari. </p>
+  </div>
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>This book was built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package.</p>
+  </div>
+
+</div></div>
+</footer><!-- dynamically load mathjax for compatibility with self-contained --><script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script><script type="text/x-mathjax-config">const popovers = document.querySelectorAll('a.footnote-ref[data-toggle="popover"]');
+for (let popover of popovers) {
+  const div = document.createElement('div');
+  div.setAttribute('style', 'position: absolute; top: 0, left:0; width:0, height:0, overflow: hidden; visibility: hidden;');
+  div.innerHTML = popover.getAttribute('data-content');
+
+  var has_math = div.querySelector("span.math");
+  if (has_math) {
+    document.body.appendChild(div);
+    MathJax.Hub.Queue(["Typeset", MathJax.Hub, div]);
+    MathJax.Hub.Queue(function() {
+      popover.setAttribute('data-content', div.innerHTML);
+      document.body.removeChild(div);
+    })
+  }
+}
+</script>
+</body>
+</html>

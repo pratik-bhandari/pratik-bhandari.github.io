@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>4 General statistical approach | Interaction of top-down and bottom-up processes in spoken language comprehension</title>
+<meta name="author" content="Pratik Bhandari">
+<meta name="generator" content="bookdown 0.31 with bs4_book()">
+<meta property="og:title" content="4 General statistical approach | Interaction of top-down and bottom-up processes in spoken language comprehension">
+<meta property="og:type" content="book">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="4 General statistical approach | Interaction of top-down and bottom-up processes in spoken language comprehension">
+<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
+<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.4.2/transition.js"></script><script src="libs/bs3compat-0.4.2/tabs.js"></script><script src="libs/bs3compat-0.4.2/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
+<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script><!-- CSS --><style type="text/css">
+    
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  </style>
+<style type="text/css">
+    /* Used with Pandoc 2.11+ new --citeproc when CSL is used */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+        }
+    .hanging div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }
+  </style>
+<link rel="stylesheet" href="templates/bs4_style.css">
+<link rel="stylesheet" href="templates/corrections.css">
+<meta name="description" content="4.1 Linear mixed effects models As the name suggests, the linear mixed effects model (LME) is a linear regression model that consists of both fixed and random effects. It allows modelling the...">
+<meta property="og:description" content="4.1 Linear mixed effects models As the name suggests, the linear mixed effects model (LME) is a linear regression model that consists of both fixed and random effects. It allows modelling the...">
+<meta name="twitter:description" content="4.1 Linear mixed effects models As the name suggests, the linear mixed effects model (LME) is a linear regression model that consists of both fixed and random effects. It allows modelling the...">
+</head>
+<body data-spy="scroll" data-target="#toc">
+
+<div class="container-fluid">
+<div class="row">
+  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+
+    <div class="d-flex align-items-start justify-content-between">
+      <h1>
+        <a href="index.html" title=""><p>Interaction of top-down and bottom-up processes in spoken language comprehension</p></a>
+      </h1>
+      <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
+    </div>
+
+    <div id="main-nav" class="collapse-lg">
+      <form role="search">
+        <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
+</form>
+
+      <nav aria-label="Table of contents"><h2>Table of contents</h2>
+        <ul class="book-toc list-unstyled">
+<li><a class="" href="index.html">Welcome</a></li>
+<li><a class="" href="chapter-introduction.html"><span class="header-section-number">1</span> Introduction</a></li>
+<li><a class="" href="chapter-background.html"><span class="header-section-number">2</span> Background</a></li>
+<li><a class="" href="chapter-methods.html"><span class="header-section-number">3</span> General methods</a></li>
+<li><a class="active" href="chapter-stats.html"><span class="header-section-number">4</span> General statistical approach</a></li>
+<li><a class="" href="chapter-attention-prediction.html"><span class="header-section-number">5</span> Predictability effects of degraded speech are reduced as a function of attention</a></li>
+<li><a class="" href="chapter-graded-prediction.html"><span class="header-section-number">6</span> Semantic predictability facilitates comprehension of degraded speech in a graded manner</a></li>
+<li><a class="" href="chapter-speech-rate.html"><span class="header-section-number">7</span> Comprehension of degraded speech is modulated by the rate of speech</a></li>
+<li><a class="" href="chapter-conclusion.html"><span class="header-section-number">8</span> Discussion and conclusion</a></li>
+<li class="book-part">Appendix</li>
+<li><a class="" href="appendix-A.html"><span class="header-section-number">A</span> Experimental items</a></li>
+<li><a class="" href="appendix-B.html"><span class="header-section-number">B</span> Forward prediction vs Backward guessing in Chapter 6</a></li>
+<li><a class="" href="appendix-C.html"><span class="header-section-number">C</span> Forward prediction vs Backward guessing in Chapter 7</a></li>
+<li><a class="" href="appendix-D.html"><span class="header-section-number">D</span> Data and code</a></li>
+<li><a class="" href="appendix-E.html"><span class="header-section-number">E</span> Ethics and funding</a></li>
+<li><a class="" href="bibliography.html">Bibliography</a></li>
+</ul>
+
+        <div class="book-extra">
+          <p><a id="book-repo" href="https://github.com/pratik-bhandari">View book source <i class="fab fa-github"></i></a></p>
+        </div>
+      </nav>
+</div>
+  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="chapter-stats" class="section level1" number="4">
+<h1>
+<span class="header-section-number">4</span> General statistical approach<a class="anchor" aria-label="anchor" href="#chapter-stats"><i class="fas fa-link"></i></a>
+</h1>
+<div id="linear-mixed-effects-models" class="section level2" number="4.1">
+<h2>
+<span class="header-section-number">4.1</span> Linear mixed effects models<a class="anchor" aria-label="anchor" href="#linear-mixed-effects-models"><i class="fas fa-link"></i></a>
+</h2>
+<p>As the name suggests, the linear mixed effects model (LME) is a linear regression model that consists of both fixed and random effects.
+It allows modelling the underlying structure of the data, which includes
+the standard fixed effects like the levels of speech degradation and the levels of target word predictability,
+as well as random effects like items and participants.
+These random effects are assumed to be random samples drawn from the general population.
+In this thesis, the dependent variable (an <em>outcome</em> or a <em>response</em> variable) is binary (correct vs incorrect response).
+So, we use binomial logistic mixed effects models with crossed random effects to model the data <span class="citation">(<a href="bibliography.html#ref-Baayen2008" role="doc-biblioref">Baayen et al., 2008</a>)</span>.</p>
+<p>A linear mixed effects model can be written as:</p>
+<p><span class="math display" id="eq:mixed-effects1">\[\begin{align}
+y = \alpha + u_{\alpha} + w_{\alpha} +
+    (\beta_{1} + u_{\beta_{1}} + w_{\beta_{1}})\cdot {x_1} + \notag \\
+    (\beta_{2} + u_{\beta_{2}} + w_{\beta_{2}})\cdot {x_2} + ... + \nonumber \\
+    (\beta_{n} + u_{\beta_{n}} + w_{\beta_{n}})\cdot {x_n} \tag{4.1}
+\end{align}\]</span></p>
+<p>where,</p>
+<ul>
+<li>
+<span class="math inline">\(y\)</span> is the dependent variable, like participant’s response (correct vs. incorrect)</li>
+<li>
+<span class="math inline">\(\alpha\)</span> is the Intercept.</li>
+<li>Fixed effects: <span class="math inline">\(\beta_{1}, \beta_{2}, ..., \beta_{n}\)</span> are the coefficients (or effects) of <span class="math inline">\(x_1, x_2, ...,x_n\)</span>.</li>
+<li>
+<span class="math inline">\(\boldsymbol{u} = \langle u_{\alpha}, u_{\beta_1}, u_{\beta_2}, ..., u_{\beta_n} \rangle\)</span> : Varying intercept and slopes for random effect term like, <em>subject</em>.</li>
+<li>
+<span class="math inline">\(\boldsymbol{w} = \langle w_{\alpha}, w_{\beta_1}, w_{\beta_2}, ..., w_{\beta_n} \rangle\)</span> : Varying intercept and slopes for random effect term like, <em>item</em>.</li>
+</ul>
+<p>In contrast to linear regression models, mixed effects models allow to simultaneously account for the effects of two random variables, like item and participants.
+The variance in the categorical dependent variable is also preserved, which would otherwise be eliminated by averaging in linear regression models.
+We discuss these issues and the motivation to use the mixed effects model in this thesis in more detail below in this chapter.</p>
+<div id="linear-regression-and-its-limitations" class="section level3" number="4.1.1">
+<h3>
+<span class="header-section-number">4.1.1</span> Linear regression and its limitations<a class="anchor" aria-label="anchor" href="#linear-regression-and-its-limitations"><i class="fas fa-link"></i></a>
+</h3>
+<p>In linear regression, a dependent variable (or an <em>outcome</em>) is modelled as a function of one or more independent predictor variables (<em>factors</em> or <em>explanatory</em> variables).
+That is, an outcome <span class="math inline">\(y\)</span> is modelled as a function of explanatory variables <span class="math inline">\(x_1, x_2, x_3..., x_n\)</span>, and an error term <span class="math inline">\(\varepsilon\)</span>.</p>
+<p><span class="math display" id="eq:linear-regression">\[\begin{align}
+y =
+\alpha +
+\beta_{1}\cdot{x_1} +
+\beta_{2}\cdot{x_2} + ... +
+\beta_{n}\cdot{x_n} + \varepsilon \tag{4.2}
+\end{align}\]</span></p>
+<p>Analysis of Variance (ANOVA), also a form of linear regression <span class="citation">(<a href="bibliography.html#ref-Chatterjee2012" role="doc-biblioref">Chatterjee &amp; Hadi, 2012</a>; <a href="bibliography.html#ref-Vasishth2022" role="doc-biblioref">Vasishth et al., 2022</a>)</span>, compares the means and variances of two or more conditions.
+As expressed in Equation <a href="chapter-stats.html#eq:linear-regression">(4.2)</a>, regression models can only model fixed effects.
+Although ANOVA can account for one random effect at a time, it still averages out the variance in the second random effect.
+These problems of using ANOVA in language sciences have been pointed out as early as the 1960s <span class="citation">(<a href="bibliography.html#ref-Clark1973" role="doc-biblioref">H. H. Clark, 1973</a>; <a href="bibliography.html#ref-Coleman1964" role="doc-biblioref">Coleman, 1964</a>)</span>.
+We elaborate on them in the context of the data of our experiments as follows.</p>
+<div id="modeling-two-random-effects-simultaneously-and-variability-in-the-data" class="section level4" number="4.1.1.1">
+<h4>
+<span class="header-section-number">4.1.1.1</span> Modeling two random effects simultaneously, and Variability in the data<a class="anchor" aria-label="anchor" href="#modeling-two-random-effects-simultaneously-and-variability-in-the-data"><i class="fas fa-link"></i></a>
+</h4>
+<p>As mentioned above, a simple linear regression model, including ANOVA, does not model the effect of two random effects simultaneously, which a mixed effects model does.
+In the traditional ANOVA approach, researchers often run two separate regression models <span class="citation">(<a href="bibliography.html#ref-Lorch1990" role="doc-biblioref">Lorch &amp; Myers, 1990</a>)</span> by averaging raw data across participants, and items.
+Averaging eliminates the variability in the data.
+Additionally, comparing the means of a categorical variable (correct vs incorrect responses) even when transformed into accuracy or proportion scale is hard to interpret sensibly compared to a continuous variable like reaction time <span class="citation">(for discussion, see <a href="bibliography.html#ref-Bolker2009" role="doc-biblioref">Bolker et al., 2009</a>; <a href="bibliography.html#ref-Jaeger2008" role="doc-biblioref">Jaeger, 2008</a>)</span>.
+The statistical remedy for these problems in analysing the data of our experiments is to apply mixed effects models.</p>
+</div>
+<div id="unbalanced-data-sets" class="section level4" number="4.1.1.2">
+<h4>
+<span class="header-section-number">4.1.1.2</span> Unbalanced data sets<a class="anchor" aria-label="anchor" href="#unbalanced-data-sets"><i class="fas fa-link"></i></a>
+</h4>
+<p>In our studies, the data sets are unbalanced.
+The experimental design is intended to result in a balanced data set.
+However, after the removal of outliers and the trials that do not meet the inclusion criteria (for details, see Section <a href="chapter-graded-prediction.html#chapter-6-measurement">6.2.3</a>), the final data sets become unbalanced,
+which introduces a bias in a regression model <span class="citation">(<a href="bibliography.html#ref-Jaeger2008" role="doc-biblioref">Jaeger, 2008</a>)</span>.
+A mixed effects model is best suited for such unbalanced data <span class="citation">(<a href="bibliography.html#ref-Baayen2008" role="doc-biblioref">Baayen et al., 2008</a>)</span>.</p>
+</div>
+<div id="common-mean-for-each-predictor" class="section level4" number="4.1.1.3">
+<h4>
+<span class="header-section-number">4.1.1.3</span> Common mean for each predictor<a class="anchor" aria-label="anchor" href="#common-mean-for-each-predictor"><i class="fas fa-link"></i></a>
+</h4>
+<p>An intrinsic property or feature of the linear regression model is that it assumes a common mean for each predictor.
+It has been shown that this is, in fact, not true in the actual data:
+the effect of a predictor can vary depending on random variables like participant or item.
+Mixed effects models take into account such inter-participant and inter-item variability present in the data.
+For example, in mixed effects models,
+the random effects term with only varying intercept, e.g., participant as an intercept, assumes that if there are 100 participants, then the mean accuracy of those 100 participants is only a subset of possible global accuracies drawn from a set of the population mean.
+When a slope, e.g., levels of predictability, is included in the random effects structure in addition to the varying intercept (e.g., participants), then the model assumes that the effect of predictability on response accuracy varies across participants.
+Such variance across participants (or across items) is present in the real data
+and can be modelled in a mixed effects model but not in a linear regression model.</p>
+</div>
+<div id="bounded-output-variable-and-homogenity-of-variance" class="section level4" number="4.1.1.4">
+<h4>
+<span class="header-section-number">4.1.1.4</span> Bounded output variable, and Homogenity of variance<a class="anchor" aria-label="anchor" href="#bounded-output-variable-and-homogenity-of-variance"><i class="fas fa-link"></i></a>
+</h4>
+<p>Linear models assume an output variable to be on a continuous scale and not be restricted in a narrow range.
+In our data, the output variable has a binomially distributed binary outcome (correct or incorrect response) bounded on <span class="math inline">\([0,1]\)</span>.
+For every trial, there is a probability <span class="math inline">\(p\)</span> (that ranges from 0 to 1) that the response will be correct, i.e. 1 (and a probability <span class="math inline">\(1-p\)</span> that the response will be incorrect, i.e. 0).</p>
+<p>The variance of sample proportion is a function of <span class="math inline">\(p\)</span>, which is shown below.</p>
+<p><span class="math display" id="eq:variance">\[\begin{align}
+\sigma^2_p = \frac{p(1-p)}{n} \tag{4.3}
+\end{align}\]</span></p>
+<p>That is, the variance of the sample proportions is highest at <span class="math inline">\(p=0.5\)</span>;
+it decreases symmetrically as <span class="math inline">\(p\)</span> approaches to 0 or 1.
+Thus, for two samples with the proportions <span class="math inline">\(p_1\)</span> and <span class="math inline">\(p_2\)</span>, the variances are similar if <span class="math inline">\(p_1\)</span> and <span class="math inline">\(p_2\)</span> are equidistant from 0.5.
+Moreover, the further away <span class="math inline">\(p_1\)</span> and <span class="math inline">\(p_2\)</span> are from 0.5, the more dissimilar the variances will be, and the more it matters.
+Critically, we do not know <em>a priori</em> what the value of <span class="math inline">\(p\)</span> is for different samples under consideration in our experiments.</p>
+<p>In a linear model (like ANOVA), binary outcomes [0,1] can be transformed into a proportion scale across participants or across items.
+Even though it is a continuous variable, the proportion scale (i.e., response accuracy) has a range (0,1).
+Additionally, such a transformation of discrete variables brings a host of problems that we have already discussed above (e.g., loss of variability by averaging raw data).</p>
+<p>Binomial logistic mixed effects models, on the other hand, transform<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content='&lt;p&gt;Such transformation is brought about in a generalized linear mixed effects model with a canonical logit link function &lt;span class="citation"&gt;(see &lt;a href="bibliography.html#ref-Malik2020" role="doc-biblioref"&gt;Malik et al., 2020&lt;/a&gt; for discussion)&lt;/span&gt;.&lt;/p&gt;'><sup>8</sup></a> the output variable into a <em>logit</em> scale, <span class="math inline">\(\log\)</span> with base <span class="math inline">\(e\)</span>, i.e. <span class="math inline">\(\ln\)</span>, with a range <span class="math inline">\((-\infty, +\infty)\)</span>.
+Therefore, these mixed effects models do not violate the model assumptions regarding the range of the outcome variables.
+In addition, this transformation in the logistic model also capture the fact that the closer the sample proportions are to the 0.5 the less they matter <span class="citation">(<a href="bibliography.html#ref-Jaeger2008" role="doc-biblioref">Jaeger, 2008</a>)</span>.</p>
+<p>Thus, Equation <a href="chapter-stats.html#eq:mixed-effects1">(4.1)</a> can also be written as:</p>
+<p><span class="math display" id="eq:mixed-effects2">\[\begin{align}
+\ln (\frac{p}{1-p}) = \alpha + u_{\alpha} + w_{\alpha} +
+                      (\beta_{1} + u_{\beta_{1}} + w_{\beta_{1}})\cdot {x_1} + \nonumber\\
+                      (\beta_{2} + u_{\beta_{2}} + w_{\beta_{2}})\cdot {x_2} + \nonumber\\
+                      ... + (\beta_{n} + u_{\beta_{n}} + w_{\beta_{n}})\cdot {x_n} \tag{4.4}
+\end{align}\]</span></p>
+<p>This is equivalent to:</p>
+<p><span class="math display" id="eq:logit-to-prob">\[\begin{align}
+p = {\frac{exp(\ln(\frac{p}{1-p}))}{1 + exp (\ln(\frac{p}{1-p}))}} \tag{4.5}
+\end{align}\]</span></p>
+<p>where,</p>
+<p><span class="math display" id="eq:logiteq">\[\begin{align}
+\ln(\frac{p}{1-p}) =
+{logit}(p) \tag{4.6}
+\end{align}\]</span></p>
+<p>Log-odds of correct response obtained from Equation <a href="chapter-stats.html#eq:mixed-effects2">(4.4)</a> can also be transformed into the probability of correct response.
+Equations <a href="chapter-stats.html#eq:logit-to-prob">(4.5)</a> and <a href="chapter-stats.html#eq:logiteq">(4.6)</a> provide the relationship between probability, logits (or log-odds), and odds (<span class="math inline">\(\frac{p}{1-p}\)</span>).</p>
+<p>We have presented the advantages of mixed effects models over linear (regression) models.
+Hence, we used the binomial logistic mixed effects model as the statistical analysis tool in all experiments reported in this thesis.
+Below we discuss how the model that best fits our data was selected.</p>
+</div>
+</div>
+</div>
+<div id="analysis-main" class="section level2" number="4.2">
+<h2>
+<span class="header-section-number">4.2</span> Model selection and Running mixed effects models in R<a class="anchor" aria-label="anchor" href="#analysis-main"><i class="fas fa-link"></i></a>
+</h2>
+<p>The underlying structure of given data can be modelled by different approximate statistical models.
+We intend to select a model that best fits our data.
+‘Best fit’ can be objectively measured by Akaike Information Criterion, Bayesian Information Criterion, and Likelihood Ratio Test, among others <span class="citation">(<a href="bibliography.html#ref-Akaike1973" role="doc-biblioref">Akaike, 1973</a>; <a href="bibliography.html#ref-Schwarz1978" role="doc-biblioref">Schwarz, 1978</a>)</span>.</p>
+<p>In this thesis, we first build a complex (or maximal) model
+(e.g., by including all predictors, like target word predictability, speech degradation level, speech rate, their interactions, and co-variates, like trial number in the fixed effects)
+that is justified by the experimental design <span class="citation">(cf. <a href="bibliography.html#ref-Bondell2010" role="doc-biblioref">Bondell et al., 2010</a>)</span>.
+The model is fitted with a maximal random effects structure that includes random intercepts for each participant and item <span class="citation">(<a href="bibliography.html#ref-Barr2013" role="doc-biblioref">Barr et al., 2013</a>)</span>.
+By-participant and by-item slopes included in the model are discussed in the Analyses sections of Chapters 5, 6, and 7.</p>
+<p>Model selection was based on the backward-selection heuristics on the fixed effects <span class="citation">(cf. <a href="bibliography.html#ref-Matuschek2017" role="doc-biblioref">Matuschek et al., 2017</a>)</span>.
+To find the best fitting model for the data,
+non-significant higher-order interactions were excluded from the fixed-effects structure in a stepwise manner.
+Similarly, random effects not supported by the data that explained zero variance according to singular value decomposition were excluded to prevent overparameterisation <span class="citation">(<a href="bibliography.html#ref-Bates2015a" role="doc-biblioref">Bates, Kliegl, et al., 2015</a>)</span>.
+This gave a more parsimonious model, which was then extended separately with: i) item-related correlation parameters, ii) participant-related correlation parameters, and iii) both item- and participant-related correlation parameters.
+Among the parsimonious model and extended models,
+the model with the smallest AIC was selected as the best fitting model for our data <span class="citation">(<a href="bibliography.html#ref-Grueber2011" role="doc-biblioref">Grueber et al., 2011</a>; <a href="bibliography.html#ref-Richards2011" role="doc-biblioref">Richards et al., 2011</a>)</span>.</p>
+<p>Data preprocessing and analyses were performed in R <span class="citation">(<a href="bibliography.html#ref-R2018" role="doc-biblioref">R Core Team, 2018</a>)</span> using R-Studio (Version 3.6.1, Version 3.6.3, and Version 4.1.3 at different time points).
+Accuracy was analysed with Generalized Linear Mixed Models (GLMMs) with lmerTest <span class="citation">(<a href="bibliography.html#ref-Kuznetsova2017" role="doc-biblioref">Kuznetsova et al., 2017</a>)</span> and lme4 <span class="citation">(<a href="bibliography.html#ref-Bates2015" role="doc-biblioref">Bates, Mächler, et al., 2015</a>)</span> packages.
+Binary responses (correct responses coded as 1 and incorrect responses coded as 0) for all participants were fit with a binomial logistic mixed effects model.
+Contrast coding of each factor and the model description are presented in the Analyses section of the chapters that follow.</p>
+</div>
+<div id="summary-1" class="section level2" number="4.3">
+<h2>
+<span class="header-section-number">4.3</span> Summary<a class="anchor" aria-label="anchor" href="#summary-1"><i class="fas fa-link"></i></a>
+</h2>
+<p>In this chapter, we introduced the statistical tool used for data analysis in this thesis.
+We discussed the limitations of traditional linear regression-based models like ANOVA
+and outlined the motivations for using mixed effects models.
+To capture the variability of our data without averaging out across participants or items,
+and to account for the effect of two (or more) random effects — participant and item — simultaneously,
+we fit mixed effects models to our data.<br>
+Details of each data set corresponding to each experiment are presented in Chapters 5, 6, and 7.</p>
+
+</div>
+</div>
+
+  <div class="chapter-nav">
+<div class="prev"><a href="chapter-methods.html"><span class="header-section-number">3</span> General methods</a></div>
+<div class="next"><a href="chapter-attention-prediction.html"><span class="header-section-number">5</span> Predictability effects of degraded speech are reduced as a function of attention</a></div>
+</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
+    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
+      <ul class="nav navbar-nav">
+<li><a class="nav-link" href="#chapter-stats"><span class="header-section-number">4</span> General statistical approach</a></li>
+<li>
+<a class="nav-link" href="#linear-mixed-effects-models"><span class="header-section-number">4.1</span> Linear mixed effects models</a><ul class="nav navbar-nav"><li><a class="nav-link" href="#linear-regression-and-its-limitations"><span class="header-section-number">4.1.1</span> Linear regression and its limitations</a></li></ul>
+</li>
+<li><a class="nav-link" href="#analysis-main"><span class="header-section-number">4.2</span> Model selection and Running mixed effects models in R</a></li>
+<li><a class="nav-link" href="#summary-1"><span class="header-section-number">4.3</span> Summary</a></li>
+</ul>
+
+      <div class="book-extra">
+        <ul class="list-unstyled">
+<li><a id="book-source" href="https://github.com/pratik-bhandari/blob/master/04-statistical-approach.Rmd">View source <i class="fab fa-github"></i></a></li>
+          <li><a id="book-edit" href="https://github.com/pratik-bhandari/edit/master/04-statistical-approach.Rmd">Edit this page <i class="fab fa-github"></i></a></li>
+        </ul>
+</div>
+    </nav>
+</div>
+
+</div>
+</div> <!-- .container -->
+
+<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>"<strong><p>Interaction of top-down and bottom-up processes in spoken language comprehension</p></strong>" was written by Pratik Bhandari. </p>
+  </div>
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>This book was built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package.</p>
+  </div>
+
+</div></div>
+</footer><!-- dynamically load mathjax for compatibility with self-contained --><script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script><script type="text/x-mathjax-config">const popovers = document.querySelectorAll('a.footnote-ref[data-toggle="popover"]');
+for (let popover of popovers) {
+  const div = document.createElement('div');
+  div.setAttribute('style', 'position: absolute; top: 0, left:0; width:0, height:0, overflow: hidden; visibility: hidden;');
+  div.innerHTML = popover.getAttribute('data-content');
+
+  var has_math = div.querySelector("span.math");
+  if (has_math) {
+    document.body.appendChild(div);
+    MathJax.Hub.Queue(["Typeset", MathJax.Hub, div]);
+    MathJax.Hub.Queue(function() {
+      popover.setAttribute('data-content', div.innerHTML);
+      document.body.removeChild(div);
+    })
+  }
+}
+</script>
+</body>
+</html>
