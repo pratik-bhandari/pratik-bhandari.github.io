@@ -1,0 +1,169 @@
+---
+title: "PhD defence: An afterthought"
+description: |
+  Looking back and preaching forward
+author: Pratik Bhandari
+date: 2023-01-21
+categories:
+  - PhD
+  - life
+  - research
+  - "2023"
+draft: false
+image: buddha-hat.png
+editor: 
+  markdown: 
+    wrap: sentence
+tbl-cap-location: top
+---
+
+------------------------------------------------------------------------
+
+<figure>
+
+<img src="buddha-hat.png" alt="Silhouette of Buddha wearing a convocation hat." style="width:85%"/>
+
+<figcaption>"What is PhD, if not knowledge expanding." Enlightening or not, it can be enjoyable. (Image generated from DALL·E 2)</figcaption>
+
+</figure>
+
+I defended my PhD [thesis](https://pratik-bhandari.github.io/contents/html-phd/index.html/) last month on the 7th of December, 2022.
+The program was organised at 8 am to adjust for the time difference between Germany and New Zealand. I was defending from Germany, and two out of five of my committee members were attending online from New Zealand.
+There were 20-plus online attendees.
+And 50-plus people, including two committee members, attended the defence in person.
+I was surprised so many people came, online and in person, so early in the morning.
+It was quite a big event for me.
+
+## Pre-defence
+### Worries
+
+Worry and nervousness were fluctuating.
+Three weeks before the defence, I was slightly anxious.
+It subsided the following week.
+The week before the defence, I started to become nervous.
+Many questions occupied my mind.
+What if I can't answer committee members' questions in front of so many people?
+(What if no one attends?)
+What if they ask questions referring to a specific page number and sentence? Can I defend each sentence while everyone watches me?
+What if I fumble too much, which I tend to do when nervous?
+What if I can't answer the questions?
+What if my answers do not satisfy them?
+Will I and my presentation be clear and understandable to those committee members who are not remotely close to language sciences, let alone my specific line of work?
+Should I ask my parents and friends not to come to the defence because it would be humiliating and embarrassing for everyone?
+
+Okay. I let you into my secret and darkest thoughts. Read further. Now, what next?
+
+I was having trouble finding a room with a hybrid --- online and in-person --- facility.
+Any room with such functionality was already booked for the day.
+Somehow, I got a room in the middle of the forest, away from the centre of the university.
+It was worrisome that the online system did not work on the first try.
+It took two days to make it work: There was no IT support.
+It is ridiculous that the student has to organize everything for their defence, and the University does not do it as far as I know.
+
+There is a tradition of serving food and drink on the day of defence after the defence is over.
+I had to plan what to bring and where from.
+It is quite simple, but amid the nervousness about the defence (presentation and Q&A), it became a big deal.
+Not everything was as bad as it sounds here, or that it can't be overcome[^bright-side].
+
+## The defence
+
+Let's talk about the defence: my presentation and the Q&A session.
+I was allocated 30 minutes to talk about four years of research.
+It was followed by an hour-long Q&A session.
+In that hour, the committee members asked plenty of questions, some expected and some unexpected.
+(One committee member, who was in Saarbrücken, didn't attend in person. I assumed he would; I never asked.)
+At that time, I couldn't have guessed how long the Q&A had lasted:
+It neither felt like an eternity nor did it feel like a blink of an eye.
+
+### Presentation
+
+I had my notes for the PowerPoint presentation in the speaker notes.
+Trying to peek at it was distracting at times: Such was not the case in the earlier practice talks I had given in front of my colleagues and friends.
+The microphones on the podium were very distracting in the presentation.
+I felt like I had to hear my voice from the overhead loudspeakers; otherwise, the audience wouldn't hear me.
+But I realised later that it wasn't the case.
+The online audience could hear me via the "room mic" placed near me.
+The in-person audience could have heard me even without the loudspeakers.
+
+I also lost my train of thought at least three points throughout the presentation, which means I likely said something random to get back on track.
+(Later people in the audience reported that they didn't notice anything like that. Well, I guess they were being polite to me. After all, I had already passed when I asked if they'd noticed me lose focus.)
+I'm saying now that I couldn't deliver everything as I'd planned then.
+
+### The Q&A round
+
+The word *"defence"* makes it sound as if someone is attacking you, and you are protecting yourself from the attack.
+We are programmed to feel that way from the time when we learn about dissertation, thesis, passing PhD, and ...defence.
+Okay, so how did it go in my case?
+Not as bad as I had imagined the worse case scenario to be. It went well.
+Some questions were anticipated, some not, and some: I had no clue how to answer.
+I believe all questions of different flavours are asked to test how a "defendant" responds in an intellectual/academic discussion.
+You should be ready to answer, or at least respond, to everything, sensibly.
+Is that what we get evaluated on?
+I digress.
+
+In general, I felt I could have answered many questions better than how and what I did.
+Good thing: I waited to reply after the question was asked. Didn't rush.
+Most of the time, I took some time to think through the questions, and sketched in a notepad what the answers could be. Then I responded.
+This approach was very beneficial when the questions were tricky and unanticipated and when I had never before looked at my studies from a particular point of view raised by the committee members.
+I heard that some audience members didn't like me "writing something" before answering the question, as if I was "writing a book".
+I don't know what the committee members thought.
+And I don't remember clearly if I even mentioned to the committee what I was doing.
+Maybe I didn't. A mistake?
+
+The difficult and a bit problematic part was coordinating between online and in-person committee members when they were asking questions.
+In principle, it is the committee Chair's job to manage and organise who asks questions and for how long.
+But the mic in the room didn't pick up the Chair's voice, so I had to reiterate what he said to the online committee members.
+It could have been smoother than it was, had everyone been present in person.
+I could not pay attentiontion to the online audience, my friends and families, after the presentation when I (and everyone in the room) was asked to leave the room for the committee members to decide the fate of my PhD.
+
+## What am I preaching here?
+
+(C'mon, don't take it literally. I am not preaching!)
+
+The committee called me in after some minutes.
+There were some secret vows I had to make to obtain doctoral degree :P (Nothing like that.) They told I passed with good grades :) Felt happy for some minutes; don't ask what the feeling was after those fleeting moments.
+With the benefit of hindsight, all the worries and nervousness and anxiety seem to be too intense than they could have been should have been.
+It is natural and maybe necessary to be worried to some extent, but not too much.
+Having said that, if I travelled back in time before the defence and told myself not to worry so much, I doubt I would be any less worried or anxious.
+
+I saved myself some trouble by taking advice from those who had gone through a similar phase before me.
+There are also plenty of instances where I could still have done better.
+Based on others' and my experiences, I would recommend the following, in no particular order, to someone who plans to defend their thesis:
+
+1. Do as many dry runs as possible. Present it to your lab members; get the bad news at home. Also, present it to people who are not very familiar with your work. Get input from a wider variety of audiences if your committee members have a diverse set of expertise.
+
+3. Prepare a script for what you'd want to say on each slide. Time your talk about being within the given time (30 minutes in most of the departments in [UdS](https://en.wikipedia.org/wiki/Saarland_University)).
+
+4. Confirm with all committee members a day before the defence if they are attending regardless of the nature of the defence (in-person, online, or hybrid). There may be last-minute changes in their plans, and you might not get the information on time.
+
+5. Test everything a couple of days ahead of the day of defence. Make sure that all the instruments and IT equipment are functional. And on the day of defence, carry a spare laptop, just in case your laptop decides to give up on you.
+
+   i. It is better to do a dry run in the venue if possible. Find and remove or manage distracting objects. The microphone was unexpectedly distracting in my case.
+
+1. The committee members are not there to attack you, as the word "defense" implies. They will test you, I think. But have an attitude of an academic/intellectual discussant.
+
+6. Try not to drain yourself with too much worry, anxiety, and nervousness. You know better than anyone else in the room about the content of the dissertation, the presentation, and the field of research[^cliche]: go with this confidence with point 5 in mind.
+
+    i. Eliminate unnecessary sources of worries. Food and drinks are not primary concerns. They are manageable. Don't put too much thought into them. Just get the damn wine and some cookies or cake or whatever. People aren't there for food and drink. If you are like me, you'd have this conflict: "Down with the culture of PhD students serving food" vs "Attendees are my guests". So, keep a balance. I repeat, direct your worries and concerns to their appropriate place.
+
+    ii. Finding a venue can be daunting. Try to get a place as soon as you have a date fixed. Writing emails to different department secretariats and room managers, waiting for their replies only to know that the rooms are booked, checking online room portals to find out that the rooms aren't available on the date of your defence, the contact person of the room that is available is out of office... This is another source of avoidable worry and stress which can be managed.
+
+7. Sleep, eat, and hydrate. Sleep well before the day of defence. If I were to do it again, I'd still organize the program in the morning, maybe at 9 and not 8. It saves hours and hours of anticipatory anxiety. You know your body; eat accordingly. Most importantly, don't forget to take a bottle and a glass of water with you in the podium or stage. The 90-plus minutes of speaking dries your mouth, and you need hydration anyway. Sipping water also gives some time to organize your thoughts before responding to questions.
+
+7. You don't have answers to all questions, especially the ones you did not anticipate and those that come from the point of view you had never considered before. It is okay not to know the exact answer to some questions. But, speculate. Formulate your speculation based on your data and results and the literature.
+
+8. Get to know your committee members: their papers, other committees they have been in, the questions they tend to ask, and how *kind* they are[^kind]. Knowing your committee's expertise, where they come from, and where they take you with their questions will help you anticipate some questions and prepare accordingly. For example, someone might focus more on experimental methods, while another member might focus on theoritical part of your research.
+
+9. Read. Make sure your dissertation is fresh in your mind while you are presenting and answering questions. It is tempting to think that you know what you've written. Of course you *know*. But do you know what statements could stand out as peculiar to the committee, to a reviewer who reads your dissertation? Be safe, do not falter while answering questions pertaining to such peculiarities. So, read. Side benefit: you'll freshen up the citations in your memory.
+
+There is always a next thing to do. A new thing to worry about. I passed PhD, and now I'm worrying about getting a postdoc position of my fit/choice. In hindsight, as time passes, what you accomplished doesn't seem too big of a deal, past worries seem too exaggerated. But in the moment, the best thing to do is to manage the concerns and try to perform well.
+If you are preparing for a PhD defence, I wish you all the best!
+
+[^bright-side]: It is important to ask for help and suppport.
+I leaned on some people for help.
+My friends and colleagues dedicated their time and effort to make sure that I could make the computer work for online participants,
+and there were food and drinks, and I was not much nervous.
+
+[^cliche]: I know this is a cliché. It is tough, especially when the defence date is very close. But my experience is that the more you practise, the more it helps build confidence: You'll realise more clearly what the breadth and depth of your knowledge are, and the weak points you could work on.
+
+[^kind]: Don't rely on kindness!
