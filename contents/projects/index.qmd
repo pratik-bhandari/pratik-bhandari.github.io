@@ -11,7 +11,7 @@ These are some of the works I have undertaken in the past few years.
 
 ### Language Comprehension in a Noisy Channel
 
-I was a part of project [A4](https://sfb1102.uni-saarland.de/projects/language-comprehension-in-noisy-channel/) at the Collaborative Research Center (SFB 1102) *Information Density and Linguistic Encoding* at Saarland University.
+I was a part of project [A4](https://sfb1102.uni-saarland.de/projects/language-comprehension-in-noisy-channel/) at the Collaborative Research Center ([SFB 1102](https://sfb1102.uni-saarland.de)) *Information Density and Linguistic Encoding* at Saarland University.
 The project aims to ‘examine how noise (or the effect of reduced hearing ability) will influence language comprehension, and how natural language generation systems can adapt their output to minimize the risk of misunderstanding’.
 With Prof. [Vera Demberg](https://scholar.google.de/citations?hl=en&user=l2CFSAMAAAAJ),
 Prof. [Jutta Kray](https://scholar.google.de/citations?user=dEF9T0cAAAAJ&hl=en&oi=ao) and

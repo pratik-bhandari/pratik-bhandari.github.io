@@ -8,8 +8,17 @@ subtitle: |
 
 ***
 
+* **February 21**: I gave a short talk on the topic "What does my post-defence hingsight of 20/20 say?
+If I were to advise myself..."
+to an audience of PhD students on the PhD day organized by the Collaborative Research Center, Saarland University on 09.02.2022.
+The slides are available [here](http://localhost:7388/contents/blog/posts/2023-01-21_phd-afterthought/2023-02-09_defence-hindsight.pdf).
+The talk was based on [this](./../blog/posts/2023-01-21_phd-afterthought/index.html) blog post.
+
+
 * **December 19**: I successfully defended my [thesis](https://osf.io/rtsz3/) on December 7, and passed *magna cum laude*.
-Now I am in the job market looking for a postdoc position! Get in touch -- <a href="mailto:postdoc@pratikb.com">postdoc@pratikb.com</a>.
+Now I am in the job market looking for a postdoc position!
+See details on my [homepage](./../../index.html).
+Get in touch -- <a href="mailto:postdoc@pratikb.com">postdoc@pratikb.com</a> or <a href="mailto:work@pratikb.com">work@pratikb.com</a>
 
 * **November 10**: I submitted my dissertation to the 5-member thesis committee a few weeks ago. The defense will very likely be held on 7 December.\
 Alongside the preparation for my defense, I am also in the job market looking for a post-doc or an industry position! Look out for my applications ;)

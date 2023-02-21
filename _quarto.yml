@@ -44,14 +44,11 @@ website:
        href: index.qmd
      - text: "Scribbles"
        href: contents/literature/index.qmd
-     - text: "Projects"
-       href: contents/projects/index.qmd
-     - text: "Codes"
-       href: contents/codes/index.qmd
-     - text: "News"
-       href: contents/news/index.qmd
      - text: "Blog"
        href: contents/blog/index.qmd
+     - text: " "
+       icon: person-lines-fill
+       href: contents/contact.qmd
      # - text: "Scribbles"
      #   menu:
      #     - text: "Blog"
@@ -59,12 +56,19 @@ website:
      #     - text: "Literature"
      #       href: contents/literature/index.qmd
    right:
-     - text: "Contact"
+     - text: "Projects"
+       href: contents/projects/index.qmd
+     - text: "Codes"
+       href: contents/codes/index.qmd
+     - text: "News"
+       href: contents/news/index.qmd
+     - text: " "
+       icon: person-lines-fill
        href: contents/contact.qmd
-     - icon: twitter
-       href: https://twitter.com/prbhx
-     - icon: person-circle
-       href: "https://scholar.google.com/citations?hl=de&user=Y0HnEQwAAAAJ&view_op=list_works&sortby=pubdate"
+     # - icon: twitter
+     #   href: https://twitter.com/prbhx
+     # - icon: person-circle
+     #   href: "https://scholar.google.com/citations?hl=de&user=Y0HnEQwAAAAJ&view_op=list_works&sortby=pubdate"
 
 format:
   html:

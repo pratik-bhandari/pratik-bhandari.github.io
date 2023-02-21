@@ -1,5 +1,5 @@
 ---
-title: "Pratik Bhandari"
+title: "Dr. Pratik Bhandari"
 about:
   template: marquee
   image-width: 10em
@@ -21,46 +21,69 @@ about:
 ---
 
 :::{.callout-note}
-I am in the job market for a postdoc position starting January 2023.
-Get in touch by email (<a href="mailto:postdoc@pratikb.com">postdoc@pratikb.com</a>) or [other media](./contents/contact.html#other-online-presence).
+## Actively seeking job
+
+I am in the job market in academia (postdoc position) as well as in industry (consultant, writer, data scientist, researcher).
+Get in touch by email (<a href="mailto:postdoc@pratikb.com">postdoc@pratikb.com</a> or <a href="mailto:work@pratikb.com">work@pratikb.com</a>) if you have a position that you'd like to offer me or recommend. I'd highly appreciate any help.
 :::
 
-I am a doctoral researcher at the Collaborative Research Center ([SFB 1102](https://sfb1102.uni-saarland.de)) at Saarland University.
-I successfully defended my PhD on December 7.
-In my PhD, supervised by [Prof. Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html) and [Prof. Jutta Kray](https://www.uni-saarland.de/lehrstuhl/kray/team/jk.html),
-I focused on understanding how we make sense of spoken language in adverse listening conditions,
-under the theoretical framework of predictive processing and the noisy channel model of communication.
-Scroll down to see my academic qualification and selected scientific publications.
-Click [here](./contents/projects/index.html) to see the research projects that I have undertaken so far on various domains of cognitive science, including psychology and psycholinguistics.
-
-
-<!--Here you'll find my formal academic works: [research projects](./contents/projects/index.html) and [publications](https://sites.google.com/view/pratik-bhandari/publications).\
-And here are some less formal and non-academic writings: [blog](./contents/blog/index.html) and [scribbles](./contents/literature/index.html).\-->
-
-<!--I come from <span>&#x1F1F3;&#x1F1F5;</span>Nepal. So obviously, I have not climbed the ⛰️ Sagarmatha.-->
+I recently completed my PhD from Saarland University, where I studied psychology and language sciences.
+My research focused on understanding how we make sense of spoken language in adverse listening conditions.
+Before this, I worked on topics like metacognition and executive control in bilinguals.
+I used behavioural and electrophysiological methodologies, like eye-tracking and EEG, including online experiments/surveys.
+You can scroll down to see my [academic qualification](#education) and [selected publications](#publications),
+and click [here](./contents/projects/index.html) to see the research projects I have undertaken so far across various domains of cognitive science,
+including psychology and psycholinguistics.
 
 ---
 
-## Education
+What I expect from a job and what I can contribute:
+
+**Academia**:
+I wish to diversify my research fields and methodologies without making the postdoc research a continuity of the PhD.
+I intend to join a lab that does interdisciplinary research and fosters collaborations.
+There I would bring my training and experience in psycholinguistics and cognitive neuroscience and
+would expect opportunities to work with experts in other fields, like neuroimaging, computational modelling, and philosophy, to name a few.
+Questions about human and/or machine cognition, including language processing, memory, attention, metacognition, and (un)conscious awareness,
+would fit my current research interests. 
+
+**Industry**:
+I wish to use the skills and expertise I have gained to solve real-world problems;
+I expect the job to be challenging.
+I have over six years of experience and expertise in project management, academic writing, data analysis and visualisation, programming, and conducting research.
+I enjoy working with data (wrangling, statistical analysis, and visualisation), documenting codes, and writing reports and papers.
+My experience in academic research can be used for consultation — to make an informed and educated decision,
+especially if a company’s work revolves around applied health sciences, psychology, linguistics, or other similar areas.
+<!-- I can also see myself engaged in analysing and visualizing data to gain insights from them. -->
+
+*There may be research domains or industry positions I have not mentioned above that can utilise my skills and expertise.*
+*Let’s talk about them and work together.*
+*I am just an email away!*
+
+---
+
+## Education {#education}
 
 **Saarland University** **|** Germany\
 PhD -- *magna cum laude* **|** Nov 2018 - Dec 2022\
-"*Interaction of top-down and bottom-up processes in spoken language comprehension*"
+"*Interaction of top-down and bottom-up processes in spoken language comprehension*"\
+Advisors: [Prof. Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html), [Prof. Jutta Kray](https://www.uni-saarland.de/lehrstuhl/kray/team/jk.html)
 
 **Basque Center on Cognition, Brain and Language** **|** Spain\
-Master in Cognitive Neuroscience of Language -- *Excellent, 9/10* **|** Sep 2017 - Sep 2018\
-"*Predictability modulates type-1 and type-2 language processing: Spanish-Basque bilingual context*"
+Master in Cognitive Neuroscience of Language **|** Sep 2017 - Sep 2018\
+"*Predictability modulates type-1 and type-2 language processing: Spanish-Basque bilingual context*"\
+Advisor: [Prof. David Soto](https://www.bcbl.eu/en/conocenos/equipo/david-soto)
 
 **Institute of Medicine**, Tribhuvan University **|** Nepal\
 Bachelor in Audiology & Speech-Language Pathology **|** Nov 2010 - April 2015
 
 ---
 
-## Publications
-
-**Bhandari, P** (2022). Interaction of top-down and bottom-up processes in spoken language comprehension. *Doctoral dissertation*, Saarländische Universitäts-und Landesbibliothek.[[html](https://pratik-bhandari.github.io/contents/html-phd/index.html/)]
+## Publications {#publications}
 
 **Bhandari, P.**, Demberg, V., & Kray, J. (*under review*). Speaking fast and slow: How speech rate modulates contextual facilitation of degraded speech comprehension.
+
+**Bhandari, P** (2022). Interaction of top-down and bottom-up processes in spoken language comprehension. *Doctoral dissertation*, Saarländische Universitäts-und Landesbibliothek.[[html](https://pratik-bhandari.github.io/contents/html-phd/index.html/)]
 
 **Bhandari, P.**, Demberg, V., & Kray, J. (2022). Predictability effects in degraded speech comprehension are reduced as a function of attention. *Language and Cognition*, 1-18. [[html](https://doi.org/10.1017/langcog.2022.16)][[pdf](https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fdownload%2Ftdvhs%2F%3Fdirect%3D%26mode%3Drender)]
 
@@ -73,4 +96,8 @@ Mishra, R. K., Padmanabhuni, M., **Bhandari, P.**, Viswambharan, S., & Prasad, S
 **Bhandari, P.**, & Khanal, P. (2016). Pride in autistic diversity: against treatment or for inclusion? *The Lancet, 388*(10059), 24477. [[html](https://doi.org/10.1016/S0140-6736(16)32176-6)]
 
 ---
-<!-- 🇳🇵 -->
+
+Thanks for visiting my website.
+In addition to my academic [publications](https://sites.google.com/view/pratik-bhandari/publications),
+here are some of my less formal and non-academic writings: [blog](./contents/blog/index.html) and [scribbles](./contents/literature/index.html).
+
