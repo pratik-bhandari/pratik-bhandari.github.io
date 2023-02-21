@@ -31,8 +31,8 @@ I recently completed my PhD from Saarland University, where I studied psychology
 My research focused on understanding how we make sense of spoken language in adverse listening conditions.
 Before this, I worked on topics like metacognition and executive control in bilinguals.
 I used behavioural and electrophysiological methodologies, like eye-tracking and EEG, including online experiments/surveys.
-You can scroll down to see my [academic qualification](#education) and [selected publications](#publications),
-and click [here](./contents/projects/index.html) to see the research projects I have undertaken so far across various domains of cognitive science,
+Scroll down to see my [academic qualification](#education) and [selected publications](#publications),
+and click [here](./contents/projects/index.html) to see the research projects I have undertaken across various domains of cognitive science,
 including psychology and psycholinguistics.
 
 ---

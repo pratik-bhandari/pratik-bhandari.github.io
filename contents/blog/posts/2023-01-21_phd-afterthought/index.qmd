@@ -159,7 +159,7 @@ Based on others' and my experiences, I would recommend the following, in no part
 There is always a next thing to do. A new thing to worry about. I passed PhD, and now I'm worrying about getting a postdoc position of my fit/choice. In hindsight, as time passes, what you accomplished doesn't seem too big of a deal, past worries seem too exaggerated. But in the moment, the best thing to do is to manage the concerns and try to perform well.
 If you are preparing for a PhD defence, I wish you all the best!
 
-**Update**: I gave a brief presentation on this topic at Saarland University on 09.02.2023. Find the slides [here](./2023-02-09_defence-hindsight.pdf).
+**Update**: I gave a brief presentation on this topic at Saarland University on 09.02.2023. Find the slides [here](https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fdownload%2Fpjdgr%2F%3Fview_only%3D6e0ed43d6b844161aa95315af23c3d94%26direct%3D%26mode%3Drender).
 
 [^bright-side]: It is important to ask for help and support.
 I leaned on some people for help.
