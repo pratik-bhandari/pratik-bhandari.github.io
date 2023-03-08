@@ -24,18 +24,18 @@ about:
 ## Actively seeking job
 
 I am in the job market in academia (postdoc position) as well as in industry (consultant, writer, data scientist, researcher).
-Get in touch by email (<a href="mailto:postdoc@pratikb.com">postdoc@pratikb.com</a> or <a href="mailto:work@pratikb.com">work@pratikb.com</a>) if you have a position that you'd like to offer me or recommend. I'd highly appreciate any help.
+Get in touch by email (<a href="mailto:postdoc@pratikb.com">postdoc@pratikb.com</a> or <a href="mailto:work@pratikb.com">work@pratikb.com</a>) if you have a position that you'd like to offer me or recommend. I'd highly appreciate it.
 :::
 
 I recently completed my PhD from Saarland University, where I studied psychology and language sciences.
-My research focused on understanding how we make sense of spoken language in adverse listening conditions.
-Before this, I worked on topics like metacognition and executive control in bilinguals.
-I used behavioural and electrophysiological methodologies, like eye-tracking and EEG, including online experiments/surveys.
-Scroll down to see my [academic qualification](#education) and [selected publications](#publications),
-and click [here](./contents/projects/index.html) to see the research projects I have undertaken across various domains of cognitive science,
+My research focused on understanding how we use context information to make sense of spoken language in adverse listening conditions.
+Before this, I studied metacognition and executive control mechanism in bilinguals.
+I used behavioural and electrophysiological methods, like eye-tracking and EEG, including online experiments/surveys.
+Scroll down to see my [academic qualifications](#education) and [selected publications](#publications).
+Click [here](./contents/projects/index.html) to see the research projects I have undertaken across various domains of cognitive science,
 including psychology and psycholinguistics.
 
----
+<!---
 
 What I expect from a job and what I can contribute:
 
@@ -53,12 +53,12 @@ I expect the job to be challenging.
 I have over six years of experience and expertise in project management, academic writing, data analysis and visualisation, programming, and conducting research.
 I enjoy working with data (wrangling, statistical analysis, and visualisation), documenting codes, and writing reports and papers.
 My experience in academic research can be used for consultation — to make an informed and educated decision,
-especially if a company’s work revolves around applied health sciences, psychology, linguistics, or other similar areas.
+especially if a company’s work revolves around applied health sciences, psychology, linguistics, or other similar areas.-->
 <!-- I can also see myself engaged in analysing and visualizing data to gain insights from them. -->
 
-*There may be research domains or industry positions I have not mentioned above that can utilise my skills and expertise.*
+<!--*There may be research domains or industry positions I have not mentioned above that can utilise my skills and expertise.*
 *Let’s talk about them and work together.*
-*I am just an email away!*
+*I am just an email away!*-->
 
 ---
 
@@ -97,7 +97,6 @@ Mishra, R. K., Padmanabhuni, M., **Bhandari, P.**, Viswambharan, S., & Prasad, S
 
 ---
 
-Thanks for visiting my website.
-In addition to my academic [publications](https://sites.google.com/view/pratik-bhandari/publications),
-here are some of my less formal and non-academic writings: [blog](./contents/blog/index.html) and [scribbles](./contents/literature/index.html).
+In addition to the academic [publications](https://sites.google.com/view/pratik-bhandari/publications),
+here are some less formal, less technical writings: "[Blog](./contents/blog/index.html)" and "[Scribbles](./contents/literature/index.html)".
 
