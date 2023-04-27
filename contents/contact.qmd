@@ -11,7 +11,7 @@ title: "Get in touch"
 Campus A1.3, Room 2.11\
 Saarland University\
 D-66123 Saarbrücken, Germany\
-`postdoc@pratikb.com` or `work@pratikb.com`
+`work@pratikb.com`
 
 ```{r}
 #| echo: false

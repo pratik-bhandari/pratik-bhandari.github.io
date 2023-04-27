@@ -1,5 +1,5 @@
 ---
-title: "Dr. Pratik Bhandari"
+title: "Pratik Bhandari"
 about:
   template: marquee
   image-width: 10em
@@ -20,49 +20,32 @@ about:
     #   href: https://github.com/pratik-bhandari
 ---
 
-:::{.callout-note}
-## Actively seeking job
+Welcome to my site!\
 
-I am in the job market in academia (postdoc position) as well as in industry (consultant, writer, data scientist, researcher).
-Get in touch by email (<a href="mailto:postdoc@pratikb.com">postdoc@pratikb.com</a> or <a href="mailto:work@pratikb.com">work@pratikb.com</a>) if you have a position that you'd like to offer me or recommend. I'd highly appreciate it.
-:::
+Here I post my literary writings, share personal experiences, and talk science (see [Scribbles](./contents/literature/index.html) and [Blog](./contents/blog/index.html)).
+I am interesed in the science and philosophy of human and machine cognition: I did my Master's in cognitive neuroscience and PhD in psychology and language sciences.
 
-I recently completed my PhD from Saarland University, where I studied psychology and language sciences.
-My research focused on understanding how we use context information to make sense of spoken language in adverse listening conditions.
-Before this, I studied metacognition and executive control mechanism in bilinguals.
-I used behavioural and electrophysiological methods, like eye-tracking and EEG, including online experiments/surveys.
-Scroll down to see my [academic qualifications](#education) and [selected publications](#publications).
-Click [here](./contents/projects/index.html) to see the research projects I have undertaken across various domains of cognitive science,
-including psychology and psycholinguistics.
+Check my recent posts:
 
-<!---
-
-What I expect from a job and what I can contribute:
-
-**Academia**:
-I wish to diversify my research fields and methodologies without making the postdoc research a continuity of the PhD.
-I intend to join a lab that does interdisciplinary research and fosters collaborations.
-There I would bring my training and experience in psycholinguistics and cognitive neuroscience and
-would expect opportunities to work with experts in other fields, like neuroimaging, computational modelling, and philosophy, to name a few.
-Questions about human and/or machine cognition, including language processing, memory, attention, metacognition, and (un)conscious awareness,
-would fit my current research interests. 
-
-**Industry**:
-I wish to use the skills and expertise I have gained to solve real-world problems;
-I expect the job to be challenging.
-I have over six years of experience and expertise in project management, academic writing, data analysis and visualisation, programming, and conducting research.
-I enjoy working with data (wrangling, statistical analysis, and visualisation), documenting codes, and writing reports and papers.
-My experience in academic research can be used for consultation — to make an informed and educated decision,
-especially if a company’s work revolves around applied health sciences, psychology, linguistics, or other similar areas.-->
-<!-- I can also see myself engaged in analysing and visualizing data to gain insights from them. -->
-
-<!--*There may be research domains or industry positions I have not mentioned above that can utilise my skills and expertise.*
-*Let’s talk about them and work together.*
-*I am just an email away!*-->
+<!-- 1. [13/03/2023](./contents/blog/posts/2023-03-13_nepal-iq-myth/index.html): The danger and false promise of IQ -->
+    
+1. [21/01/2023](./contents/blog/posts/2023-01-21_phd-afterthought/index.html): PhD defence: An afterthought
+    
+2. [08/08/2022](./contents/blog/posts/2022-08-08_speech-rate/index.html): Speaking fast and slow
+    
+3. [25/07/2022](./contents/blog/posts/2022-07-25_attention-prediction/index.html): Attention is mostly what you need
+    
+4. [26/10/2021](./contents/literature/posts/2021-10-26-operation-room/index.html): In the operating room
 
 ---
 
-## Education {#education}
+Below you can find my [academic qualifications](#education) and [selected publications](#publications)
+(full list [here](http://sites.google.com/view/pratik-bhandari/publications)).
+Click [here](./contents/projects/index.html) to see the research projects I have undertaken across various domains of cognitive science,
+including psychology and psycholinguistics.
+
+
+## Education and training {#education}
 
 **Saarland University** **|** Germany\
 PhD -- *magna cum laude* **|** Nov 2018 - Dec 2022\
@@ -74,10 +57,13 @@ Master in Cognitive Neuroscience of Language **|** Sep 2017 - Sep 2018\
 "*Predictability modulates type-1 and type-2 language processing: Spanish-Basque bilingual context*"\
 Advisor: [Prof. David Soto](https://www.bcbl.eu/en/conocenos/equipo/david-soto)
 
+**Center for Neural and Cognitive Sciences**, University of Hyderabad **|** India\
+Research Intern **|** Dec 2015 - May 2017\
+PI: [Prof. Ramesh Kumar Mishra](https://scholar.google.com/citations?user=aWaIy0sAAAAJ&hl=en&oi=ao)
+
 **Institute of Medicine**, Tribhuvan University **|** Nepal\
 Bachelor in Audiology & Speech-Language Pathology **|** Nov 2010 - April 2015
 
----
 
 ## Publications {#publications}
 
@@ -94,9 +80,3 @@ Bachelor in Audiology & Speech-Language Pathology **|** Nov 2010 - April 2015
 Mishra, R. K., Padmanabhuni, M., **Bhandari, P.**, Viswambharan, S., & Prasad, S. G. (2018) Language proficiency does not modulate executive control in older bilinguals. *Aging, Neuropsychology and Cognition. 26*(6), 920-951. [[html](https://doi.org/10.1080/13825585.2018.1562029)] [[pdf](https://www.tandfonline.com/doi/pdf/10.1080/13825585.2018.1562029)]
 
 **Bhandari, P.**, & Khanal, P. (2016). Pride in autistic diversity: against treatment or for inclusion? *The Lancet, 388*(10059), 24477. [[html](https://doi.org/10.1016/S0140-6736(16)32176-6)]
-
----
-
-In addition to the academic [publications](https://sites.google.com/view/pratik-bhandari/publications),
-here are some less formal, less technical writings: "[Blog](./contents/blog/index.html)" and "[Scribbles](./contents/literature/index.html)".
-

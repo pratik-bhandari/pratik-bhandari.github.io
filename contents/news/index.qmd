@@ -16,9 +16,11 @@ The talk was based on [this](./../blog/posts/2023-01-21_phd-afterthought/index.h
 
 
 * **December 19**: I successfully defended my [thesis](https://osf.io/rtsz3/) on December 7, and passed *magna cum laude*.
-Now I am in the job market for positions in universities, research institutes, or industries!
+Now I am in the job market!
 <!-- See details on my [homepage](./../../index.html). -->
-Get in touch -- <a href="mailto:postdoc@pratikb.com">postdoc@pratikb.com</a> or <a href="mailto:work@pratikb.com">work@pratikb.com</a>
+Get in touch:
+<!-- <a href="mailto:postdoc@pratikb.com">postdoc@pratikb.com</a> or  -->
+<a href="mailto:work@pratikb.com">work@pratikb.com</a>.
 
 * **November 10**: I submitted my dissertation to the 5-member thesis committee a few weeks ago. The defense will very likely be held on 7 December.\
 <!-- Alongside the preparation for my defense, I am also in the job market looking for a post-doc or an industry position! Look out for my applications ;) -->
