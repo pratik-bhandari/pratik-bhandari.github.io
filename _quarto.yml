@@ -46,9 +46,9 @@ website:
        href: contents/literature/index.qmd
      - text: "Blog"
        href: contents/blog/index.qmd
-     - text: " "
-       icon: person-lines-fill
-       href: contents/contact.qmd
+     # - text: " "
+     #   icon: person-lines-fill
+     #   href: contents/contact.qmd
      # - text: "Scribbles"
      #   menu:
      #     - text: "Blog"
@@ -58,12 +58,12 @@ website:
    right:
      - text: "Projects"
        href: contents/projects/index.qmd
-     - text: "Codes"
-       href: contents/codes/index.qmd
+     # - text: "Codes"
+     #   href: contents/codes/index.qmd
      - text: "News"
        href: contents/news/index.qmd
-     - text: " "
-       icon: person-lines-fill
+     - text: "Contact"
+       # icon: person-lines-fill
        href: contents/contact.qmd
      # - icon: twitter
      #   href: https://twitter.com/prbhx

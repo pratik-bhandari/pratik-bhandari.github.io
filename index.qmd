@@ -1,10 +1,10 @@
 ---
-title: "Pratik Bhandari"
+title: " "
 about:
   template: marquee
-  image-width: 10em
-  image-shape: round
-  image: me33.jpg
+  #image: me33.png
+  ##image-width: 40em
+  #image-shape: round
   links:
     - icon: twitter
       text: twitter
@@ -20,12 +20,28 @@ about:
     #   href: https://github.com/pratik-bhandari
 ---
 
-Welcome to my site!\
+<div style="text-align: center; font-size: 5.99em;">Pratik Bhandari</div>
+<!-- # Pratik Bhandari -->
 
-Here I post my literary writings, share personal experiences, and talk science (see [Scribbles](./contents/literature/index.html) and [Blog](./contents/blog/index.html)).
-I am interesed in the science and philosophy of human and machine cognition: I did my Master's in cognitive neuroscience and PhD in psychology and language sciences.
+![pratik bhandari](me33.png){fig-align="center"}
 
-Check my recent posts:
+
+Hi, that's me!
+
+I like to read and sometimes write about human cognition among many other things.
+I did my Master’s in cognitive neuroscience and PhD in psychology and language science.
+<!-- See my [publications](http://sites.google.com/view/pratik-bhandari/publications) and [projects](./contents/projects/index.html). -->
+
+Check out [here](./contents/news/index.html) what I have been upto. Get in touch: [👥💬](./contents/contact.html)
+
+I am concerned about climate change and it's devastating effects on people's livelihood.
+You should be too!
+Besides the good little acts, how about we also advocate for drastic policy changes?
+It's urgent!
+
+On a lighter note, don't miss out on my literary writings, personal experiences, and scientific chitchats. Click on [scribbles](./contents/literature/index.html) and [blog](./contents/blog/index.html).
+
+Here are my recent posts:
 
 <!-- 1. [13/03/2023](./contents/blog/posts/2023-03-13_nepal-iq-myth/index.html): The danger and false promise of IQ -->
     
@@ -39,13 +55,13 @@ Check my recent posts:
 
 ---
 
-Below you can find my [academic qualifications](#education) and [selected publications](#publications)
-(full list [here](http://sites.google.com/view/pratik-bhandari/publications)).
-Click [here](./contents/projects/index.html) to see the research projects I have undertaken across various domains of cognitive science,
-including psychology and psycholinguistics.
+Below you can see my academic qualifications and selected publications.
+[Here](http://sites.google.com/view/pratik-bhandari/publications) is a full list of publications, presentations, and talks.
+And [here](./contents/projects/index.html) you can find the academic research projects I have undertaken.
 
 
-## Education and training {#education}
+<u><h1 style="text-align: left;">Education and training</h1></u>
+<!-- ## Education and training {#education} -->
 
 **Saarland University** **|** Germany\
 PhD -- *magna cum laude* **|** Nov 2018 - Dec 2022\
@@ -65,18 +81,19 @@ PI: [Prof. Ramesh Kumar Mishra](https://scholar.google.com/citations?user=aWaIy0
 Bachelor in Audiology & Speech-Language Pathology **|** Nov 2010 - April 2015
 
 
-## Publications {#publications}
+<u><h1 style="text-align: left;">Selected publications</h1></u>
+<!-- ## Selected publications {#publications} -->
 
-**Bhandari, P.**, Demberg, V., & Kray, J. (*under review*). Speaking fast and slow: How speech rate modulates contextual facilitation of degraded speech comprehension.
+<!-- **Bhandari, P.**, Demberg, V., & Kray, J. (*under review*). Speaking fast and slow: How speech rate modulates contextual facilitation of degraded speech comprehension. -->
 
-**Bhandari, P** (2022). Interaction of top-down and bottom-up processes in spoken language comprehension. *Doctoral dissertation*, Saarländische Universitäts-und Landesbibliothek.[[html](https://pratik-bhandari.github.io/contents/html-phd/index.html/)]
+**Bhandari, P** (2022). Interaction of top-down and bottom-up processes in spoken language comprehension. [Doctoral dissertation, Saarland University]. *Saarländische Universitäts-und Landesbibliothek*. doi:10.22028/D291-38594. [[html](https://pratik-bhandari.github.io/contents/html-phd/index.html/)]
 
-**Bhandari, P.**, Demberg, V., & Kray, J. (2022). Predictability effects in degraded speech comprehension are reduced as a function of attention. *Language and Cognition*, 1-18. [[html](https://doi.org/10.1017/langcog.2022.16)][[pdf](https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fdownload%2Ftdvhs%2F%3Fdirect%3D%26mode%3Drender)]
+**Bhandari, P.**, Demberg, V., & Kray, J. (2022). Predictability effects in degraded speech comprehension are reduced as a function of attention. *Language and Cognition, 14*(4), 534-551. [[html](https://doi.org/10.1017/langcog.2022.16)][[pdf](https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fdownload%2Ftdvhs%2F%3Fdirect%3D%26mode%3Drender)]
 
-**Bhandari, P.**, Demberg, V., & Kray, J. (2021). Semantic predictability facilitates comprehension of degraded speech in a graded manner. *Frontiers in Psychology*, 3769. [[html](https://doi.org/10.3389/fpsyg.2021.714485)] [[pdf](https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fdownload%2Fnuv36%2F%3Fdirect%3D%26mode%3Drender)]
+<!-- **Bhandari, P.**, Demberg, V., & Kray, J. (2021). Semantic predictability facilitates comprehension of degraded speech in a graded manner. *Frontiers in Psychology, 12*, 714485 [[html](https://doi.org/10.3389/fpsyg.2021.714485)] [[pdf](https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fdownload%2Fnuv36%2F%3Fdirect%3D%26mode%3Drender)] -->
 
 **Bhandari, P.**, Prasad, S., & Mishra, R.K. (2020). High proficient bilinguals bring in higher executive control when encountering diverse interlocutors. *Journal of Cultural Cognitive Science. 4*(2), 201-215. [[html](https://doi.org/10.1007/s41809-020-00060-7)] [[pdf](https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fdownload%2Ffm8da%2F%3Fdirect%3D%26mode%3Drender)]
 
-Mishra, R. K., Padmanabhuni, M., **Bhandari, P.**, Viswambharan, S., & Prasad, S. G. (2018) Language proficiency does not modulate executive control in older bilinguals. *Aging, Neuropsychology and Cognition. 26*(6), 920-951. [[html](https://doi.org/10.1080/13825585.2018.1562029)] [[pdf](https://www.tandfonline.com/doi/pdf/10.1080/13825585.2018.1562029)]
+<!-- Mishra, R. K., Padmanabhuni, M., **Bhandari, P.**, Viswambharan, S., & Prasad, S. G. (2018) Language proficiency does not modulate executive control in older bilinguals. *Aging, Neuropsychology and Cognition. 26*(6), 920-951. [[html](https://doi.org/10.1080/13825585.2018.1562029)] [[pdf](https://www.tandfonline.com/doi/pdf/10.1080/13825585.2018.1562029)] -->
 
 **Bhandari, P.**, & Khanal, P. (2016). Pride in autistic diversity: against treatment or for inclusion? *The Lancet, 388*(10059), 24477. [[html](https://doi.org/10.1016/S0140-6736(16)32176-6)]

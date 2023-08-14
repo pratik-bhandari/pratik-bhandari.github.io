@@ -8,12 +8,17 @@ subtitle: |
 
 ***
 
+<b><u>2023</u>:</b>
+
+* **August 13**: I participated in the "[Computational Tools in Climate Science](https://academy.climatematch.io/courses)" course organized by Climatematch Academy from July 17 to 28. The coursework was intense. It was a great opportunity to learn about climate science and computational modelling and meet wonderful people. We worked on a project analysing the relationship between vegetation and the change in precipitation across the Congo River Basin over the past 40+ years.
+
 * **February 21**: I gave a short talk on the topic "What does my post-defence hingsight of 20/20 say?
 If I were to advise myself..."
 to an audience of PhD students on the PhD day organized by the Collaborative Research Center, Saarland University on 09.02.2022.
-The slides are available [here](http://localhost:7388/contents/blog/posts/2023-01-21_phd-afterthought/2023-02-09_defence-hindsight.pdf).
+The slides are available [here](https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fdownload%2Frtvnx%2F%3Fdirect%3D%26mode%3Drender).
 The talk was based on [this](./../blog/posts/2023-01-21_phd-afterthought/index.html) blog post.
 
+<b><u>2022</u>:</b>
 
 * **December 19**: I successfully defended my [thesis](https://osf.io/rtsz3/) on December 7, and passed *magna cum laude*.
 Now I am in the job market!
