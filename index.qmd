@@ -45,13 +45,15 @@ Here are my recent posts:
 
 <!-- 1. [13/03/2023](./contents/blog/posts/2023-03-13_nepal-iq-myth/index.html): The danger and false promise of IQ -->
     
-1. [21/01/2023](./contents/blog/posts/2023-01-21_phd-afterthought/index.html): PhD defence: An afterthought
+1. [14/08/2023](./contents/blog/posts/2023-08-14_live-n-leave/index.html): Reflections on farewells and returns
     
-2. [08/08/2022](./contents/blog/posts/2022-08-08_speech-rate/index.html): Speaking fast and slow
+2. [21/01/2023](./contents/blog/posts/2023-01-21_phd-afterthought/index.html): PhD defence: An afterthought
     
-3. [25/07/2022](./contents/blog/posts/2022-07-25_attention-prediction/index.html): Attention is mostly what you need
+3. [08/08/2022](./contents/blog/posts/2022-08-08_speech-rate/index.html): Speaking fast and slow
     
-4. [26/10/2021](./contents/literature/posts/2021-10-26-operation-room/index.html): In the operating room
+4. [25/07/2022](./contents/blog/posts/2022-07-25_attention-prediction/index.html): Attention is mostly what you need
+    
+5. [26/10/2021](./contents/literature/posts/2021-10-26-operation-room/index.html): In the operating room
 
 ---
 

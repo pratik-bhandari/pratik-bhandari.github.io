@@ -1,0 +1,88 @@
+---
+title: "Reflections on farewells and returns"
+description: |
+  Time and space away from home
+author: Pratik Bhandari
+date: 2023-08-14
+categories:
+  - life
+  - movie
+  - "2023"
+draft: false
+image: fly-hills.png
+editor: 
+  markdown: 
+    wrap: sentence
+tbl-cap-location: top
+---
+
+------------------------------------------------------------------------
+
+<figure>
+
+<img src="fly-hills.png" alt="A person standing on a snowy mountain seems to be looking at a hot air balloon in the sky." style="width:86%"/>
+
+<figcaption>To leave or not to leave (Photo credit: Plagiarised by DALL·E 2)</figcaption>
+
+</figure>
+
+A poignant scene from Interstellar shows an unfolding of heartache between Murph and Cooper:
+
+> Murph: You have no idea when you're coming back. No idea at all!
+>
+> Murph throws the watch and turns her back.
+>
+> Cooper: Don't make leave like this, Murph. Please. I have to go now.
+>
+> Murph will not turn around. Cooper tries to rest his hand on the back of her head, but she shakes it off.
+
+This exchange between a departing father and his reluctant daughter strikes a chord reminding me of my own predicament.
+
+For almost fifteen years, I have been living far from home.
+There is no set timetable for a return visit to spend time with my family.
+No schedule is ever fixed.
+And whenever I am home, I depart without knowing when I’ll be back again.
+Just like Cooper, my returns are uncertain.
+And just like Murph, my family knows it very well.
+I can’t look in their tearful eyes when I leave. Else, I’d have said, “Don’t make me leave like this”.
+
+Maybe that’s why this scene got me in tears.
+
+When you are away from home, time runs differently.
+You become a ghost.
+New people don’t know you, old ones have a faint memory of your existence.
+You live in a new dimension.
+Friends become strangers, and strangers become friends.
+
+What happens when I return?
+Sometimes I feel like I never left.
+Everything appears fresh and unchanged.
+Yet, many a time, I feel I’ve returned after spending an eternity in a strange world.
+I witness what I did not witness, things I missed:
+funerals unattended, weddings uncelebrated.
+New kids in the neighbourhood.
+New houses erected with new families, new faces.
+I ask where the old ones are.
+People die, migrate, and move on – much like me.
+To some, I’m the newcomer; they are newcomers to me.
+I claim, without voicing, that the place belongs to me, my childhood and my memory.
+Being new means a never-ending cycle of introductions and re-introductions.
+Names and faces unpair when you don’t see or talk with someone for many years.
+This unpairing always gives a sense of being a stranger.
+I have not yet gotten used to being *new*, being a stranger in my own place.
+Attachment is cruel.
+
+Reality comes and bites you.
+Continents away, you witness your parents’ ageing and ailing health from a distance.
+As a parent, maybe they wished to see their child grow up.
+As a child, I don’t want my parents to grow old and fragile -- youthful yearning.
+Nature takes its course:
+Every time I go home, I see my parents getting older and older.
+I can’t do anything about it while they are declining.
+It is painful -- not being there with the people I love while perceiving a rapid advance of their time.
+Technology will only take you so far.
+
+There is a trade-off in living away from home.
+In a developed country, working a white-colour job, some aspects of life are ostensibly better than back at home.
+Your priorities determine what pain you are willing to tolerate.
+Time and again, one has to revisit and reevaluate the priorities… and take off… a fresh start.
