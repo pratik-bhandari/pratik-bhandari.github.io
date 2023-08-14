@@ -7,15 +7,16 @@ preview:
 
 website:
   title: "Pratik Bhandari"
-  image: "me.png"
-  favicon: "me.png"
+  image: "me.jpg"
+  favicon: "me.jpg"
   # google-analytics: "G-2V3SR7RJ3H" #"UA-165918285-1"
   open-graph: true
   twitter-card: true
-  site-url: https://pratik-bhandari.github.io
-  repo-url: https://github.com/pratik-bhandari/pratik-bhandari
-  repo-actions: issue
+  site-url: https://pratikb.com
+  repo-url: https://github.com/pratik-bhandari/pratik-bhandari.github.io
+  # repo-actions: issue
   page-navigation: true
+  description: "Pratik's view of the horizon from the mountaintop"
   # search:
   #   algolia:
   #     index-name: 
@@ -36,7 +37,7 @@ website:
   
   navbar:
    background: "#a6a6a6"
-   logo: me.png
+   logo: about.jpg
    title: false
    collapse-below: lg
    left:
@@ -65,6 +66,8 @@ website:
      - text: "Contact"
        # icon: person-lines-fill
        href: contents/contact.qmd
+     # - icon: rss
+     #   href: index.xml
      # - icon: twitter
      #   href: https://twitter.com/prbhx
      # - icon: person-circle

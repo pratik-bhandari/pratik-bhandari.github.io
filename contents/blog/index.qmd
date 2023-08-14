@@ -2,12 +2,16 @@
 title: Blog
 subtitle: Mixed bag of half-baked opinions
 listing:
-  sort: "date desc"
+  type: table
   contents: "posts"
-  sort-ui: true
+  fields: [date, title, reading-time]
+  sort: "date desc"
+  sort-ui: false
   filter-ui: false
-  categories: true
-  # feed: true
+  categories: false
+  feed:
+    type: partial
+  page-size: 10
 page-layout: full
 title-block-banner: "#d9d9d9"
 title-block-banner-color: black

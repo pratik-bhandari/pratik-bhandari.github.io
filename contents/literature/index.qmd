@@ -2,15 +2,18 @@
 title: Literature
 subtitle: Poetry, stories and such
 listing:
-  sort: "date desc"
+  type: table
   contents: "posts"
-  sort-ui: true
+  fields: [image, date, title]
+  sort: "date desc"
+  sort-ui: false
   filter-ui: false
-  categories: true
-  # feed: true
+  categories: false
+  feed: 
+    type: partial
+  page-size: 10
 page-layout: full
 title-block-banner: "#d9d9d9"
 title-block-banner-color: black
 search: false
 ---
-

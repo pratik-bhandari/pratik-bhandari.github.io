@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Pratik Bhandari</title>
+<link>https://pratikb.com/contents/blog/index.html</link>
+<atom:link href="https://pratikb.com/contents/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>Pratik&#39;s view of the horizon from the mountaintop</description>
+<image>
+<url>https://pratikb.com/me.jpg</url>
+<title>Pratik Bhandari</title>
+<link>https://pratikb.com/contents/blog/index.html</link>
+</image>
+<generator>quarto-1.3.450</generator>
+<lastBuildDate>Sun, 13 Aug 2023 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reflections on farewells and returns</title>
+  <dc:creator>Pratik Bhandari</dc:creator>
+  <link>https://pratikb.com/contents/blog/posts/2023-08-14_live-n-leave/index.html</link>
+  <description><![CDATA[ <img src="https://pratikb.com/contents/blog/posts/2023-08-14_live-n-leave/fly-hills.png" alt="A person standing on a snowy mountain seems to be looking at a hot air balloon in the sky." style="width:86%" class="figure-img"> ]]></description>
+  <category>life</category>
+  <category>movie</category>
+  <category>2023</category>
+  <guid>https://pratikb.com/contents/blog/posts/2023-08-14_live-n-leave/index.html</guid>
+  <pubDate>Sun, 13 Aug 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://pratikb.com/contents/blog/posts/2023-08-14_live-n-leave/fly-hills.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
+<item>
+  <title>PhD defence: An afterthought</title>
+  <dc:creator>Pratik Bhandari</dc:creator>
+  <link>https://pratikb.com/contents/blog/posts/2023-01-21_phd-afterthought/index.html</link>
+  <description><![CDATA[ <img src="https://pratikb.com/contents/blog/posts/2023-01-21_phd-afterthought/buddha-hat.png" alt="Silhouette of Buddha wearing a convocation hat." style="width:85%" class="figure-img"> ]]></description>
+  <category>PhD</category>
+  <category>life</category>
+  <category>research</category>
+  <category>2023</category>
+  <guid>https://pratikb.com/contents/blog/posts/2023-01-21_phd-afterthought/index.html</guid>
+  <pubDate>Fri, 20 Jan 2023 23:00:00 GMT</pubDate>
+  <media:content url="https://pratikb.com/contents/blog/posts/2023-01-21_phd-afterthought/buddha-hat.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
+<item>
+  <title>Speaking fast and slow</title>
+  <dc:creator>Pratik Bhandari</dc:creator>
+  <link>https://pratikb.com/contents/blog/posts/2022-08-08_speech-rate/index.html</link>
+  <description><![CDATA[ <img src="https://pratikb.com/contents/blog/posts/2022-08-08_speech-rate/speech-rate_Lerner2014.png" alt="Figure of waveform of audio samples of different speed." style="width:100%" class="figure-img"> ]]></description>
+  <category>predictive processing</category>
+  <category>speech perception</category>
+  <category>auditory processing</category>
+  <category>speech rate</category>
+  <category>2022</category>
+  <category>AMLaP</category>
+  <guid>https://pratikb.com/contents/blog/posts/2022-08-08_speech-rate/index.html</guid>
+  <pubDate>Sun, 07 Aug 2022 22:00:00 GMT</pubDate>
+  <media:content url="https://pratikb.com/contents/blog/posts/2022-08-08_speech-rate/speech-rate_Lerner2014.png" medium="image" type="image/png" height="90" width="144"/>
+</item>
+<item>
+  <title>Attention is mostly what you need</title>
+  <dc:creator>Pratik Bhandari</dc:creator>
+  <link>https://pratikb.com/contents/blog/posts/2022-07-25_attention-prediction/index.html</link>
+  <description><![CDATA[ A couple of days ago, our <a href="https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fdownload%2Ftdvhs%2F%3Fdirect%3D%26mode%3Drender">paper</a> on the role of attention in the facilitatory effect of predictability in the comprehension of degraded speech was published in <em><a href="https://doi.org/10.1017/langcog.2022.16">Language and Cognition</a></em>. ]]></description>
+  <category>predictive processing</category>
+  <category>speech perception</category>
+  <category>auditory processing</category>
+  <category>attention</category>
+  <category>2022</category>
+  <category>AMLaP</category>
+  <guid>https://pratikb.com/contents/blog/posts/2022-07-25_attention-prediction/index.html</guid>
+  <pubDate>Sun, 24 Jul 2022 22:00:00 GMT</pubDate>
+  <media:content url="https://pratikb.com/contents/blog/posts/2022-07-25_attention-prediction/attention.png" medium="image" type="image/png" height="77" width="144"/>
+</item>
+<item>
+  <title>Bookmarking conferences</title>
+  <dc:creator>Pratik Bhandari</dc:creator>
+  <link>https://pratikb.com/contents/blog/posts/2021-05-25-cogsci-programs/index.html</link>
+  <description><![CDATA[ Many of my colleagues who consider themselves ‘doing’ cognitive science don’t seem to be aware of the conferences that the other person in the group attends. Cog. Sci. is a broad field, and it is not possible to keep up with the conferences, journals, and publications across all domains. Nonetheless, it might be helpful to keep track of, and attend if possible, the conferences that cover the common areas of interest. Here I am curating a list of conferences, some of which I have attended and some I’d like to attend. ]]></description>
+  <category>conference</category>
+  <category>2021</category>
+  <guid>https://pratikb.com/contents/blog/posts/2021-05-25-cogsci-programs/index.html</guid>
+  <pubDate>Fri, 10 Dec 2021 23:00:00 GMT</pubDate>
+  <media:content url="https://pratikb.com/contents/blog/posts/2021-05-25-cogsci-programs/pratik-pickering_attlis.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Why not pick your brain</title>
+  <dc:creator>Pratik Bhandari</dc:creator>
+  <link>https://pratikb.com/contents/blog/posts/2021-09-06-misc-repo-of-things/index.html</link>
+  <description><![CDATA[ I am in the Fifth Summer School on Statistical Methods for Linguistics and Psychology (<a href="https://vasishth.github.io/smlp2021/">SMLP 2021</a>). While reading this <a href="https://vasishth.github.io/bayescogsci/book/">textbook</a> recommended by the summer school instructors, I realized I needed a refresher on a few mathematical notations, among many other things. Some of these are on set theory and logical conditionals. ]]></description>
+  <category>summer school</category>
+  <category>statistics</category>
+  <category>mathematics</category>
+  <category>2021</category>
+  <guid>https://pratikb.com/contents/blog/posts/2021-09-06-misc-repo-of-things/index.html</guid>
+  <pubDate>Sun, 05 Sep 2021 22:00:00 GMT</pubDate>
+  <media:content url="https://pratikb.com/contents/blog/posts/2021-09-06-misc-repo-of-things/hasse-powerset.png" medium="image" type="image/png" height="109" width="144"/>
+</item>
+<item>
+  <title>Relaxed restrictions in Saarbrücken</title>
+  <dc:creator>Pratik Bhandari</dc:creator>
+  <link>https://pratikb.com/contents/blog/posts/2021-05-22_relaxed-rules/index.html</link>
+  <description><![CDATA[ Starting this Saturday (May 22), restaurants, pubs, bars and cafés will return to business in Saarbrücken. Up to 10 people are allowed to gather outdoors. This number is set to 5 for any in-house gathering. <sup>1</sup> ]]></description>
+  <category>covid</category>
+  <category>germany</category>
+  <category>2021</category>
+  <guid>https://pratikb.com/contents/blog/posts/2021-05-22_relaxed-rules/index.html</guid>
+  <pubDate>Fri, 21 May 2021 22:00:00 GMT</pubDate>
+  <media:content url="https://pratikb.com/contents/blog/posts/2021-05-22_relaxed-rules/01-sankt-johann-markt.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Glimpsing through Meditation</title>
+  <dc:creator>Pratik Bhandari</dc:creator>
+  <link>https://pratikb.com/contents/blog/posts/2020-07-23-glimpsing-through-meditation/index.html</link>
+  <description><![CDATA[ <img src="https://pratikb.com/contents/blog/posts/2020-07-23-glimpsing-through-meditation/meditation-01.png" class="img-fluid figure-img"> ]]></description>
+  <category>meditation</category>
+  <category>germany</category>
+  <category>2020</category>
+  <guid>https://pratikb.com/contents/blog/posts/2020-07-23-glimpsing-through-meditation/index.html</guid>
+  <pubDate>Wed, 22 Jul 2020 22:00:00 GMT</pubDate>
+  <media:content url="https://pratikb.com/contents/blog/posts/2020-07-23-glimpsing-through-meditation/meditation-02.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>‘शहरको कथा’</title>
+  <dc:creator>Pratik Bhandari</dc:creator>
+  <link>https://pratikb.com/contents/blog/posts/2012-08-19-saharko-katha/index.html</link>
+  <description><![CDATA[ <img src="https://pratikb.com/contents/blog/posts/2012-08-19-saharko-katha/saharko-katha.jpeg" class="img-fluid figure-img"> ]]></description>
+  <category>book review</category>
+  <category>nepal</category>
+  <category>2012</category>
+  <guid>https://pratikb.com/contents/blog/posts/2012-08-19-saharko-katha/index.html</guid>
+  <pubDate>Sat, 18 Aug 2012 22:00:00 GMT</pubDate>
+  <media:content url="https://pratikb.com/contents/blog/posts/2012-08-19-saharko-katha/saharko-katha-preview.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>पाँचौँ लोकतन्त्र दिवस</title>
+  <dc:creator>Pratik Bhandari</dc:creator>
+  <link>https://pratikb.com/contents/blog/posts/2012-04-18-fifth-loktantra-diwas/index.html</link>
+  <description><![CDATA[ <img src="https://pratikb.com/contents/blog/posts/2012-04-18-fifth-loktantra-diwas/loktantra.jpg" class="img-fluid figure-img"> ]]></description>
+  <category>politics</category>
+  <category>nepal</category>
+  <category>2012</category>
+  <guid>https://pratikb.com/contents/blog/posts/2012-04-18-fifth-loktantra-diwas/index.html</guid>
+  <pubDate>Tue, 17 Apr 2012 22:00:00 GMT</pubDate>
+  <media:content url="https://pratikb.com/contents/blog/posts/2012-04-18-fifth-loktantra-diwas/loktantra.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
