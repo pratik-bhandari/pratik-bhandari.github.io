@@ -1,5 +1,5 @@
 ---
-title: "Pratik Bhandari"
+title: "Dr Pratik Bhandari"
 about:
   template: marquee
   image: me33.jpg
@@ -24,25 +24,20 @@ about:
 ---
 
 <!-- <div style="text-align: center; font-size: 5.99em;">Pratik Bhandari</div> -->
-<!-- # Pratik Bhandari -->
-
 <!-- ![](me33.jpg){width=80%} -->
-
-
 Hi, that's me, *Pratik*!
 
-I like to read and sometimes write about human cognition among many other things.
-I did my Master’s in cognitive neuroscience and PhD in psychology and language science.
+I am a son, brother, and uncle concerned about the devastating effects of climate change on people’s livelihoods.
+
+My academic research is about human cognition --- behaviour, brain, and language.
+<!-- I did my Master’s in cognitive neuroscience and PhD in psychology and language science. -->
 <!-- See my [publications](http://sites.google.com/view/pratik-bhandari/publications) and [projects](./contents/projects/index.html). -->
 
-Check out [here](./contents/news/index.html) what I have been upto. Get in touch: [👥💬](./contents/contact.html)
+Currently, I am a freelancer helping people make sense of data and take data-driven actions.
+If you want to hire me, get in touch: [👥💬](./contents/contact.html)
+<!-- Check out [here](./contents/news/index.html) what I have been upto. Get in touch: [👥💬](./contents/contact.html) -->
 
-I am concerned about climate change and it's devastating effects on people's livelihood.
-You should be too!
-Besides the good little acts, how about we also advocate for drastic policy changes?
-It's urgent!
-
-On a lighter note, don't miss out on my literary writings, personal experiences, and scientific chitchats. Click on [scribbles](./contents/literature/index.html) and [blog](./contents/blog/index.html).
+Since you are here, don't miss out on my literary writings, personal experiences, and scientific chitchats. Click on [scribbles](./contents/literature/index.html) and [blog](./contents/blog/index.html).
 
 Here are my recent posts:
 
