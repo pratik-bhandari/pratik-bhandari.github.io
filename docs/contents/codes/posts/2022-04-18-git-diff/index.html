@@ -216,19 +216,25 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <h4 class="anchored" data-anchor-id="example">Example:</h4>
 <p>Say we have a file <code>01_chapter.Rmd</code>. It is the first chapter of my thesis. I have just made some changes to it. Before <code>git add &lt;file&gt;</code>, I want to compare these changes with the latest version I have already committed. Then, this is what I do<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>:</p>
 <div class="cell">
+<details>
+<summary>Code</summary>
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>git diff HEAD 01_chapter.Rmd</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="co"># OR</span></span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>git diff master<span class="sc">:</span>01_chapter.Rmd 01_chapter.Rmd</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
 </div>
 <p>If <code>01_chapter.Rmd</code> is not in the working directory, then provide the path to it.</p>
 <p>Other different comparisons:</p>
 <div class="cell">
+<details>
+<summary>Code</summary>
 <div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>git diff HEAD<span class="sc">~</span><span class="dv">2</span> 01_chapter.Rmd</span>
 <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="co"># OR</span></span>
 <span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>git diff master<span class="sc">~</span><span class="dv">2</span><span class="sc">:</span>01_chapter.Rmd 01_chapter.Rmd</span>
 <span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="co">#--</span></span>
 <span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>git diff master<span class="sc">~</span><span class="dv">3</span><span class="sc">:</span>01_chapter.Rmd master<span class="sc">~</span><span class="dv">1</span><span class="sc">:</span>01_chapter.Rmd</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
 </div>
 <p>You got the idea.</p>
 <p>The global comparison of all files is just <code>git diff</code> which I do not prefer.<br>

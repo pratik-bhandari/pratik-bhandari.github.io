@@ -1,0 +1,9 @@
+format:
+  html:
+    code-fold: true
+# format:
+#   revealjs: 
+#     menu: false
+#     progress: false
+search: true
+freeze: true

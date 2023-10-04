@@ -219,6 +219,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>This post is to remind me of the most frequently used git commands.</p>
 <!-- When you click on 'New Project' on the top right drop down menu, R Studio give you three choices and one of them is to *Checkout a project from a version control repository*.-->
 <div class="cell">
+<details>
+<summary>Code</summary>
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Push local changes to the remote repo:</span></span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>git push <span class="sc">-</span>u origin master</span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a></span>
@@ -229,12 +231,16 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="co"># Delete a local branch:</span></span>
 <span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>git branch <span class="sc">-</span>D BranchToBeDeleted</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
 </div>
 <p>Be careful about deleting. The <code>-D</code> is a hard delete!</p>
 <p>Merge branches locally:</p>
 <div class="cell">
+<details>
+<summary>Code</summary>
 <div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>git checkout main <span class="co">#First switch to the main/master branch</span></span>
 <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>git merge BranchIwantToMerge <span class="co">#The branch still exists after merging</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
 </div>
 <p>This was a dirty note down ;)</p>
 <p>Other frequently used commands are <code>git pull</code>, <code>git merge</code>, <code>git rm -r --cached</code>, etc.</p>

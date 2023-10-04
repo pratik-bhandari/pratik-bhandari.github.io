@@ -27,7 +27,7 @@ tbl-cap-location: top
 
 </figure>
 
-I defended my PhD [thesis](https://pratik-bhandari.github.io/contents/html-phd/index.html/) last month on the 7th of December, 2022.
+I defended my PhD [thesis](https://pratik-bhandari.github.io/contents/html-phd/) last month on the 7th of December, 2022.
 The program was organised at 8 am to adjust for the time difference between Germany and New Zealand. I was defending from Germany, and two out of five of my committee members were attending online from New Zealand.
 There were 20-plus online attendees.
 And 50-plus people, including two committee members, attended the defence in person.
