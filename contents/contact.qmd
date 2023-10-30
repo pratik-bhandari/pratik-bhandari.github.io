@@ -10,24 +10,6 @@ title: "Get in touch"
 Any project in mind? Lets discuss how we can collaborate together. <i class="bi bi-rocket-takeoff"></i> \
 Or just come and say hello :) 
 
-<!--
-**Pratik Bhandari**\
-Campus A1.3, Room 2.11\
-Saarland University\
-D-66123 Saarbrücken, Germany\
-`work@pratikb.com`
-
-```{r}
-#| echo: false
-#| fig.height: 4.5
-library(leaflet)
-leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lat=49.25521263695085, lng=7.038814855669152, popup="My workplace")
-```
-
-------------------------------------------------------------------------
--->
 <strong> <i class="bi bi-envelope-at"></i> Email me at <a href="mailto:work@pratikb.com"><code>work@pratikb.com</code></a></strong>
 
 -   <a rel="me" href="https://www.linkedin.com/in/prbhx/"> <i class="bi bi-linkedin"></i>LinkedIn</a>

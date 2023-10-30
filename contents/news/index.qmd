@@ -10,6 +10,11 @@ subtitle: |
 
 <b><u>2023</u>:</b>
 
+* **October 20**: I am volunteering as a Curriculum Working Group Member for the Climatematch Academy's 2024 program. This is going to be a remarkable experience contributing to next year's study materials. What aspects should we focus on or correct based on the experience from 2023? Your feedback would be greatly appreciated.
+
+* **October 03**: Our [team](https://programs.climatematch.io/impact-scholars/scholars2023.html#impact-of-deforestation-and-multi-year-cyclical-processes-on-precipitation-patterns-and-cereal-production-in-congo-river-basin) of enthusiastic researchers, who initially met at the CMA 2023 course (see below), applied for the Climatematch Impact Scholars Program ([CISP](https://programs.climatematch.io/impact-scholars/intro.html)) and were granted scholarships. Over the next two months, we will be studying the "Impact of Deforestation and Multi-year Cyclical Processes on Precipitation Patterns and Cereal Production in Congo River Basin" Our goal is to produce at least one paper and a presentation.
+
+
 * **August 13**: I participated in the "[Computational Tools in Climate Science](https://academy.climatematch.io/courses)" course organized by Climatematch Academy from July 17 to 28. The coursework was intense. It was a great opportunity to learn about climate science and computational modelling and meet wonderful people. We worked on a project analysing the relationship between vegetation and the change in precipitation across the Congo River Basin over the past 40+ years.
 
 * **February 21**: I gave a short talk on the topic "What does my post-defence hingsight of 20/20 say?
