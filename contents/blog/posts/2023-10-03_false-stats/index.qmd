@@ -1,0 +1,18 @@
+---
+title: "False narratives through graphs"
+description: |
+  When graphs lie
+author: Pratik Bhandari
+date: 2023-10-04
+categories:
+  - statistics
+  - visualisation
+  - research
+  - "2023"
+draft: true
+image: buddha-hat.png
+editor: 
+  markdown: 
+    wrap: sentence
+tbl-cap-location: top
+---

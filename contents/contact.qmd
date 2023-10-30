@@ -7,6 +7,10 @@ title: "Get in touch"
 
 ------------------------------------------------------------------------
 
+Any project in mind? Lets discuss how we can collaborate together. <i class="bi bi-rocket-takeoff"></i> \
+Or just come and say hello :) 
+
+<!--
 **Pratik Bhandari**\
 Campus A1.3, Room 2.11\
 Saarland University\
@@ -23,23 +27,17 @@ leaflet() %>%
 ```
 
 ------------------------------------------------------------------------
+-->
+<strong> <i class="bi bi-envelope-at"></i> Email me at <a href="mailto:work@pratikb.com"><code>work@pratikb.com</code></a></strong>
 
-#### Other online presence:
+-   <a rel="me" href="https://www.linkedin.com/in/prbhx/"> <i class="bi bi-linkedin"></i>LinkedIn</a>
 
--   [researchgate](https://www.researchgate.net/profile/Pratik-Bhandari)
+-   <a rel="me" href="https://github.com/pratik-bhandari"><i class="bi bi-github"></i>Github</a>
 
--   [twitter(\@prbhx)](https://twitter.com/prbhx)
+-   <a rel="me" href="https://bsky.app/profile/pratikb.com"><i class="bi bi-square-fill"></i>Bluesky</a>
 
--   [github](https://github.com/pratik-bhandari)
+-   <a rel="me" href="https://neuromatch.social/@pratikb"><i class="bi bi-mastodon"></i>Mastodon</a>
 
--   [linkedin](https://www.linkedin.com/in/prbhx/)
-
--   [orcid](https://orcid.org/0000-0001-5486-3352)
-
--   [osf](https://osf.io/wc49z/)
-
--   [google site](https://sites.google.com/view/pratik-bhandari)
-
--   [google scholar](https://scholar.google.de/citations?user=Y0HnEQwAAAAJ&hl=en&oi=ao)
-
--   [mastodon(c.im/@pratikb)](https://c.im/@pratikb)
+-   <a rel="me" href="https://scholar.google.de/citations?user=Y0HnEQwAAAAJ&hl=en&oi=ao"> <i class="bi bi-mortarboard-fill"></i>Google Scholar</a>
+ 
+ 🌍 🌱🌲🌊 

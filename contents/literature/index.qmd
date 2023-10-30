@@ -9,8 +9,8 @@ listing:
   sort-ui: false
   filter-ui: false
   categories: false
-  feed: 
-    type: partial
+  feed: true
+    #type: partial
   page-size: 10
 page-layout: full
 title-block-banner: "#d9d9d9"

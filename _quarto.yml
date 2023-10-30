@@ -29,11 +29,14 @@ website:
       - text: '© Pratik Bhandari'
         href: index.qmd
     right:
-      - icon: person-circle
-        href: "https://scholar.google.com/citations?hl=de&user=Y0HnEQwAAAAJ&view_op=list_works&sortby=pubdate"
+      - icon: bi-linkedin
+        href: "https://www.linkedin.com/in/prbhx/"
+    #right:
+     # - icon: mortarboard-fill
+      #  href: "https://scholar.google.com/citations?hl=de&user=Y0HnEQwAAAAJ&view_op=list_works&sortby=pubdate"
     left:
-      - icon: twitter
-        href: "https://twitter.com/prbhx"
+      - icon: bi-mastodon
+        href: "https://neuromatch.social/@pratikb"
   
   navbar:
    background: "#a6a6a6"
@@ -66,8 +69,8 @@ website:
      - text: "Contact"
        # icon: person-lines-fill
        href: contents/contact.qmd
-     # - icon: rss
-     #   href: index.xml
+     - icon: rss
+       href: contents/blog/index.xml
      # - icon: twitter
      #   href: https://twitter.com/prbhx
      # - icon: person-circle
