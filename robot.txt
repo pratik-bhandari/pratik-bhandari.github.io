@@ -1,0 +1,20 @@
+Sitemap: https://pratikb.com/sitemap.xml
+
+User-agent: *
+Disallow: /_freeze/
+Disallow: /.nojekyll
+Disallow: /.quarto/
+Disallow: /.Rproj.user/
+Disallow: /.gitignore
+Disallow: /*.yml$
+Disallow: /*.png$
+Disallow: /*.scss$
+Disallow: /*.css$
+Disallow: /*.Rproj$
+Disallow: /*.Rhistory$
+Disallow: /*.RData$
+Disallow: /*.Ruserdata$
+Disallow: /*.DS_Store$
+Disallow: CNAME
+Disallow: /contents/
+Disallow: /*.qmd$

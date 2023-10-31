@@ -7,19 +7,19 @@ title: "Get in touch"
 
 ------------------------------------------------------------------------
 
-Any project in mind? Lets discuss how we can collaborate together. <i class="bi bi-rocket-takeoff"></i> \
+Any project in mind? Let's discuss how we can collaborate together. <i class="bi bi-rocket-takeoff"></i> \
 Or just come and say hello :) 
 
 <strong> <i class="bi bi-envelope-at"></i> Email me at <a href="mailto:work@pratikb.com"><code>work@pratikb.com</code></a></strong>
 
--   <a rel="me" href="https://www.linkedin.com/in/prbhx/"> <i class="bi bi-linkedin"></i>LinkedIn</a>
+-   <i class="bi bi-linkedin"></i><a rel="me" href="https://www.linkedin.com/in/prbhx/">LinkedIn</a>
 
--   <a rel="me" href="https://github.com/pratik-bhandari"><i class="bi bi-github"></i>Github</a>
+-   <i class="bi bi-github"></i><a rel="me" href="https://github.com/pratik-bhandari">Github</a>
 
 -   <a rel="me" href="https://bsky.app/profile/pratikb.com"><i class="bi bi-square-fill"></i>Bluesky</a>
 
--   <a rel="me" href="https://neuromatch.social/@pratikb"><i class="bi bi-mastodon"></i>Mastodon</a>
+-   <i class="bi bi-mastodon"></i><a rel="me" href="https://neuromatch.social/@pratikb">Mastodon</a>
 
--   <a rel="me" href="https://scholar.google.de/citations?user=Y0HnEQwAAAAJ&hl=en&oi=ao"> <i class="bi bi-mortarboard-fill"></i>Google Scholar</a>
+-   <i class="bi bi-mortarboard-fill"></i><a rel="me" href="https://scholar.google.de/citations?user=Y0HnEQwAAAAJ&hl=en&oi=ao">Google Scholar</a>
  
  🌍 🌱🌲🌊 

@@ -1,43 +1,41 @@
 ---
 title: "Dr Pratik Bhandari"
 about:
-  template: marquee
+  id: top-heading
+  template: solana
   image: me33.jpg
-  ##image-width: 40em
+  image-width: 10em
   image-shape: round
   links:
-    - icon: twitter
-      text: twitter
-      href: "https://twitter.com/prbhx"
-    - icon: person-circle
-      text: scholar
+    - icon: bi-mastodon
+      text: Mastodon
+      href: "https://neuromatch.social/@pratikb"
+    - icon: bi-mortarboard-fill
+      text: G Scholar
       href: "https://scholar.google.com/citations?hl=de&user=Y0HnEQwAAAAJ&view_op=list_works&sortby=pubdate"
-    - icon: book
-      text: publications
-      href: "https://sites.google.com/view/pratik-bhandari/publications"
-    # - icon: github
-    #   text: Github
-    #   href: https://github.com/pratik-bhandari
-# listing:
-#   feed: true
-#   contents: "./docs/contents/blog/index.xml"
+    - icon: bi-linkedin
+      text: LinkedIn
+      href: "https://www.linkedin.com/in/prbhx/"
+---
+:::{#top-heading}
+
+Hi, that's me *Pratik*! <i class="bi bi-arrow-right-circle-fill"></i>
+
+I’m a son, brother, and uncle deeply concerned about the devastating effects of climate change on people’s livelihoods.
+
+:::
+
+Wearing different hats as a researcher, research project manager and coordinator, and data analyst for more than 6 years, I have dedicated my work to gaining insights from data across a wide range of [projects](./contents/projects/index.html), from neurodiversity and bilingualism to speech processing and climate science. I was also invited by the Norwegian University of Science and Technology to prepare higher education policy recommendations for Nepal.
+
+I am skilled in research project management and a variety of research and data analysis methods, including quantitative and qualitative analysis, as well as computational modelling.
+
+I am currently seeking new opportunities and am open to relocating anywhere in Europe and South Asia. Let’s set up a call to chat about your organization’s needs and how I may be able to help! 
+<a href=./contents/contact.html><span class="bi bi-envelope-at-fill"></span></a>
+
+<!--I am skilled in a variety of data analysis methods, including quantitative and qualitative analysis as well as computational modeling. Currently, I am studying the complex interaction of different cyclical events (e.g., El Niño-Southern Oscillation) and deforestation and their effects on rainfall and cereal production in the Congo River Basin.-->
 ---
 
-<!-- <div style="text-align: center; font-size: 5.99em;">Pratik Bhandari</div> -->
-<!-- ![](me33.jpg){width=80%} -->
-Hi, that's me, *Pratik*!
-
-I am a son, brother, and uncle concerned about the devastating effects of climate change on people’s livelihoods.
-
-My academic research is about human cognition --- behaviour, brain, and language.
-<!-- I did my Master’s in cognitive neuroscience and PhD in psychology and language science. -->
-<!-- See my [publications](http://sites.google.com/view/pratik-bhandari/publications) and [projects](./contents/projects/index.html). -->
-
-Currently, I am a freelancer helping people make sense of data and take data-driven actions.
-If you want to hire me, get in touch: [👥💬](./contents/contact.html)
-<!-- Check out [here](./contents/news/index.html) what I have been upto. Get in touch: [👥💬](./contents/contact.html) -->
-
-Since you are here, don't miss out on my literary writings, personal experiences, and scientific chitchats. Click on [scribbles](./contents/literature/index.html) and [blog](./contents/blog/index.html).
+While you're here, explore my literary creations, personal experiences, and scientific musings at "[Scribbles](./contents/literature/index.html)" and "[Blog](./contents/blog/index.html)".
 
 Here are my recent posts:
 
@@ -55,47 +53,35 @@ Here are my recent posts:
 
 ---
 
-Below you'll see my academic qualifications and selected publications.
-[Here](http://sites.google.com/view/pratik-bhandari/publications) is a full list of publications, presentations, and talks.
-And [here](./contents/projects/index.html) you can find the academic research projects I have undertaken.
+<!--Below, you'll see my <a href="#education-section">academic qualifications</a>.
+A full list of academic publications, presentations, and talks is available [here](http://sites.google.com/view/pratik-bhandari/publications).
+And [here](./contents/projects/index.html), you can find the academic research projects I have undertaken.-->
 
----
-
-<u><h1 style="text-align: left; font-size: 22px;">Education and training</h1></u>
-<!-- ## Education and training {#education} -->
+<u><h1 id="education-section" style="text-align: left; font-size: 22px;">Education and training</h1></u>
 
 **Saarland University** **|** Germany\
 PhD -- *magna cum laude* **|** Nov 2018 - Dec 2022\
-"*Interaction of top-down and bottom-up processes in spoken language comprehension*"\
-Advisors: [Prof. Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html), [Prof. Jutta Kray](https://www.uni-saarland.de/lehrstuhl/kray/team/jk.html)
 
 **Basque Center on Cognition, Brain and Language** **|** Spain\
 Master in Cognitive Neuroscience of Language **|** Sep 2017 - Sep 2018\
-"*Predictability modulates type-1 and type-2 language processing: Spanish-Basque bilingual context*"\
-Advisor: [Prof. David Soto](https://www.bcbl.eu/en/conocenos/equipo/david-soto)
 
 **Center for Neural and Cognitive Sciences**, University of Hyderabad **|** India\
 Research Intern **|** Dec 2015 - May 2017\
-PI: [Prof. Ramesh Kumar Mishra](https://scholar.google.com/citations?user=aWaIy0sAAAAJ&hl=en&oi=ao)
 
 **Institute of Medicine**, Tribhuvan University **|** Nepal\
 Bachelor in Audiology & Speech-Language Pathology **|** Nov 2010 - April 2015
 
 ---
-
+<!-- 
 <u><h1 style="text-align: left; font-size: 22px;">Selected publications</h1></u>
-<!-- ## Selected publications {#publications} -->
-
-<!-- **Bhandari, P.**, Demberg, V., & Kray, J. (*under review*). Speaking fast and slow: How speech rate modulates contextual facilitation of degraded speech comprehension. -->
 
 **Bhandari, P** (2022). Interaction of top-down and bottom-up processes in spoken language comprehension. [Doctoral dissertation, Saarland University]. *Saarländische Universitäts-und Landesbibliothek*. doi:10.22028/D291-38594. [[html](https://pratik-bhandari.github.io/contents/html-phd/index.html/)]
 
 **Bhandari, P.**, Demberg, V., & Kray, J. (2022). Predictability effects in degraded speech comprehension are reduced as a function of attention. *Language and Cognition, 14*(4), 534-551. [[html](https://doi.org/10.1017/langcog.2022.16)][[pdf](https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fdownload%2Ftdvhs%2F%3Fdirect%3D%26mode%3Drender)]
 
-<!-- **Bhandari, P.**, Demberg, V., & Kray, J. (2021). Semantic predictability facilitates comprehension of degraded speech in a graded manner. *Frontiers in Psychology, 12*, 714485 [[html](https://doi.org/10.3389/fpsyg.2021.714485)] [[pdf](https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fdownload%2Fnuv36%2F%3Fdirect%3D%26mode%3Drender)] -->
-
 **Bhandari, P.**, Prasad, S., & Mishra, R.K. (2020). High proficient bilinguals bring in higher executive control when encountering diverse interlocutors. *Journal of Cultural Cognitive Science. 4*(2), 201-215. [[html](https://doi.org/10.1007/s41809-020-00060-7)] [[pdf](https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2Fdownload%2Ffm8da%2F%3Fdirect%3D%26mode%3Drender)]
 
-<!-- Mishra, R. K., Padmanabhuni, M., **Bhandari, P.**, Viswambharan, S., & Prasad, S. G. (2018) Language proficiency does not modulate executive control in older bilinguals. *Aging, Neuropsychology and Cognition. 26*(6), 920-951. [[html](https://doi.org/10.1080/13825585.2018.1562029)] [[pdf](https://www.tandfonline.com/doi/pdf/10.1080/13825585.2018.1562029)] -->
-
 **Bhandari, P.**, & Khanal, P. (2016). Pride in autistic diversity: against treatment or for inclusion? *The Lancet, 388*(10059), 24477. [[html](https://doi.org/10.1016/S0140-6736(16)32176-6)]
+-->
+
+<!-- <p style="font-size: 20px;">Please find all publications and presentations <a href="https://sites.google.com/view/pratik-bhandari/publications">here</a></p> -->
