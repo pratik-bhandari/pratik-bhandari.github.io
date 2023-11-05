@@ -19,9 +19,9 @@ about:
 ---
 :::{#top-heading}
 
-Hi, that's me *Pratik*! <i class="bi bi-arrow-right-circle-fill"></i>
+🙏 Welcome! <!-- <i class="bi bi-arrow-right-circle-fill"></i> -->
 
-I’m a son, brother, and uncle deeply concerned about the devastating effects of climate change on people’s livelihoods.
+I am a son, brother, and uncle deeply concerned about the devastating effects of climate change on people’s livelihoods.
 
 :::
 
@@ -60,7 +60,7 @@ And [here](./contents/projects/index.html), you can find the academic research p
 <u><h1 id="education-section" style="text-align: left; font-size: 22px;">Education and training</h1></u>
 
 **Saarland University** **|** Germany\
-PhD -- *magna cum laude* **|** Nov 2018 - Dec 2022\
+PhD -- *magna cum laude* **|** Nov 2018 - Jan 2023\
 
 **Basque Center on Cognition, Brain and Language** **|** Spain\
 Master in Cognitive Neuroscience of Language **|** Sep 2017 - Sep 2018\

@@ -7,7 +7,7 @@ subtitle: ""
 
 ***
 
-These are some of the works I have undertaken in the past few years.
+These are some works I have undertaken in the past few years.
 
 ### Language Comprehension in a Noisy Channel
 
@@ -18,7 +18,7 @@ Prof. [Jutta Kray](https://scholar.google.de/citations?user=dEF9T0cAAAAJ&hl=en&o
 Prof. [Dietrich Klakow](https://scholar.google.de/citations?hl=en&user=_HtGYmoAAAAJ) as the PIs of the project,
 I investigated behavioural and neural correlates of the interaction between top-down predictive language processing and bottom-up auditory perceptual processing
 and how 'noise in the signal' interacts with these functions.
-This project also contributed to my doctoral research (Nov 2018-Dec 2022).
+This project also contributed to my doctoral research (Nov 2018-Jan 2023).
 
 ### COVIDiSTRESS global survey
 
@@ -67,3 +67,5 @@ We argue that “no cure” could hinder care to those in need, especially in co
 ***
 <!-- The goal of the project is to 'examine how noise (or the effect of reduced hearing ability) will influence l
 anguage comprehension, and how natural language generation systems can adapt their output to minimize the risk of misunderstanding'. -->
+
+[Here](https://mfr.de-1.osf.io/render?url=https://osf.io/download/68j3m/?direct%26mode=render) you can find a list of all my publications, talks, and presentations relevant to these projects.
