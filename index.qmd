@@ -7,21 +7,21 @@ about:
   image-width: 10em
   image-shape: round
   links:
-    - icon: bi-mastodon
-      text: Mastodon
-      href: "https://neuromatch.social/@pratikb"
-    - icon: bi-mortarboard-fill
-      text: G Scholar
-      href: "https://scholar.google.com/citations?hl=de&user=Y0HnEQwAAAAJ&view_op=list_works&sortby=pubdate"
+    # - icon: bi-mastodon
+    #   text: Mastodon
+    #   href: "https://neuromatch.social/@pratikb"
     - icon: bi-linkedin
       text: LinkedIn
       href: "https://www.linkedin.com/in/prbhx/"
+    - icon: bi-mortarboard-fill
+      text: G Scholar
+      href: "https://scholar.google.com/citations?hl=de&user=Y0HnEQwAAAAJ&view_op=list_works&sortby=pubdate"
 ---
 :::{#top-heading}
 
 🙏 Welcome! <!-- <i class="bi bi-arrow-right-circle-fill"></i> -->
 
-I am a son, brother, and uncle deeply concerned about the devastating effects of climate change on people’s livelihoods.
+I am a son, brother, and uncle deeply [concerned](https://programs.climatematch.io/impact-scholars/scholars2023.html#impact-of-deforestation-and-multi-year-cyclical-processes-on-precipitation-patterns-and-cereal-production-in-congo-river-basin) about the devastating effects of climate change on the planet and people’s livelihoods.
 
 :::
 
@@ -85,3 +85,5 @@ Bachelor in Audiology & Speech-Language Pathology **|** Nov 2010 - April 2015
 -->
 
 <!-- <p style="font-size: 20px;">Please find all publications and presentations <a href="https://sites.google.com/view/pratik-bhandari/publications">here</a></p> -->
+
+<a rel="me" href="https://neuromatch.social/@pratikb"></a>
