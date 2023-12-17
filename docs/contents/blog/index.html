@@ -73,7 +73,8 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-date','listing-title','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
+      page: 10,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
@@ -227,7 +228,18 @@ Reading Time
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-categories="life,movie,2023" data-listing-date-sort="1691964000000" data-listing-file-modified-sort="1692041068071" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Reflections on farewells and returns" data-listing-filename-sort="index.qmd">
+<tr data-index="0" data-categories="science,philosophy,movie,tv,2023" data-listing-date-sort="1702681200000" data-listing-file-modified-sort="1702780045180" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Identity enigma (Part 1)" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Dec 16, 2023</span>
+</td>
+<td>
+<a href="../../contents/blog/posts/2023-12-16_movie-primer/index.html" class="title listing-title">Identity enigma (Part 1)</a>
+</td>
+<td>
+<span class="listing-reading-time">3 min</span>
+</td>
+</tr>
+<tr data-index="1" data-categories="life,movie,2023" data-listing-date-sort="1691964000000" data-listing-file-modified-sort="1692041068071" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Reflections on farewells and returns" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Aug 14, 2023</span>
 </td>
@@ -238,7 +250,7 @@ Reading Time
 <span class="listing-reading-time">3 min</span>
 </td>
 </tr>
-<tr data-index="1" data-categories="PhD,life,research,2023" data-listing-date-sort="1674255600000" data-listing-file-modified-sort="1696461571052" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-title-sort="PhD defence: An afterthought" data-listing-filename-sort="index.qmd">
+<tr data-index="2" data-categories="PhD,life,research,2023" data-listing-date-sort="1674255600000" data-listing-file-modified-sort="1696461571052" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-title-sort="PhD defence: An afterthought" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Jan 21, 2023</span>
 </td>
@@ -249,7 +261,7 @@ Reading Time
 <span class="listing-reading-time">11 min</span>
 </td>
 </tr>
-<tr data-index="2" data-categories="predictive processing,speech perception,auditory processing,speech rate,2022,AMLaP" data-listing-date-sort="1659909600000" data-listing-file-modified-sort="1662416497543" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-title-sort="Speaking fast and slow" data-listing-filename-sort="index.qmd">
+<tr data-index="3" data-categories="predictive processing,speech perception,auditory processing,speech rate,2022,AMLaP" data-listing-date-sort="1659909600000" data-listing-file-modified-sort="1662416497543" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-title-sort="Speaking fast and slow" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Aug 8, 2022</span>
 </td>
@@ -260,7 +272,7 @@ Reading Time
 <span class="listing-reading-time">6 min</span>
 </td>
 </tr>
-<tr data-index="3" data-categories="predictive processing,speech perception,auditory processing,attention,2022,AMLaP" data-listing-date-sort="1658700000000" data-listing-file-modified-sort="1662464006365" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Attention is mostly what you need" data-listing-filename-sort="index.qmd">
+<tr data-index="4" data-categories="predictive processing,speech perception,auditory processing,attention,2022,AMLaP" data-listing-date-sort="1658700000000" data-listing-file-modified-sort="1662464006365" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Attention is mostly what you need" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Jul 25, 2022</span>
 </td>
@@ -271,7 +283,7 @@ Reading Time
 <span class="listing-reading-time">2 min</span>
 </td>
 </tr>
-<tr data-index="4" data-categories="conference,2021" data-listing-date-sort="1639177200000" data-listing-file-modified-sort="1662464979950" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="16" data-listing-title-sort="Bookmarking conferences" data-listing-filename-sort="index.qmd">
+<tr data-index="5" data-categories="conference,2021" data-listing-date-sort="1639177200000" data-listing-file-modified-sort="1662464979950" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="16" data-listing-title-sort="Bookmarking conferences" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Dec 11, 2021</span>
 </td>
@@ -282,7 +294,7 @@ Reading Time
 <span class="listing-reading-time">16 min</span>
 </td>
 </tr>
-<tr data-index="5" data-categories="summer school,statistics,mathematics,2021" data-listing-date-sort="1630879200000" data-listing-file-modified-sort="1662465789707" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Why not pick your brain" data-listing-filename-sort="index.qmd">
+<tr data-index="6" data-categories="summer school,statistics,mathematics,2021" data-listing-date-sort="1630879200000" data-listing-file-modified-sort="1662465789707" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Why not pick your brain" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Sep 6, 2021</span>
 </td>
@@ -293,7 +305,7 @@ Reading Time
 <span class="listing-reading-time">1 min</span>
 </td>
 </tr>
-<tr data-index="6" data-categories="covid,germany,2021" data-listing-date-sort="1621634400000" data-listing-file-modified-sort="1662466115190" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Relaxed restrictions in Saarbrücken" data-listing-filename-sort="index.qmd">
+<tr data-index="7" data-categories="covid,germany,2021" data-listing-date-sort="1621634400000" data-listing-file-modified-sort="1662466115190" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Relaxed restrictions in Saarbrücken" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">May 22, 2021</span>
 </td>
@@ -304,7 +316,7 @@ Reading Time
 <span class="listing-reading-time">1 min</span>
 </td>
 </tr>
-<tr data-index="7" data-categories="meditation,germany,2020" data-listing-date-sort="1595455200000" data-listing-file-modified-sort="1662466540854" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Glimpsing through Meditation" data-listing-filename-sort="index.qmd">
+<tr data-index="8" data-categories="meditation,germany,2020" data-listing-date-sort="1595455200000" data-listing-file-modified-sort="1662466540854" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Glimpsing through Meditation" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Jul 23, 2020</span>
 </td>
@@ -315,7 +327,7 @@ Reading Time
 <span class="listing-reading-time">3 min</span>
 </td>
 </tr>
-<tr data-index="8" data-categories="book review,nepal,2012" data-listing-date-sort="1345327200000" data-listing-file-modified-sort="1662416004654" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="'शहरको कथा'" data-listing-filename-sort="index.qmd">
+<tr data-index="9" data-categories="book review,nepal,2012" data-listing-date-sort="1345327200000" data-listing-file-modified-sort="1662416004654" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="'शहरको कथा'" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Aug 19, 2012</span>
 </td>
@@ -326,7 +338,7 @@ Reading Time
 <span class="listing-reading-time">1 min</span>
 </td>
 </tr>
-<tr data-index="9" data-categories="politics,nepal,2012" data-listing-date-sort="1334700000000" data-listing-file-modified-sort="1662415991374" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="पाँचौँ लोकतन्त्र दिवस" data-listing-filename-sort="index.qmd">
+<tr data-index="10" data-categories="politics,nepal,2012" data-listing-date-sort="1334700000000" data-listing-file-modified-sort="1662415991374" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="पाँचौँ लोकतन्त्र दिवस" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Apr 18, 2012</span>
 </td>
@@ -343,6 +355,9 @@ Reading Time
 <div class="listing-no-matching d-none">
 No matching items
 </div>
+<nav id="listing-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
