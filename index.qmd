@@ -1,5 +1,6 @@
 ---
 title: "Dr Pratik Bhandari"
+subtitle: "Cognitive Scientist & Audiologist/Speech-Language Pathologist"
 about:
   id: top-heading
   template: marquee
@@ -19,62 +20,30 @@ about:
 ---
 
 :::{#intro}
-
+<i><b>Helping people understand and be understood</b></i>
+\
+\
 🙏 Welcome! <!-- <i class="bi bi-arrow-right-circle-fill"></i> -->
 
-I am Pratik --- a seasoned generalist with expertise and a diverse skill set spanning cognitive science and climate science.
+I'm a Jhapa (🇳🇵)-based clinician and researcher passionate about human language processing and its disorders.
 
+As a clinician, I help individuals with speech and language difficulties understand and communicate effectively.
+As a scientist, I explore evidence-based practices to understand how we comprehend spoken language,
+even in challenging situations.
+Beyond language, my research interests extend to anthropogenic climate change.
+
+Throughout my career, I’ve thrived as a researcher, data analyst, program manager, writer, editor, curriculum developer, and clinician.
+My diverse [projects](./contents/projects/index.html) range from multilingualism, language processing, and neurodiversity in autism to the effects of COVID-19 on mental health and computational climate modelling.
 :::
 
-<!--Throughout my career, I have worn different hats: academic researcher, *project manager* and coordinator, *data analyst*, *curriculum developer*, and *writer and editor*. 
-I have worked across a wide range of [projects](./contents/projects/index.html), like neurodiversity and neural processes in language processing to the effects of covid-19 and computational climate change.
-With high regards in institutes like, Norwegian University of Science and Technology, I have been invited as a rapportoer to provide policy report and recommendations to improve cogniitve science education in Nepal.
-My collaboration spans across **all habitable continents**!-->
+You can e-mail me <a href="mailto:work@pratikb.com"><span class="bi bi-envelope-at-fill"></span></a>, or find me in [other places](./contents/contact.html).
 
-In my dynamic journey, I have excelled in roles such as academic researcher, project manager, coordinator, data analyst, curriculum developer, writer, and editor.
-My work encompasses diverse [projects](./contents/projects/index.html), from multilingualism and language processing to the effects of COVID-19 and computational climate change.
-As a rapporteur for institutions like the Norwegian University of Science and Technology,
-I have provided policy reports to improve cognitive science education in Nepal.
-I have established successful collaborations worldwide!
 
-*I believe managing a project is about more than just reaching milestones.
-It is about having a strategic vision right from the outset.
-I have worked in seemingly different sectors, including those that don’t have a functioning project (e.g., many hospitals in Nepal).
-And there are projects in India, Spain, and India that I have collboratively steered to success.
-With this multifaceted expertise, unique professional and personal perspectives, global collaborations, and proven track record,
-I can provide services tailored to your unique needs, no matter the company size.*
-
-Ready to witness how I solve your problems so that you can focus on what you do best?
+<!-- ***
 <a href="mailto:work@pratikb.com" style="text-decoration: none; font-family: monospace;">work@pratikb.com</a>
-
-***
-
-→ If you have any (scientific) writing or editing problems, contact me immediately!
-<a href="mailto:work@pratikb.com"><span class="bi bi-envelope-at-fill"></span></a>
-
 Further contact details are [here](./contents/contact.html).
-
+*** -->
 ***
-
-While you're here, explore my literary creations, personal experiences, and scientific musings at "[Scribbles](./contents/literature/index.html)" and "[Blog](./contents/blog/index.html)".
-
-Here are my recent posts:
-
-<!-- 1. [13/03/2023](./contents/blog/posts/2023-03-13_nepal-iq-myth/index.html): The danger and false promise of IQ -->
-    
-1. [16/12/2023](./contents/blog/posts/2023-12-16_movie-primer/index.html): 	Identity enigma (Part 1)
-        
-1. [14/08/2023](./contents/blog/posts/2023-08-14_live-n-leave/index.html): Reflections on farewells and returns
-    
-2. [21/01/2023](./contents/blog/posts/2023-01-21_phd-afterthought/index.html): PhD defence: An afterthought
-    
-3. [08/08/2022](./contents/blog/posts/2022-08-08_speech-rate/index.html): Speaking fast and slow
-    
-4. [25/07/2022](./contents/blog/posts/2022-07-25_attention-prediction/index.html): Attention is mostly what you need
-    
-5. [26/10/2021](./contents/literature/posts/2021-10-26-operation-room/index.html): In the operating room
-
----
 
 <!--Below, you'll see my <a href="#education-section">academic qualifications</a>.
 A full list of academic publications, presentations, and talks is available [here](http://sites.google.com/view/pratik-bhandari/publications).
@@ -94,7 +63,6 @@ Research Intern **|** Dec 2015 - May 2017\
 **Institute of Medicine**, Tribhuvan University **|** Nepal\
 Bachelor in Audiology & Speech-Language Pathology **|** Nov 2010 - April 2015
 
----
 <!-- 
 <u><h1 style="text-align: left; font-size: 22px;">Selected publications</h1></u>
 
@@ -109,4 +77,24 @@ Bachelor in Audiology & Speech-Language Pathology **|** Nov 2010 - April 2015
 
 <!-- <p style="font-size: 20px;">Please find all publications and presentations <a href="https://sites.google.com/view/pratik-bhandari/publications">here</a></p> -->
 
+***
+While you're here, explore my literary creations, personal experiences, and scientific musings at "[Scribbles](./contents/literature/index.html)" and "[Blog](./contents/blog/index.html)".
+
+Here are my recent posts:
+
+<!-- 1. [13/03/2023](./contents/blog/posts/2023-03-13_nepal-iq-myth/index.html): The danger and false promise of IQ -->
+    
+1. [16/12/2023](./contents/blog/posts/2023-12-16_movie-primer/index.html): 	Identity enigma (Part 1)
+        
+1. [14/08/2023](./contents/blog/posts/2023-08-14_live-n-leave/index.html): Reflections on farewells and returns
+    
+2. [21/01/2023](./contents/blog/posts/2023-01-21_phd-afterthought/index.html): PhD defence: An afterthought
+    
+3. [08/08/2022](./contents/blog/posts/2022-08-08_speech-rate/index.html): Speaking fast and slow
+    
+4. [25/07/2022](./contents/blog/posts/2022-07-25_attention-prediction/index.html): Attention is mostly what you need
+    
+5. [26/10/2021](./contents/literature/posts/2021-10-26-operation-room/index.html): In the operating room
+
+***
 <a rel="me" href="https://neuromatch.social/@pratikb"></a>
