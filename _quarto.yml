@@ -29,15 +29,16 @@ website:
       - text: '© Pratik Bhandari'
         href: index.qmd
     right:
-      - icon: bi-linkedin
-        href: "https://www.linkedin.com/in/prbhx/"
+      - icon: bi-facebook
+        href: "https://www.facebook.com/profile.php?id=61557125292306"
     #right:
      # - icon: mortarboard-fill
       #  href: "https://scholar.google.com/citations?hl=de&user=Y0HnEQwAAAAJ&view_op=list_works&sortby=pubdate"
     left:
-      - icon: bi-mastodon
-        href: "https://neuromatch.social/@pratikb"
-  
+      # - icon: bi-mastodon
+      #   href: "https://neuromatch.social/@pratikb"
+      - icon: bi-twitter
+        href: "https://twitter.com/prbhx"
   navbar:
    background: "#a6a6a6"
    logo: about.jpg
