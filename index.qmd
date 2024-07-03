@@ -1,6 +1,6 @@
 ---
 title: "Dr Pratik Bhandari"
-subtitle: "Cognitive Scientist & Audiologist/Speech-Language Pathologist"
+subtitle: " "
 about:
   id: top-heading
   template: marquee
@@ -11,30 +11,26 @@ about:
     # - icon: bi-mastodon
     #   text: Mastodon
     #   href: "https://neuromatch.social/@pratikb"
-    - icon: bi-linkedin
-      text: LinkedIn
-      href: "https://www.linkedin.com/in/prbhx/"
+    # - icon: bi-linkedin
+      # text: LinkedIn
+      # href: "https://www.linkedin.com/in/prbhx/"
     - icon: bi-mortarboard-fill
       text: G Scholar
       href: "https://scholar.google.com/citations?hl=de&user=Y0HnEQwAAAAJ&view_op=list_works&sortby=pubdate"
 ---
 
-:::{#intro}
-<i><b>Helping people understand and be understood</b></i>
+<!-- :::{#intro} -->
+<!-- <i><b>Helping people understand and be understood</b></i> -->
 \
 \
 🙏 Welcome! <!-- <i class="bi bi-arrow-right-circle-fill"></i> -->
 
-I'm a Jhapa (🇳🇵)-based clinician and researcher passionate about human language processing and its disorders.
+I'm an academician passionate about human cognition --- behaviour, brain, and language.
+Throughout my career, I have investigated topics like bilingual language processing, language comprehension a noisy channel, executive control and neurodiversity among others.
 
-As a clinician, I help individuals with speech and language difficulties understand and communicate effectively.
-As a scientist, I explore evidence-based practices to understand how we comprehend spoken language,
-even in challenging situations.
-Beyond language, my research interests extend to anthropogenic climate change.
-
-Throughout my career, I’ve thrived as a researcher, data analyst, program manager, writer, editor, curriculum developer, and clinician.
-My diverse [projects](./contents/projects/index.html) range from multilingualism, language processing, and neurodiversity in autism to the effects of COVID-19 on mental health and computational climate modelling.
-:::
+[Here](./contents/projects/index.html) you can see a non-exhaustive list of my research programs.
+<!-- Beyond language and cognition, my research interests extend to anthropogenic climate change and climate modelling. -->
+<!-- ::: -->
 
 You can e-mail me <a href="mailto:work@pratikb.com"><span class="bi bi-envelope-at-fill"></span></a>, or find me in [other places](./contents/contact.html).
 

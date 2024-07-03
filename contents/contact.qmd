@@ -11,9 +11,9 @@ How can I help you?
 Let's discuss our potential collaboration. <i class="bi bi-rocket-takeoff"></i> \
 Or just come and say hello :) 
 
-<strong> <i class="bi bi-envelope-at"></i> Email me at <a href="mailto:work@pratikb.com"><code>work@pratikb.com</code></a></strong>
+<strong> <i class="bi bi-envelope-at"></i> Email me at <a href="mailto:work@pratikb.com"><code>work@pratikb.com</code></a></strong>. Or find here:
 
--   <i class="bi bi-linkedin"></i><a rel="me" href="https://www.linkedin.com/in/prbhx/">LinkedIn</a>
+<!-- -   <i class="bi bi-linkedin"></i><a rel="me" href="https://www.linkedin.com/in/prbhx/">LinkedIn</a> -->
 
 -   <i class="bi bi-github"></i><a rel="me" href="https://github.com/pratik-bhandari">Github</a>
 
@@ -22,7 +22,7 @@ Or just come and say hello :)
 <!-- -   <a href="https://twitter.com/prbhx"><i class="bi bi-twitter"></i>Twitter</a> -->
 -   <i class="bi bi-twitter"></i><a href="https://twitter.com/prbhx">Twitter</a>
 
--   <i class="bi bi-facebook"></i><a rel="me" href="https://www.facebook.com/profile.php?id=61557125292306">Facebook</a>
+<!-- -   <i class="bi bi-facebook"></i><a rel="me" href="https://www.facebook.com/profile.php?id=61557125292306">Facebook</a> -->
 
 -   <i class="bi bi-mastodon"></i><a href="https://neuromatch.social/@pratikb">Mastodon</a>
 
