@@ -21,29 +21,23 @@ about:
 
 <!-- :::{#intro} -->
 <!-- <i><b>Helping people understand and be understood</b></i> -->
-\
-\
+
 🙏 Welcome! <!-- <i class="bi bi-arrow-right-circle-fill"></i> -->
 
-I'm an academician passionate about human cognition --- behaviour, brain, and language.
-Throughout my career, I have investigated topics like bilingual language processing, language comprehension a noisy channel, executive control and neurodiversity among others.
+I'm an academician passionate about understanding human cognition --- behaviour, brain, and language ---
+focusing on topics such as bilingual language processing, spoken language comprehension, executive control, and neurodiversity.
 
-[Here](./contents/projects/index.html) you can see a non-exhaustive list of my research programs.
-<!-- Beyond language and cognition, my research interests extend to anthropogenic climate change and climate modelling. -->
+<!-- [Here](./contents/projects/index.html) is a non-exhaustive list of my research programs,
+and [here](https://scholar.google.com/citations?user=Y0HnEQwAAAAJ&hl=en&oi=ao) you can find my publications. -->
+Below, you'll see my <a href="#education-section">academic qualifications</a>.
+A full list of academic publications, presentations, and talks is available [here](https://mfr.de-1.osf.io/render?url=https://osf.io/download/68j3m/?direct%26mode=render).
+And [here](./contents/projects/index.html), you can find the academic research projects I have undertaken.
+
 <!-- ::: -->
 
 You can e-mail me <a href="mailto:work@pratikb.com"><span class="bi bi-envelope-at-fill"></span></a>, or find me in [other places](./contents/contact.html).
 
-
-<!-- ***
-<a href="mailto:work@pratikb.com" style="text-decoration: none; font-family: monospace;">work@pratikb.com</a>
-Further contact details are [here](./contents/contact.html).
-*** -->
 ***
-
-<!--Below, you'll see my <a href="#education-section">academic qualifications</a>.
-A full list of academic publications, presentations, and talks is available [here](http://sites.google.com/view/pratik-bhandari/publications).
-And [here](./contents/projects/index.html), you can find the academic research projects I have undertaken.-->
 
 <u><h1 id="education-section" style="text-align: left; font-size: 22px;">Education and training</h1></u>
 
