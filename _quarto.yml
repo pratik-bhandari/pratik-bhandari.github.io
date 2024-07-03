@@ -65,8 +65,8 @@ website:
        href: contents/projects/index.qmd
      # - text: "Codes"
      #   href: contents/codes/index.qmd
-     - text: "News"
-       href: contents/news/index.qmd
+     #- text: "News"
+     #   href: contents/news/index.qmd
      - text: "Contact"
        # icon: person-lines-fill
        href: contents/contact.qmd
