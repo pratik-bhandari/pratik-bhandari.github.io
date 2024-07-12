@@ -24,8 +24,8 @@ about:
 
 🙏 Welcome! <!-- <i class="bi bi-arrow-right-circle-fill"></i> -->
 
-I'm an academician passionate about understanding human cognition --- behaviour, brain, and language ---
-focusing on topics such as bilingual language processing, spoken language comprehension, executive control, and neurodiversity.
+I'm a cognitive scientist passionate about understanding human cognition --- behaviour, brain, and language.
+I study topics such as cognitive consequences of multilingualism, language processing, executive control, and neurodiversity among others.
 
 <!-- [Here](./contents/projects/index.html) is a non-exhaustive list of my research programs,
 and [here](https://scholar.google.com/citations?user=Y0HnEQwAAAAJ&hl=en&oi=ao) you can find my publications. -->
@@ -35,7 +35,7 @@ And [here](./contents/projects/index.html), you can find the academic research p
 
 <!-- ::: -->
 
-You can e-mail me <a href="mailto:work@pratikb.com"><span class="bi bi-envelope-at-fill"></span></a>, or find me in [other places](./contents/contact.html).
+E-mail me <a href="mailto:work@pratikb.com"><span class="bi bi-envelope-at-fill"></span></a>, or find me in [other places](./contents/contact.html) 🙂 
 
 ***
 
@@ -70,7 +70,7 @@ Bachelor in Audiology & Speech-Language Pathology **|** Nov 2010 - April 2015
 ***
 While you're here, explore my literary creations, personal experiences, and scientific musings at "[Scribbles](./contents/literature/index.html)" and "[Blog](./contents/blog/index.html)".
 
-Here are my recent posts:
+These are some of my posts:
 
 <!-- 1. [13/03/2023](./contents/blog/posts/2023-03-13_nepal-iq-myth/index.html): The danger and false promise of IQ -->
     
