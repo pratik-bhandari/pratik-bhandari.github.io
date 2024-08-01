@@ -35,3 +35,12 @@ _Republished in April 2021_
 knitr::include_graphics("loktantra.jpg")
 ```
 -->
+
+<div
+<b style="text-align:center;">Signup to my newsletter for updates.</b>
+</div>
+
+<iframe
+src="https://drpratik.substack.com/embed" width="800" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">
+</iframe>
+ 

@@ -54,3 +54,14 @@ I am in pain now. The pain is getting unbearable. In despair, minutes feel like 
 
 "Congratulations! We have removed the tumor." Dr Glassman removes the drape and winks with his usual "*Cancer is canceled*."\
 I look down where my breast used to be. Sure, *'Cancer is cancelled.'*
+
+***
+
+<div
+<b style="text-align:center;">Signup to my newsletter for updates.</b>
+</div>
+
+<iframe
+src="https://drpratik.substack.com/embed" width="800" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">
+</iframe>
+ 

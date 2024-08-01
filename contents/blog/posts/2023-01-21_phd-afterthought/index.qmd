@@ -169,3 +169,13 @@ and there were food and drinks, and I was not much nervous.
 [^cliche]: I know this is a cliché. It is tough, especially when the defence date is very close. But my experience is that the more you practise, the more it helps build confidence: You'll realise more clearly what the breadth and depth of your knowledge are, and the weak points you could work on.
 
 [^kind]: Don't rely on kindness!
+
+<div
+<b style="text-align:center;">Signup to my newsletter for updates.</b>
+</div>
+
+<iframe
+src="https://drpratik.substack.com/embed" width="800" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">
+</iframe>
+ 
+ 

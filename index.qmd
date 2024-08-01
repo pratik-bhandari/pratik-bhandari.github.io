@@ -68,7 +68,9 @@ Bachelor in Audiology & Speech-Language Pathology **|** Nov 2010 - April 2015
 <!-- <p style="font-size: 20px;">Please find all publications and presentations <a href="https://sites.google.com/view/pratik-bhandari/publications">here</a></p> -->
 
 ***
-While you're here, explore my literary creations, personal experiences, and scientific musings at "[Scribbles](./contents/literature/index.html)" and "[Blog](./contents/blog/index.html)".
+While you're here, explore my writings in Substack -- [From river to the sea and back](https://drpratik.substack.com/).
+<!--literary creations, personal experiences, and scientific musings at "[Scribbles](./contents/literature/index.html)" and "[Blog](./contents/blog/index.html)".-->
+
 
 These are some of my posts:
 
@@ -88,3 +90,12 @@ These are some of my posts:
 
 ***
 <a rel="me" href="https://neuromatch.social/@pratikb"></a>
+
+<div
+<b style="text-align:center;">Signup to my newsletter for updates.</b>
+</div>
+
+<iframe
+src="https://drpratik.substack.com/embed" width="800" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">
+</iframe>
+ 

@@ -86,3 +86,12 @@ There is a trade-off in living away from home.
 In a developed country, working a white-colour job, some aspects of life are ostensibly better than back at home.
 Your priorities determine what pain you are willing to tolerate.
 Time and again, one has to revisit and reevaluate the priorities… and take off… a fresh start.
+
+<div
+<b style="text-align:center;">Signup to my newsletter for updates.</b>
+</div>
+
+<iframe
+src="https://drpratik.substack.com/embed" width="800" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">
+</iframe>
+ 

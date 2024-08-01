@@ -1,5 +1,5 @@
 ---
-title: "Identity enigma (Part 1)"
+title: "Identity enigma"
 description: |
   Primer's teletransportation paradox?
 author: Pratik Bhandari
@@ -92,4 +92,11 @@ Thoughts? [Get in touch.](../../../contact.html)
 
 ***
 
-**Wait for Part 2.**
+<div
+<b style="text-align:center;">Signup to my newsletter for updates.</b>
+</div>
+
+<iframe
+src="https://drpratik.substack.com/embed" width="800" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">
+</iframe>
+ 

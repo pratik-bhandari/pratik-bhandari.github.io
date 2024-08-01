@@ -47,3 +47,11 @@ In other words, attention is a prerequisite to processing context information an
 
 Attention is ~~all~~ you need. Not all, but something you need to start with.
 
+<div
+<b style="text-align:center;">Signup to my newsletter for updates.</b>
+</div>
+
+<iframe
+src="https://drpratik.substack.com/embed" width="800" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">
+</iframe>
+ 
