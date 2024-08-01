@@ -32,7 +32,7 @@ Or just come and say hello :)
  
  
 <div
-<b style="text-align:center;">Signup to my newsletter for updates.</b>
+<b style="text-align:center;">Subscribe to my newsletter for updates.</b>
 </div>
 
 <iframe

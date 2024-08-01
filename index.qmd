@@ -92,7 +92,7 @@ These are some of my posts:
 <a rel="me" href="https://neuromatch.social/@pratikb"></a>
 
 <div
-<b style="text-align:center;">Signup to my newsletter for updates.</b>
+<b style="text-align:center;">Subscribe to my newsletter for updates.</b>
 </div>
 
 <iframe
