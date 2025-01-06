@@ -25,7 +25,7 @@ about:
 🙏 Welcome! <!-- <i class="bi bi-arrow-right-circle-fill"></i> -->
 
 I'm a cognitive scientist passionate about understanding human cognition --- behaviour, brain, and language.
-I study topics such as cognitive consequences of multilingualism, language processing, executive control, and neurodiversity among others.
+I study topics such as cognitive consequences of multilingualism, language processing, executive control, and neurodiversity among others at the Nepal Center for Cognition and Society ([NCCS](https://github.com/nccs-nepal)) where I am Executive Director and Director of Research.
 
 <!-- [Here](./contents/projects/index.html) is a non-exhaustive list of my research programs,
 and [here](https://scholar.google.com/citations?user=Y0HnEQwAAAAJ&hl=en&oi=ao) you can find my publications. -->
