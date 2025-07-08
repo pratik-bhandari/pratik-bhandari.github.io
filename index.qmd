@@ -1,5 +1,5 @@
 ---
-title: "Dr Pratik Bhandari"
+title: "Dr. Pratik Bhandari"
 subtitle: " "
 about:
   id: top-heading

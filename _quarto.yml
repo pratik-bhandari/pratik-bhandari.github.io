@@ -47,10 +47,10 @@ website:
    left:
      - text: "Home"
        href: index.qmd
-     - text: "Scribbles"
-       href: contents/literature/index.qmd
-     - text: "Blog"
-       href: contents/blog/index.qmd
+     # - text: "Scribbles"
+     #   href: contents/literature/index.qmd
+     # - text: "Blog"
+     #   href: contents/blog/index.qmd
      # - text: " "
      #   icon: person-lines-fill
      #   href: contents/contact.qmd
