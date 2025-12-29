@@ -11,7 +11,7 @@ about:
     # - icon: bi-mastodon
     #   text: Mastodon
     #   href: "https://neuromatch.social/@pratikb"
-    - icon: journal-text
+    - icon: bookmark-dash
       text: Substack
       href: "https://drpratik.substack.com/"
     - icon: bi-linkedin

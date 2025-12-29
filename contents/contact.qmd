@@ -10,9 +10,9 @@ title: "Get in touch"
 <!-- How can I help you? -->
 <i class="bi bi-rocket-takeoff"></i> Let's discuss our potential collaboration. Or just come and say hello. \
 
-<strong> <i class="bi bi-envelope-at"></i> Email me at <a href="mailto:work.site@pratikb.com"><code>work.site@pratikb.com</code></a></strong>.
+<strong> <i class="bi bi-envelope-at"></i> You can email me at <a href="mailto:work.site@pratikb.com"><code>work.site@pratikb.com</code></a></strong>.
 
-You can also find me here:
+Or you can find me here:
 
 -   <i class="bi bi-github"></i><a rel="me" href="https://github.com/pratik-bhandari">Github</a> 
 

@@ -28,17 +28,17 @@ website:
     center:
       - text: '© Pratik Bhandari'
         href: index.qmd
-    right:
-      - icon: bi-facebook
-        href: "https://www.facebook.com/profile.php?id=61557125292306"
+    left:
+      - icon: bi-globe2
+        href: "https://nccsnepal.org"
     #right:
      # - icon: mortarboard-fill
       #  href: "https://scholar.google.com/citations?hl=de&user=Y0HnEQwAAAAJ&view_op=list_works&sortby=pubdate"
-    left:
+    right:
+      - icon: bookmark-dash
+        href: "https://drpratik.substack.com/"
       # - icon: bi-mastodon
       #   href: "https://neuromatch.social/@pratikb"
-      - icon: bi-twitter
-        href: "https://twitter.com/prbhx"
   navbar:
    background: "#a6a6a6"
    logo: about.jpg
