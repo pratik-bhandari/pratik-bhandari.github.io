@@ -83,7 +83,9 @@ website:
 format:
   html:
     toc: true
-    theme: customFontSize.scss
+    theme:
+      - litera
+      - customFontSize.scss
     # theme:
     #   light: [united, theme.scss, customFontSize.scss]
     css: styles.css
