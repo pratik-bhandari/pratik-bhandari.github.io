@@ -47,6 +47,10 @@ website:
    left:
      - text: "Home"
        href: index.qmd
+     - text: "NCCS"
+       href: https://nccs-nepal.github.io/
+     - text: "Projects"
+       href: contents/projects/index.qmd  
      # - text: "Scribbles"
      #   href: contents/literature/index.qmd
      # - text: "Blog"
@@ -54,19 +58,18 @@ website:
      # - text: " "
      #   icon: person-lines-fill
      #   href: contents/contact.qmd
-     # - text: "Scribbles"
-     #   menu:
-     #     - text: "Blog"
-     #       href: contents/blog/index.qmd
-     #     - text: "Literature"
-     #       href: contents/literature/index.qmd
+
    right:
-     - text: "Projects"
-       href: contents/projects/index.qmd
-     # - text: "Codes"
-     #   href: contents/codes/index.qmd
-     #- text: "News"
-     #   href: contents/news/index.qmd
+     - text: "Scribbles"
+       menu:
+         - text: "Blog"
+           href: contents/blog/index.qmd
+         - text: "Literature"
+           href: contents/literature/index.qmd
+     - text: "Codes"
+       href: contents/codes/index.qmd
+     - text: "News"
+       href: contents/news/index.qmd
      - text: "Contact"
        # icon: person-lines-fill
        href: contents/contact.qmd
