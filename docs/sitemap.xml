@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://pratikb.com/index.html</loc>
-    <lastmod>2026-02-21T09:28:12.032Z</lastmod>
+    <lastmod>2026-02-21T14:31:40.097Z</lastmod>
   </url>
   <url>
     <loc>https://pratikb.com/contents/codes/posts/2022-04-18-git-diff/index.html</loc>
@@ -142,7 +142,7 @@
   </url>
   <url>
     <loc>https://pratikb.com/contents/blog/index.html</loc>
-    <lastmod>2026-02-21T14:29:52.472Z</lastmod>
+    <lastmod>2026-02-22T05:25:01.144Z</lastmod>
   </url>
   <url>
     <loc>https://pratikb.com/contents/codes/posts/2022-04-16-basic-git/index.html</loc>
@@ -155,5 +155,9 @@
   <url>
     <loc>https://pratikb.com/contents/blog/posts/2023-11-22_jaggi/index.html</loc>
     <lastmod>2026-02-21T14:29:51.816Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pratikb.com/contents/blog/posts/2022-04-24_pride/index.html</loc>
+    <lastmod>2026-02-22T05:25:00.556Z</lastmod>
   </url>
 </urlset>
