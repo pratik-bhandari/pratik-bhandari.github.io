@@ -1,0 +1,43 @@
+---
+title: "जङ्गल राज"
+description: |
+  कसको जङ्गल? कसको राज?
+author: Pratik Bhandari
+date: 2026-04-06
+categories:
+  - nepali
+  - kathmandu
+  - "2026"
+---
+
+<!-- Oh, so some links brought you here. Cool.\ -->
+
+***
+
+एक जोडी काग चिरबिर चिरबिर\
+गर्न लागे\
+सधैँ केरा चोरेर खाने बाँदरले\
+आज\
+चीलको बच्चा मारेर लग्यो अरे\
+परबाट सुनिरा’को थियो \
+सिंहले\
+आदेश दियो\
+बाँदरलाई खोरमा थुन्ने\
+उता\
+दूध र पानी छुट्टयाउन बसेकी हाँस\
+डरले थुरथुर भई\
+सिंहसँग?\
+खै मैले थाहै पाइनँ\
+अजिङ्गरले उसका बचेरा लगेको\
+उसले थाहै पाइन
+
+***
+
+<div
+<b style="text-align:center;">Signup to my newsletter for updates.</b>
+</div>
+
+<iframe
+src="https://drpratik.substack.com/embed" width="800" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">
+</iframe>
+ 
