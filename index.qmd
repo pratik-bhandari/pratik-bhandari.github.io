@@ -28,15 +28,14 @@ about:
 
 **Current research**
 
-I study how the brain/mind process sound, speech, and language in typical and atypical populations.\
-Focusing on the under-represented non-WEIRD diverse communities,
-I aim to expand the scope of cognitive science in resource-constrained settings in Nepal.
+I study how the brain/mind processes sound, speech, and language in typical and atypical populations.\
+Focusing on underrepresented, non-WEIRD, diverse communities, I aim to expand the scope of cognitive science in resource-constrained settings in Nepal.
 
-> We continuously anticipate what our interlocutor is going to say next. When someone says, “Don't go out in the rain, else you will get ___”, we predict the last word is most likely “wet” . 
-(अचानोमा राखेर कसाइले मासु "काट्छ"।) \
-One of the central questions in my research is how such predictions are made and what are the resources involved.
+> We continuously anticipate what our interlocutor is going to say next. When someone says, “Don’t go out in the rain, else you will get ___,” we predict that the last word will most likely be “wet.” (अचानोमा राखेर कसाइले मासु “काट्छ”।)\
+What are the mechanisms involved in making predictions? Are predictions necessary for everyone?
 
-> Despite noise in the background, we make sense of what the other person is saying. How effortful are such sense-making processes? What are the cognitive mechanisms involved?
+<!-- One of the central questions in my research is how such predictions are made and what resources are involved. -->
+> Despite noise in the background, we make sense of what the other person is saying. How effortful are such sense-making processes? What are the cognitive resources involved?
 
 > More broadly, how does understanding the differences in these cognitive processes across typical and atypical populations help us better understand human cognition?
 
@@ -46,8 +45,8 @@ I am a Research Scientist at the Nepal Center for Cognition and Society ([NCCS](
 I serve as Adjunct Faculty at the National Academy of Medical Sciences in Kathmandu.
 I am also a clinical and research consultant at a speech therapy clinic in Kathmandu.
 
-Before returning to Nepal, I received my PhD from Saarland University, Germany (2022/23) working with [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html) and [Jutta Kray](https://www.uni-saarland.de/lehrstuhl/kray/team/jk.html) on the interaction of top-down and bottom-up processes in spoken language comprehension. Previously, I did my Masters in Cognitive Neuroscience of Language at the Basque Center on Cognition, Brain and Language ([BCBL](https://www.bcbl.eu/en)), Spain (2018) where I studied metacognition and bilingual language processing under [David Soto](https://www.bcbl.eu/en/conocenos/equipo/david-soto)'s supervision. \
-Prior to that, I got my undergraduate degree (Bachelors in Audiology and Speech-Language Pathology) from the Institute of Medicine ([IOM](https://iom.edu.np/)), Tribhuvan University (2015) in Nepal and worked in [Ramesh Kumar Mishra](https://rameshmishra.squarespace.com/)'s lab at the University of Hyderabad, India (2017).
+Before returning to Nepal, I received my PhD from Saarland University, Germany (2022/23), working with [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html) and [Jutta Kray](https://www.uni-saarland.de/lehrstuhl/kray/team/jk.html) on the interaction of top-down and bottom-up processes in spoken language comprehension. Previously, I did my Masters in Cognitive Neuroscience of Language at the Basque Center on Cognition, Brain and Language ([BCBL](https://www.bcbl.eu/en)), Spain (2018), where I studied metacognition and bilingual language processing under [David Soto](https://www.bcbl.eu/en/conocenos/equipo/david-soto)'s supervision. \
+Prior to that, I got my undergraduate degree (Bachelors in Audiology and Speech-Language Pathology) from the Institute of Medicine ([IOM](https://iom.edu.np/)), Tribhuvan University (2015) in Nepal, and worked in [Ramesh Kumar Mishra](https://rameshmishra.squarespace.com/)'s lab at the University of Hyderabad in India (2017).
 
 
 <!-- [Here](./contents/projects/index.html) is a non-exhaustive list of my research programs,
