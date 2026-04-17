@@ -3,7 +3,7 @@ title: "Dr. Pratik Bhandari"
 subtitle: " "
 about:
   id: top-heading
-  template: trestles
+  template: marquee 
   image: pratik.png #me33.jpg
   image-width: 18em
   image-shape: round
@@ -11,25 +11,44 @@ about:
     # - icon: bi-mastodon
     #   text: Mastodon
     #   href: "https://neuromatch.social/@pratikb"
-    - icon: bookmark-dash
-      text: Substack
-      href: "https://drpratik.substack.com/"
-    - icon: bi-linkedin
-      text: LinkedIn
-      href: "https://www.linkedin.com/in/prbhx/"
+    # - icon: bookmark-dash
+    #   text: Substack
+    #   href: "https://drpratik.substack.com/"
+    # - icon: bi-linkedin
+    #   text: LinkedIn
+    #   href: "https://www.linkedin.com/in/prbhx/"
     - icon: bi-mortarboard-fill
       text: G Scholar
       href: "https://scholar.google.com/citations?hl=de&user=Y0HnEQwAAAAJ&view_op=list_works&sortby=pubdate"
 ---
-
 <!-- :::{#intro} -->
 
-**Cognitive scientist trained in psycholinguistics and cognitive neuroscience.**
+<!-- **Cognitive scientist** -->
+<!-- &nbsp;&nbsp; -->
 
-I study how the brain and mind process speech, sound, and language, with a focus on multilingualism, executive control, hearing loss, misophonia, and developmental disorders such as autism.\
+**Current research**
 
-I am a Research Scientist at the Nepal Center for Cognition and Society ([NCCS](https://nccsnepal.org/)). My work includes cross-cultural cognition research in low-resource settings in Nepal.
-I also serve as Adjunct Faculty at the National Academy of Medical Sciences in Kathmandu.
+I study how the brain/mind process sound, speech, and language in typical and atypical populations.\
+Focusing on the under-represented non-WEIRD diverse communities,
+I aim to expand the scope of cognitive science in resource-constrained settings in Nepal.
+
+> We continuously anticipate what our interlocutor is going to say next. When someone says, “Don't go out in the rain, else you will get ___”, we predict the last word is most likely “wet” . 
+(अचानोमा राखेर कसाइले मासु "काट्छ"।) \
+One of the central questions in my research is how such predictions are made and what are the resources involved.
+
+> Despite noise in the background, we make sense of what the other person is saying. How effortful are such sense-making processes? What are the cognitive mechanisms involved?
+
+> More broadly, how does understanding the differences in these cognitive processes across typical and atypical populations help us better understand human cognition?
+
+**Trajectory of my research and education**
+
+I am a Research Scientist at the Nepal Center for Cognition and Society ([NCCS](https://nccsnepal.org/)). My work involves cross-cultural cognition research in low-resource settings in Nepal.
+I serve as Adjunct Faculty at the National Academy of Medical Sciences in Kathmandu.
+I am also a clinical and research consultant at a speech therapy clinic in Kathmandu.
+
+Before returning to Nepal, I received my PhD from Saarland University, Germany (2022/23) working with [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html) and [Jutta Kray](https://www.uni-saarland.de/lehrstuhl/kray/team/jk.html) on the interaction of top-down and bottom-up processes in spoken language comprehension. Previously, I did my Masters in Cognitive Neuroscience of Language at the Basque Center on Cognition, Brain and Language ([BCBL](https://www.bcbl.eu/en)), Spain (2018) where I studied metacognition and bilingual language processing under [David Soto](https://www.bcbl.eu/en/conocenos/equipo/david-soto)'s supervision. \
+Prior to that, I got my undergraduate degree (Bachelors in Audiology and Speech-Language Pathology) from the Institute of Medicine ([IOM](https://iom.edu.np/)), Tribhuvan University (2015) in Nepal and worked in [Ramesh Kumar Mishra](https://rameshmishra.squarespace.com/)'s lab at the University of Hyderabad, India (2017).
+
 
 <!-- [Here](./contents/projects/index.html) is a non-exhaustive list of my research programs,
 and [here](https://scholar.google.com/citations?user=Y0HnEQwAAAAJ&hl=en&oi=ao) you can find my publications. -->
