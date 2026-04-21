@@ -1,0 +1,44 @@
+---
+title: "नयाँ सरकार"
+# description: |
+#  कसको जङ्गल? कसको राज?
+author: Pratik Bhandari
+date: 2026-04-21
+draft: false
+categories:
+  - nepali
+  - gajal
+  - kathmandu
+  - "2026"
+---
+
+<!-- Oh, so some links brought you here. Cool.\ -->
+
+***
+
+शहरमा नयाँ सरकार बनेको छ अचेल\
+तल नाकाबन्दी लागेको छ अचेल\
+
+ऊ भन्थ्यो अब काठमाण्डू जानु पर्दैन\
+मधेसको सास रोकेको छ अचेल\
+
+हदबन्दी जग्गा सगोलको हो, ए झोले! \
+छाप्रोले देश लुटेको छ अचेल\
+
+के बोल्दैमा कोहि जेल जान्न अब? \
+तित्राको आवाज थुनेको छ अचेल! \
+
+मेहेनतका 'प्रतीक' उनी, छैन बोल्न फुर्सद\
+फुर्सिदलो वैज्ञानिकले बोलेको छ अचेल
+
+
+***
+
+<div
+<b style="text-align:center;">Signup to my newsletter for updates.</b>
+</div>
+
+<iframe
+src="https://drpratik.substack.com/embed" width="800" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">
+</iframe>
+ 
