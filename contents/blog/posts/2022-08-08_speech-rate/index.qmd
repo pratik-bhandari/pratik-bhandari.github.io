@@ -105,11 +105,3 @@ Lerner, Y., Honey, C. J., Katkov, M., & Hasson, U. (2014). Temporal scaling of n
 
 Strauß, A., Kotz, S. A., & Obleser, J. (2013). Narrowed expectancies under degraded speech: Revisiting the N400. *Journal of Cognitive Neuroscience, 25*(8), 1383–1395. https://doi.org/10.1162/jocn_a_00389
 
-<div
-<b style="text-align:center;">Signup to my newsletter for updates.</b>
-</div>
-
-<iframe
-src="https://drpratik.substack.com/embed" width="800" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">
-</iframe>
- 

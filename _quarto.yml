@@ -66,10 +66,10 @@ website:
            href: contents/blog/index.qmd
          - text: "Literature"
            href: contents/literature/index.qmd
-     - text: "Codes"
-       href: contents/codes/index.qmd
-     - text: "News"
-       href: contents/news/index.qmd
+#     - text: "Codes"
+#       href: contents/codes/index.qmd
+#     - text: "News"
+#       href: contents/news/index.qmd
      - text: "Contact"
        # icon: person-lines-fill
        href: contents/contact.qmd
